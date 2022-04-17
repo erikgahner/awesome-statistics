@@ -28,6 +28,17 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+# Statistical tests
+
+## Hypothesis testing
+
+```{r generateTableHypothesis, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "hypothesis") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 # Statistical software
 
 ## R
@@ -35,6 +46,15 @@ df |>
 ```{r generateTableR, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "R") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Funny
+
+```{r generateTableFunny, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "funny") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
