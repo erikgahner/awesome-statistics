@@ -12,6 +12,18 @@
 
 * [Misinterpretations of Significance: A Problem Students Share with Their Teachers?](https://www.metheval.uni-jena.de/lehre/0405-ws/evaluationuebung/haller.pdf) 
 
+# Data visualisation
+
+
+* [Plots that Changed the World](https://ifweassume.blogspot.com/2012/07/plots-that-changed-world.html) 
+* [The statisticians at Fox News use classic and novel graphical techniques to lead with data](https://web.archive.org/web/20121225235950/https://simplystatistics.org/2012/11/26/the-statisticians-at-fox-news-use-classic-and-novel-graphical-techniques-to-lead-with-data/) 
+* [The top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/) 
+
+# Data journalism
+
+
+* [What data can and cannot do](https://blog.okfn.org/2012/06/04/what-data-can-and-cannot-do/) 
+
 # Statistical software
 
 ## R
@@ -20,8 +32,8 @@
 * [Learning R for Researchers in Psychology](http://jeromyanglim.blogspot.com/2009/06/learning-r-for-researchers-in.html) 
 * [R-Uni (A List of 100 Free R Tutorials and Resources in University webpages)](https://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/) 
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) 
-* [Building a presentation, report or paper in R](https://web.archive.org/web/20130721144537/http://www.investuotojas.eu/2012/08/01/building-a-presentation-report-or-paper-in-r/) 
 * [A collection of datasets originally distributed in various R packages](https://vincentarelbundock.github.io/Rdatasets/) 
+* [Getting Started with Charts in R](https://flowingdata.com/2012/12/17/getting-started-with-charts-in-r/) 
 
 # Funny
 
