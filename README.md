@@ -21,10 +21,11 @@
 * [The top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/) 
 * [Data visualization: a reading list](https://erikgahner.dk/2020/data-visualization-a-reading-list/) 
 
-# Data journalism
+# Data
 
 
 * [What data can and cannot do](https://blog.okfn.org/2012/06/04/what-data-can-and-cannot-do/) 
+* [Beware the Big Errors of 'Big Data'](https://www.wired.com/2013/02/big-data-means-big-errors-people/) 
 
 # Statistical software
 

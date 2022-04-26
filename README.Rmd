@@ -49,11 +49,11 @@ df |>
 ```
 
 
-# Data journalism
+# Data
 
-```{r generateTableJournalism, echo=FALSE, message=FALSE, warning=FALSE}
+```{r generateTableData, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
-  filter(category == "journalism") |> 
+  filter(category == "data") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
