@@ -39,8 +39,15 @@
 * [Getting Started with Charts in R](https://flowingdata.com/2012/12/17/getting-started-with-charts-in-r/) 
 * [A Guide to Getting International Statistics into R](https://erikgahner.dk/2019/a-guide-to-getting-international-statistics-into-r/) 
 
+## Stata
+
+
+* [Stata Tutorial](https://data.princeton.edu/stata/) 
+* [Tips for using Stata](https://www.techtips.surveydesign.com.au/blog/categories/stata) 
+
 # Funny
 
 
 * [Convincing](https://xkcd.com/833/) 
 * [A First Lesson in Econometrics](https://www.uibk.ac.at/econometrics/lit/siegfried_jpe_70.pdf) 
+* [Still Not Significant](https://mchankins.wordpress.com/2013/04/21/still-not-significant-2/) 
