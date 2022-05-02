@@ -18,12 +18,24 @@ df <- df_raw |>
 
 ```
 
+The repository consists of a dataset with curated links to material dealing with statistics and data. There is a total of `r NROW(df_raw[df_raw$dead == 0,])` active links in the dataset. The `r NROW(df_raw[df_raw$awesome == 1 & df_raw$dead == 0,])` awesome/recommended links in the dataset are listed below. Feel free to add additional links to the dataset.
+
 # Books
 
 ```{r generateTableBooks, echo=FALSE, message=FALSE, warning=FALSE}
 
 df |> 
   filter(category == "books") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# General
+
+```{r generateTableGeneral, echo=FALSE, message=FALSE, warning=FALSE}
+
+df |> 
+  filter(category == "general") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
@@ -54,6 +66,15 @@ df |>
 ```{r generateTableData, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "data") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Sample size
+
+```{r generateTableSamplesize, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "samplesize") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
