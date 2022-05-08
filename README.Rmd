@@ -40,13 +40,22 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Statistical tests
+# Analysis
 
 ## Hypothesis testing
 
 ```{r generateTableHypothesis, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "hypothesis") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Spatial
+
+```{r generateTableSpatial, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "spatial") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
@@ -63,9 +72,20 @@ df |>
 
 # Data
 
+## General
+
 ```{r generateTableData, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "data") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Missing data
+
+```{r generateTableMissingData, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "missingdata") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
@@ -75,6 +95,15 @@ df |>
 ```{r generateTableSamplesize, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "samplesize") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Datasets
+
+```{r generateTableDatasets, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "dataset") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
@@ -99,6 +128,15 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+
+# Replication, open science and reproducibility
+
+```{r generateTableReplication, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "replication") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
 
 # Funny
 
