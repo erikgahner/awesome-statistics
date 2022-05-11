@@ -40,6 +40,15 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+# Distributions
+
+```{r generateTableDistribution, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "distribution") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 # Analysis
 
 ## Hypothesis testing
@@ -56,6 +65,15 @@ df |>
 ```{r generateTableSpatial, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "spatial") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Regression
+
+```{r generateTableRegression, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "regression") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
@@ -109,6 +127,16 @@ df |>
 ```
 
 # Statistical software
+
+## General
+
+```{r generateTableSoftware, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "software") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 
 ## R
 

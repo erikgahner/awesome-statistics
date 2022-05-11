@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 101 active links
-in the dataset. The 44 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 135 active links
+in the dataset. The 54 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -15,6 +15,11 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Transformations: an introduction](http://fmwww.bc.edu/repec/bocode/t/transint.html) 
 * [Seven deadly sins of contemporary quantitative political analysis](https://doi.org/10.1177/0022343313499597) 
+
+# Distributions
+
+
+* [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/) 
 
 # Analysis
 
@@ -32,6 +37,11 @@ listed below. Feel free to add additional links to the dataset.
 
 * [The trouble with viral maps. Plus: Some fun viral maps!](http://www.slate.com/articles/arts/culturebox/2014/04/viral_maps_the_problem_with_all_those_fun_maps_of_the_u_s_plus_some_fun.html) 
 
+## Regression
+
+
+* [Six quick tips to improve your regression modeling](https://statmodeling.stat.columbia.edu/2015/01/29/six-quick-tips-improve-regression-modeling/) 
+
 # Data visualisation
 
 
@@ -41,6 +51,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Data visualization: a reading list](https://erikgahner.dk/2020/data-visualization-a-reading-list/) 
 * [Data Visualization in Sociology](https://kieranhealy.org/files/papers/data-visualization.pdf) 
 * [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209) 
+* [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128) 
+* [Explained Visually](https://setosa.io/ev/) 
 
 # Data
 
@@ -68,8 +80,14 @@ listed below. Feel free to add additional links to the dataset.
 
 * [PolData: A dataset with political datasets](https://github.com/erikgahner/PolData) 
 * [English and European soccer results 1871-2020](https://github.com/jalapic/engsoccerdata) 
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
 
 # Statistical software
+
+## General
+
+
+* [Software development skills for data scientists](https://treycausey.com/software_dev_skills.html) 
 
 ## R
 
@@ -94,6 +112,9 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [It's Too Hard to Publish Criticisms and Obtain Data for Replication](http://www.stat.columbia.edu/~gelman/research/published/ChanceEthics8.pdf) 
+* [Reproducing Statistical Results](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-010814-020127) 
+* [Sluggish data sharing hampers reproducibility effort](https://www.nature.com/articles/nature.2015.17694) 
+* [Self Evaluation for Reproducible Science](https://github.com/BIDS/reproducibility-wg/blob/master/self_eval/self-eval.md) 
 
 # Funny
 
@@ -104,3 +125,4 @@ listed below. Feel free to add additional links to the dataset.
 * [New Poll Shows Correlation is Causation](http://obereed.net/hh/correlation.html) 
 * [Spurious correlations](http://www.tylervigen.com/spurious-correlations) 
 * [The Most Comprehensive Review of Comic Books Teaching Statistics](https://www.sumsar.net/blog/2014/06/statistics-comic-book-review/) 
+* [Bayesian survival analysis for Game of Thrones](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html) 
