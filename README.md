@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 135 active links
-in the dataset. The 54 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 153 active links
+in the dataset. The 60 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -31,6 +31,8 @@ listed below. Feel free to add additional links to the dataset.
 * [The New Statistics: Why and How](https://doi.org/10.1177/0956797613504966) 
 * [Statistical significance and its part in science downfalls](https://blogs.scientificamerican.com/absolutely-maybe/statistical-significance-and-its-part-in-science-downfalls/) 
 * [Common Misconceptions about Data Analysis and Statistics](https://jpet.aspetjournals.org/content/jpet/351/1/200.full.pdf) 
+* [Understanding Statistical Power and Significance Testing](https://rpsychologist.com/d3/nhst/) 
+* [Multiple Hypothesis Testing](https://multithreaded.stitchfix.com/blog/2015/10/15/multiple-hypothesis-testing/) 
 
 ## Spatial
 
@@ -53,6 +55,7 @@ listed below. Feel free to add additional links to the dataset.
 * [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209) 
 * [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128) 
 * [Explained Visually](https://setosa.io/ev/) 
+* [Real Chart Rules to Follow](https://flowingdata.com/2015/08/11/real-chart-rules-to-follow/) 
 
 # Data
 
@@ -99,6 +102,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Getting Started with Charts in R](https://flowingdata.com/2012/12/17/getting-started-with-charts-in-r/) 
 * [A Guide to Getting International Statistics into R](https://erikgahner.dk/2019/a-guide-to-getting-international-statistics-into-r/) 
 * [Data wrangling, exploration, and analysis with R](https://stat545.com/) 
+* [Tufte in R](http://motioninsocial.com/tufte/) 
 
 ## Stata
 
@@ -115,6 +119,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Reproducing Statistical Results](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-010814-020127) 
 * [Sluggish data sharing hampers reproducibility effort](https://www.nature.com/articles/nature.2015.17694) 
 * [Self Evaluation for Reproducible Science](https://github.com/BIDS/reproducibility-wg/blob/master/self_eval/self-eval.md) 
+* [Science Isn't Broken: It's just a hell of a lot harder than we give it credit for](https://fivethirtyeight.com/features/science-isnt-broken/) 
 
 # Funny
 
@@ -126,3 +131,4 @@ listed below. Feel free to add additional links to the dataset.
 * [Spurious correlations](http://www.tylervigen.com/spurious-correlations) 
 * [The Most Comprehensive Review of Comic Books Teaching Statistics](https://www.sumsar.net/blog/2014/06/statistics-comic-book-review/) 
 * [Bayesian survival analysis for Game of Thrones](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html) 
+* [What Does Probability Mean in Your Profession?](https://mathwithbaddrawings.com/2015/09/23/what-does-probability-mean-in-your-profession/) 
