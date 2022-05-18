@@ -78,6 +78,15 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## Bayesian
+
+```{r generateTableBayesian, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "Bayesian") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 # Data visualisation
 
 ```{r generateTableViz, echo=FALSE, message=FALSE, warning=FALSE}
@@ -143,6 +152,15 @@ df |>
 ```{r generateTableR, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "R") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Python
+
+```{r generateTablePython, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "Python") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```

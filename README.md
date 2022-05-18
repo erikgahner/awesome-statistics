@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 153 active links
-in the dataset. The 60 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 166 active links
+in the dataset. The 65 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -44,6 +44,13 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Six quick tips to improve your regression modeling](https://statmodeling.stat.columbia.edu/2015/01/29/six-quick-tips-improve-regression-modeling/) 
 
+## Bayesian
+
+
+* [Bayesian Inference: an interactive visualization](https://rpsychologist.com/d3/bayes/) 
+* [Understanding Bayes: Evidence vs. Conclusions](https://alexanderetz.com/2015/11/01/evidence-vs-conclusions/) 
+* [A Bayesian Model to Calculate Whether My Wife is Pregnant or Not](https://www.sumsar.net/blog/2015/11/a-bayesian-model-to-calculate-whether-my-wife-is-pregnant/) 
+
 # Data visualisation
 
 
@@ -66,6 +73,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Beware the Big Errors of 'Big Data'](https://www.wired.com/2013/02/big-data-means-big-errors-people/) 
 * [A short list of online articles and references on data journalism](http://www.smalldatajournalism.com/readings/) 
 * [How to share data with a statistician](https://github.com/jtleek/datasharing) 
+* [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) 
 
 ## Missing data
 
@@ -103,6 +111,11 @@ listed below. Feel free to add additional links to the dataset.
 * [A Guide to Getting International Statistics into R](https://erikgahner.dk/2019/a-guide-to-getting-international-statistics-into-r/) 
 * [Data wrangling, exploration, and analysis with R](https://stat545.com/) 
 * [Tufte in R](http://motioninsocial.com/tufte/) 
+
+## Python
+
+
+* [A Byte of Python](https://python.swaroopch.com/) 
 
 ## Stata
 
