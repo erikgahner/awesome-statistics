@@ -87,6 +87,24 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## Meta-analysis
+
+```{r generateTableMetaanalysis, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "metaanalysis") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Experiments
+
+```{r generateTableExperiments, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "experiments") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 # Data visualisation
 
 ```{r generateTableViz, echo=FALSE, message=FALSE, warning=FALSE}
@@ -146,7 +164,6 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-
 ## R
 
 ```{r generateTableR, echo=FALSE, message=FALSE, warning=FALSE}
@@ -180,6 +197,15 @@ df |>
 ```{r generateTableReplication, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "replication") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# Teaching
+
+```{r generateTableTeaching, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "teaching") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```

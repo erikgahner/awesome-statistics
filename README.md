@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 166 active links
-in the dataset. The 65 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 187 active links
+in the dataset. The 73 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -43,6 +43,7 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [Six quick tips to improve your regression modeling](https://statmodeling.stat.columbia.edu/2015/01/29/six-quick-tips-improve-regression-modeling/) 
+* [How to create confounders with regression: a lesson from causal inference](http://anythingbutrbitrary.blogspot.com/2016/01/how-to-create-confounders-with.html) 
 
 ## Bayesian
 
@@ -50,6 +51,16 @@ listed below. Feel free to add additional links to the dataset.
 * [Bayesian Inference: an interactive visualization](https://rpsychologist.com/d3/bayes/) 
 * [Understanding Bayes: Evidence vs. Conclusions](https://alexanderetz.com/2015/11/01/evidence-vs-conclusions/) 
 * [A Bayesian Model to Calculate Whether My Wife is Pregnant or Not](https://www.sumsar.net/blog/2015/11/a-bayesian-model-to-calculate-whether-my-wife-is-pregnant/) 
+
+## Meta-analysis
+
+
+* [Meta-analyses are no substitute for registered replications: a skeptical perspective on religious priming](https://doi.org/10.3389/fpsyg.2015.01365) 
+
+## Experiments
+
+
+* [Survey Experiments in Practice](https://thomasleeper.com/surveyexpcourse/) 
 
 # Data visualisation
 
@@ -99,6 +110,7 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [Software development skills for data scientists](https://treycausey.com/software_dev_skills.html) 
+* [Ten Simple Rules for Effective Statistical Practice](https://doi.org/10.1371/journal.pcbi.1004961) 
 
 ## R
 
@@ -111,6 +123,7 @@ listed below. Feel free to add additional links to the dataset.
 * [A Guide to Getting International Statistics into R](https://erikgahner.dk/2019/a-guide-to-getting-international-statistics-into-r/) 
 * [Data wrangling, exploration, and analysis with R](https://stat545.com/) 
 * [Tufte in R](http://motioninsocial.com/tufte/) 
+* [RWeekly.org: Blogs to Learn R from the Community](https://rweekly.org/) 
 
 ## Python
 
@@ -133,6 +146,12 @@ listed below. Feel free to add additional links to the dataset.
 * [Sluggish data sharing hampers reproducibility effort](https://www.nature.com/articles/nature.2015.17694) 
 * [Self Evaluation for Reproducible Science](https://github.com/BIDS/reproducibility-wg/blob/master/self_eval/self-eval.md) 
 * [Science Isn't Broken: It's just a hell of a lot harder than we give it credit for](https://fivethirtyeight.com/features/science-isnt-broken/) 
+
+# Teaching
+
+
+* [Guess the Correlation](http://guessthecorrelation.com/) 
+* [DrawMyData: a tool for teaching stats and data science](http://robertgrantstats.co.uk/drawmydata.html) 
 
 # Funny
 
