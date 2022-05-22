@@ -60,6 +60,15 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## Correlation
+
+```{r generateTableCorrelation, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "correlation") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 ## Spatial
 
 ```{r generateTableSpatial, echo=FALSE, message=FALSE, warning=FALSE}
@@ -206,6 +215,15 @@ df |>
 ```{r generateTableTeaching, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "teaching") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+# History
+
+```{r generateTableHistory, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "history") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```

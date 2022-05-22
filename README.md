@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 187 active links
-in the dataset. The 73 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 202 active links
+in the dataset. The 76 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -33,6 +33,12 @@ listed below. Feel free to add additional links to the dataset.
 * [Common Misconceptions about Data Analysis and Statistics](https://jpet.aspetjournals.org/content/jpet/351/1/200.full.pdf) 
 * [Understanding Statistical Power and Significance Testing](https://rpsychologist.com/d3/nhst/) 
 * [Multiple Hypothesis Testing](https://multithreaded.stitchfix.com/blog/2015/10/15/multiple-hypothesis-testing/) 
+
+## Correlation
+
+
+* [Guess the Correlation](http://guessthecorrelation.com/) 
+* [What data patterns can lie behind a correlation coefficient?](https://janhove.github.io/teaching/2016/11/21/what-correlations-look-like) 
 
 ## Spatial
 
@@ -124,6 +130,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Data wrangling, exploration, and analysis with R](https://stat545.com/) 
 * [Tufte in R](http://motioninsocial.com/tufte/) 
 * [RWeekly.org: Blogs to Learn R from the Community](https://rweekly.org/) 
+* [Efficient R programming](https://csgillespie.github.io/efficientR/) 
 
 ## Python
 
@@ -150,8 +157,12 @@ listed below. Feel free to add additional links to the dataset.
 # Teaching
 
 
-* [Guess the Correlation](http://guessthecorrelation.com/) 
 * [DrawMyData: a tool for teaching stats and data science](http://robertgrantstats.co.uk/drawmydata.html) 
+
+# History
+
+
+* [Why the Father of Modern Statistics Didn't Believe Smoking Caused Cancer](https://priceonomics.com/why-the-father-of-modern-statistics-didnt-believe/) 
 
 # Funny
 
