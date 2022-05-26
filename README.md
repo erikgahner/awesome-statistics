@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 202 active links
-in the dataset. The 76 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 240 active links
+in the dataset. The 81 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -15,6 +15,7 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Transformations: an introduction](http://fmwww.bc.edu/repec/bocode/t/transint.html) 
 * [Seven deadly sins of contemporary quantitative political analysis](https://doi.org/10.1177/0022343313499597) 
+* [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet) 
 
 # Distributions
 
@@ -80,6 +81,9 @@ listed below. Feel free to add additional links to the dataset.
 * [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128) 
 * [Explained Visually](https://setosa.io/ev/) 
 * [Real Chart Rules to Follow](https://flowingdata.com/2015/08/11/real-chart-rules-to-follow/) 
+* [Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/) 
+* [How Histograms Work](https://flowingdata.com/2017/06/07/how-histograms-work/) 
+* [What's so hard about histograms?](https://tinlizzie.org/histograms/) 
 
 # Data
 
@@ -131,6 +135,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Tufte in R](http://motioninsocial.com/tufte/) 
 * [RWeekly.org: Blogs to Learn R from the Community](https://rweekly.org/) 
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) 
+* [Happy Git and GitHub for the useR](https://happygitwithr.com/) 
 
 ## Python
 
