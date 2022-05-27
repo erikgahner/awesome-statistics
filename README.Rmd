@@ -105,6 +105,16 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## Hierarchical modeling
+
+```{r generateTableMultilevel, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "multilevel") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+
 ## Experiments
 
 ```{r generateTableExperiments, echo=FALSE, message=FALSE, warning=FALSE}

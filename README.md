@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 240 active links
-in the dataset. The 81 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 257 active links
+in the dataset. The 86 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -64,6 +64,11 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Meta-analyses are no substitute for registered replications: a skeptical perspective on religious priming](https://doi.org/10.3389/fpsyg.2015.01365) 
 
+## Hierarchical modeling
+
+
+* [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) 
+
 ## Experiments
 
 
@@ -84,6 +89,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/) 
 * [How Histograms Work](https://flowingdata.com/2017/06/07/how-histograms-work/) 
 * [What's so hard about histograms?](https://tinlizzie.org/histograms/) 
+* [Data Viz Project](https://datavizproject.com/) 
 
 # Data
 
@@ -100,6 +106,7 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [Listwise Deletion: It's NOT Evil](https://statisticalhorizons.com/listwise-deletion-its-not-evil/) 
+* [Using causal graphs to understand missingness and how to deal with it](http://jakewestfall.org/blog/index.php/2017/08/22/using-causal-graphs-to-understand-missingness-and-how-to-deal-with-it/) 
 
 ## Sample size
 
@@ -136,11 +143,13 @@ listed below. Feel free to add additional links to the dataset.
 * [RWeekly.org: Blogs to Learn R from the Community](https://rweekly.org/) 
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) 
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/) 
+* [Data Visualization: A practical introduction](https://socviz.co/) 
 
 ## Python
 
 
 * [A Byte of Python](https://python.swaroopch.com/) 
+* [The Python Graph Gallery](https://www.python-graph-gallery.com/) 
 
 ## Stata
 
