@@ -1,14 +1,15 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 257 active links
-in the dataset. The 86 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 272 active links
+in the dataset. The 94 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
 
 
 * [Statistics Done Wrong: The woefully complete guide](https://www.statisticsdonewrong.com/) 
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) 
 
 # General
 
@@ -34,6 +35,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Common Misconceptions about Data Analysis and Statistics](https://jpet.aspetjournals.org/content/jpet/351/1/200.full.pdf) 
 * [Understanding Statistical Power and Significance Testing](https://rpsychologist.com/d3/nhst/) 
 * [Multiple Hypothesis Testing](https://multithreaded.stitchfix.com/blog/2015/10/15/multiple-hypothesis-testing/) 
+* [Understanding common misconceptions about p-values](http://daniellakens.blogspot.com/2017/12/understanding-common-misconceptions.html) 
 
 ## Correlation
 
@@ -51,6 +53,7 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Six quick tips to improve your regression modeling](https://statmodeling.stat.columbia.edu/2015/01/29/six-quick-tips-improve-regression-modeling/) 
 * [How to create confounders with regression: a lesson from causal inference](http://anythingbutrbitrary.blogspot.com/2016/01/how-to-create-confounders-with.html) 
+* [Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data](https://doi.org/10.1177%2F2515245917745629) 
 
 ## Bayesian
 
@@ -68,6 +71,12 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) 
+
+## Machine learning
+
+
+* [Data science terminology](https://ubc-mds.github.io/resources_pages/terminology/) 
+* [Webcast: Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) 
 
 ## Experiments
 
@@ -101,12 +110,14 @@ listed below. Feel free to add additional links to the dataset.
 * [A short list of online articles and references on data journalism](http://www.smalldatajournalism.com/readings/) 
 * [How to share data with a statistician](https://github.com/jtleek/datasharing) 
 * [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) 
+* [Data Organization in Spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) 
 
 ## Missing data
 
 
 * [Listwise Deletion: It's NOT Evil](https://statisticalhorizons.com/listwise-deletion-its-not-evil/) 
 * [Using causal graphs to understand missingness and how to deal with it](http://jakewestfall.org/blog/index.php/2017/08/22/using-causal-graphs-to-understand-missingness-and-how-to-deal-with-it/) 
+* [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/) 
 
 ## Sample size
 
