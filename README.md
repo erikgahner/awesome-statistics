@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 272 active links
-in the dataset. The 94 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 299 active links
+in the dataset. The 102 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -16,6 +16,12 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Transformations: an introduction](http://fmwww.bc.edu/repec/bocode/t/transint.html) 
 * [Seven deadly sins of contemporary quantitative political analysis](https://doi.org/10.1177/0022343313499597) 
+
+# Probability and uncertainty
+
+
+* [What Does Probability Mean in Your Profession?](https://mathwithbaddrawings.com/2015/09/23/what-does-probability-mean-in-your-profession/) 
+* [Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/) 
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet) 
 
 # Distributions
@@ -47,6 +53,7 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [The trouble with viral maps. Plus: Some fun viral maps!](http://www.slate.com/articles/arts/culturebox/2014/04/viral_maps_the_problem_with_all_those_fun_maps_of_the_u_s_plus_some_fun.html) 
+* [What to consider when creating choropleth maps](https://blog.datawrapper.de/choroplethmaps/) 
 
 ## Regression
 
@@ -77,6 +84,8 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Data science terminology](https://ubc-mds.github.io/resources_pages/terminology/) 
 * [Webcast: Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) 
+* [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus](https://www.inference.vc/untitled/) 
+* [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
 
 ## Experiments
 
@@ -95,10 +104,12 @@ listed below. Feel free to add additional links to the dataset.
 * [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128) 
 * [Explained Visually](https://setosa.io/ev/) 
 * [Real Chart Rules to Follow](https://flowingdata.com/2015/08/11/real-chart-rules-to-follow/) 
-* [Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/) 
 * [How Histograms Work](https://flowingdata.com/2017/06/07/how-histograms-work/) 
 * [What's so hard about histograms?](https://tinlizzie.org/histograms/) 
 * [Data Viz Project](https://datavizproject.com/) 
+* [Visualizing Outliers](https://flowingdata.com/2018/03/07/visualizing-outliers/) 
+* [Why not to use two axes, and what to use instead](https://blog.datawrapper.de/dualaxis/) 
+* [From Data to Viz](https://www.data-to-viz.com/) 
 
 # Data
 
@@ -111,6 +122,7 @@ listed below. Feel free to add additional links to the dataset.
 * [How to share data with a statistician](https://github.com/jtleek/datasharing) 
 * [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) 
 * [Data Organization in Spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) 
+* [Data: Sharing Is Caring](https://doi.org/10.1177/2515245918758319) 
 
 ## Missing data
 
@@ -199,4 +211,4 @@ listed below. Feel free to add additional links to the dataset.
 * [Spurious correlations](http://www.tylervigen.com/spurious-correlations) 
 * [The Most Comprehensive Review of Comic Books Teaching Statistics](https://www.sumsar.net/blog/2014/06/statistics-comic-book-review/) 
 * [Bayesian survival analysis for Game of Thrones](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html) 
-* [What Does Probability Mean in Your Profession?](https://mathwithbaddrawings.com/2015/09/23/what-does-probability-mean-in-your-profession/) 
+* [Clickbait-Corrected p-Value](https://xkcd.com/2001/) 

@@ -40,6 +40,16 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+# Probability and uncertainty
+
+```{r generateTableProbability, echo=FALSE, message=FALSE, warning=FALSE}
+
+df |> 
+  filter(category == "probability") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 # Distributions
 
 ```{r generateTableDistribution, echo=FALSE, message=FALSE, warning=FALSE}
