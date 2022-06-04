@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 299 active links
-in the dataset. The 102 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 333 active links
+in the dataset. The 105 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -167,6 +167,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) 
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/) 
 * [Data Visualization: A practical introduction](https://socviz.co/) 
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) 
+* [Introduction to Econometrics with R](https://www.econometrics-with-r.org/) 
 
 ## Python
 
@@ -181,6 +183,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Tips for using Stata](https://www.techtips.surveydesign.com.au/blog/categories/stata) 
 * [Dictionary: Stata to R](https://github.com/EconometricsBySimulation/RStata/wiki/Dictionary:-Stata-to-R) 
 * [List of resources for the Stata commands 'margins' and 'marginsplot'](http://economicspsychologypolicy.blogspot.com/2014/09/list-of-resources-for-stata-commands.html) 
+* [Uncluttered Stata Graphs](https://gray.kimbrough.info/uncluttered-stata-graphs/) 
 
 # Replication, open science and reproducibility
 
