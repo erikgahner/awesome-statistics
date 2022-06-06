@@ -23,7 +23,6 @@ The repository consists of a dataset with curated links to material dealing with
 # Books
 
 ```{r generateTableBooks, echo=FALSE, message=FALSE, warning=FALSE}
-
 df |> 
   filter(category == "books") |> 
   pull(title) |> 
@@ -33,28 +32,44 @@ df |>
 # General
 
 ```{r generateTableGeneral, echo=FALSE, message=FALSE, warning=FALSE}
-
 df |> 
   filter(category == "general") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Probability and uncertainty
+## Probability and uncertainty
 
 ```{r generateTableProbability, echo=FALSE, message=FALSE, warning=FALSE}
-
 df |> 
   filter(category == "probability") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
-# Distributions
+## Distributions
 
 ```{r generateTableDistribution, echo=FALSE, message=FALSE, warning=FALSE}
 df |> 
   filter(category == "distribution") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Causality
+
+```{r generateTableCausality, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "causality") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
+## Ethics and Fairness
+
+```{r generateTableEthics, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "ethics") |> 
   pull(title) |> 
   pander::pandoc.list(add.end.of.list = FALSE)
 ```

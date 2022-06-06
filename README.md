@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 333 active links
-in the dataset. The 105 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 361 active links
+in the dataset. The 110 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -17,17 +17,27 @@ listed below. Feel free to add additional links to the dataset.
 * [Transformations: an introduction](http://fmwww.bc.edu/repec/bocode/t/transint.html) 
 * [Seven deadly sins of contemporary quantitative political analysis](https://doi.org/10.1177/0022343313499597) 
 
-# Probability and uncertainty
+## Probability and uncertainty
 
 
 * [What Does Probability Mean in Your Profession?](https://mathwithbaddrawings.com/2015/09/23/what-does-probability-mean-in-your-profession/) 
 * [Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/) 
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet) 
 
-# Distributions
+## Distributions
 
 
 * [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/) 
+
+## Causality
+
+
+* [Causal Inference: What If (the book)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) 
+
+## Ethics and Fairness
+
+
+* [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring19/) 
 
 # Analysis
 
@@ -110,6 +120,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Visualizing Outliers](https://flowingdata.com/2018/03/07/visualizing-outliers/) 
 * [Why not to use two axes, and what to use instead](https://blog.datawrapper.de/dualaxis/) 
 * [From Data to Viz](https://www.data-to-viz.com/) 
+* [A biased tour of the uncertainty visualization zoo](https://www.mjskay.com/presentations/tapestry2018-uncertainty.pdf) 
 
 # Data
 
@@ -169,6 +180,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Data Visualization: A practical introduction](https://socviz.co/) 
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) 
 * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/) 
+* [Learning Statistics with R](https://learningstatisticswithr.com/) 
+* [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) 
 
 ## Python
 
