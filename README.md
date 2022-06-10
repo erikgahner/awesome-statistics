@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 361 active links
-in the dataset. The 110 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 385 active links
+in the dataset. The 114 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -71,6 +71,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Six quick tips to improve your regression modeling](https://statmodeling.stat.columbia.edu/2015/01/29/six-quick-tips-improve-regression-modeling/) 
 * [How to create confounders with regression: a lesson from causal inference](http://anythingbutrbitrary.blogspot.com/2016/01/how-to-create-confounders-with.html) 
 * [Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data](https://doi.org/10.1177%2F2515245917745629) 
+* [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/) 
 
 ## Bayesian
 
@@ -96,6 +97,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Webcast: Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) 
 * [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus](https://www.inference.vc/untitled/) 
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
+* [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) 
 
 ## Experiments
 
@@ -121,6 +123,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Why not to use two axes, and what to use instead](https://blog.datawrapper.de/dualaxis/) 
 * [From Data to Viz](https://www.data-to-viz.com/) 
 * [A biased tour of the uncertainty visualization zoo](https://www.mjskay.com/presentations/tapestry2018-uncertainty.pdf) 
+* [Mistakes, we've drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368) 
+* [Twenty rules for good graphics](https://robjhyndman.com/hyndsight/graphics/) 
 
 # Data
 
