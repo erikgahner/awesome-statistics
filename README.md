@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 385 active links
-in the dataset. The 114 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 445 active links
+in the dataset. The 126 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -16,6 +16,7 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Transformations: an introduction](http://fmwww.bc.edu/repec/bocode/t/transint.html) 
 * [Seven deadly sins of contemporary quantitative political analysis](https://doi.org/10.1177/0022343313499597) 
+* [Reference Collection to push back against “Common Statistical Myths”](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787) 
 
 ## Probability and uncertainty
 
@@ -23,6 +24,7 @@ listed below. Feel free to add additional links to the dataset.
 * [What Does Probability Mean in Your Profession?](https://mathwithbaddrawings.com/2015/09/23/what-does-probability-mean-in-your-profession/) 
 * [Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/) 
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet) 
+* [How to Get Better at Embracing Unknowns](https://www.scientificamerican.com/article/how-to-get-better-at-embracing-unknowns/) 
 
 ## Distributions
 
@@ -52,6 +54,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Understanding Statistical Power and Significance Testing](https://rpsychologist.com/d3/nhst/) 
 * [Multiple Hypothesis Testing](https://multithreaded.stitchfix.com/blog/2015/10/15/multiple-hypothesis-testing/) 
 * [Understanding common misconceptions about p-values](http://daniellakens.blogspot.com/2017/12/understanding-common-misconceptions.html) 
+* [The Permutation Test: A Visual Explanation of Statistical Testing](https://www.jwilber.me/permutationtest/) 
 
 ## Correlation
 
@@ -72,6 +75,7 @@ listed below. Feel free to add additional links to the dataset.
 * [How to create confounders with regression: a lesson from causal inference](http://anythingbutrbitrary.blogspot.com/2016/01/how-to-create-confounders-with.html) 
 * [Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data](https://doi.org/10.1177%2F2515245917745629) 
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/) 
+* [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/) 
 
 ## Bayesian
 
@@ -125,6 +129,7 @@ listed below. Feel free to add additional links to the dataset.
 * [A biased tour of the uncertainty visualization zoo](https://www.mjskay.com/presentations/tapestry2018-uncertainty.pdf) 
 * [Mistakes, we've drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368) 
 * [Twenty rules for good graphics](https://robjhyndman.com/hyndsight/graphics/) 
+* [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) 
 
 # Data
 
@@ -166,6 +171,7 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Software development skills for data scientists](https://treycausey.com/software_dev_skills.html) 
 * [Ten Simple Rules for Effective Statistical Practice](https://doi.org/10.1371/journal.pcbi.1004961) 
+* [testing statistical software](https://www.alexpghayes.com/post/2019-06-07_testing-statistical-software/) 
 
 ## R
 
@@ -186,12 +192,16 @@ listed below. Feel free to add additional links to the dataset.
 * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/) 
 * [Learning Statistics with R](https://learningstatisticswithr.com/) 
 * [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) 
+* [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) 
+* [Mastering Shiny](https://mastering-shiny.org/) 
+* [Doing Meta-Analysis in R: A Hands-on Guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) 
 
 ## Python
 
 
 * [A Byte of Python](https://python.swaroopch.com/) 
 * [The Python Graph Gallery](https://www.python-graph-gallery.com/) 
+* [Quantitative Economics with Python](https://python.quantecon.org/intro.html) 
 
 ## Stata
 
@@ -215,6 +225,7 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [DrawMyData: a tool for teaching stats and data science](http://robertgrantstats.co.uk/drawmydata.html) 
+* [Storyline](https://play.storylinegame.com/public/play) 
 
 # History
 
