@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 445 active links
-in the dataset. The 126 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 500 active links
+in the dataset. The 134 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -40,6 +40,7 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring19/) 
+* [Fairness and machine learning: Limitations and Opportunities](https://fairmlbook.org/) 
 
 # Analysis
 
@@ -172,6 +173,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Software development skills for data scientists](https://treycausey.com/software_dev_skills.html) 
 * [Ten Simple Rules for Effective Statistical Practice](https://doi.org/10.1371/journal.pcbi.1004961) 
 * [testing statistical software](https://www.alexpghayes.com/post/2019-06-07_testing-statistical-software/) 
+* [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) 
 
 ## R
 
@@ -195,6 +197,9 @@ listed below. Feel free to add additional links to the dataset.
 * [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) 
 * [Mastering Shiny](https://mastering-shiny.org/) 
 * [Doing Meta-Analysis in R: A Hands-on Guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) 
+* [Quantitative Politics with R](http://qpolr.com/) 
+* [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) 
+* [R Cookbook, 2nd Edition](https://rc2e.com/) 
 
 ## Python
 
@@ -202,6 +207,8 @@ listed below. Feel free to add additional links to the dataset.
 * [A Byte of Python](https://python.swaroopch.com/) 
 * [The Python Graph Gallery](https://www.python-graph-gallery.com/) 
 * [Quantitative Economics with Python](https://python.quantecon.org/intro.html) 
+* [Another Book on Data Science: Learn R and Python in Parallel](https://www.anotherbookondatascience.com/) 
+* [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html) 
 
 ## Stata
 
@@ -226,6 +233,7 @@ listed below. Feel free to add additional links to the dataset.
 
 * [DrawMyData: a tool for teaching stats and data science](http://robertgrantstats.co.uk/drawmydata.html) 
 * [Storyline](https://play.storylinegame.com/public/play) 
+* [Understanding Maximum Likelihood: An Interactive Visualization](https://rpsychologist.com/likelihood/) 
 
 # History
 
