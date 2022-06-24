@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 500 active links
-in the dataset. The 134 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 571 active links
+in the dataset. The 140 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -41,6 +41,7 @@ listed below. Feel free to add additional links to the dataset.
 
 * [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring19/) 
 * [Fairness and machine learning: Limitations and Opportunities](https://fairmlbook.org/) 
+* [When Is Anonymous Not Really Anonymous?](https://themarkup.org/the-breakdown/2020/03/24/when-is-anonymous-not-really-anonymous) 
 
 # Analysis
 
@@ -103,6 +104,7 @@ listed below. Feel free to add additional links to the dataset.
 * [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus](https://www.inference.vc/untitled/) 
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
 * [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) 
+* [What is machine learning, and how does it work?](https://www.pewresearch.org/fact-tank/2020/06/04/what-is-machine-learning-and-how-does-it-work/) 
 
 ## Experiments
 
@@ -144,6 +146,8 @@ listed below. Feel free to add additional links to the dataset.
 * [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) 
 * [Data Organization in Spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) 
 * [Data: Sharing Is Caring](https://doi.org/10.1177/2515245918758319) 
+* [Big data: A big mistake?](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2014.00778.x) 
+* [Tidy Data Rulebook](http://wiederkehr.github.io/tidy-data-rulebook/) 
 
 ## Missing data
 
@@ -200,6 +204,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Quantitative Politics with R](http://qpolr.com/) 
 * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) 
 * [R Cookbook, 2nd Edition](https://rc2e.com/) 
+* [Data Science: A First Introduction](https://datasciencebook.ca/) 
+* [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/) 
 
 ## Python
 
