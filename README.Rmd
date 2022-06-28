@@ -234,6 +234,15 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+## Julia
+
+```{r generateTableJulia, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "Julia") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 ## Stata
 
 ```{r generateTableStata, echo=FALSE, message=FALSE, warning=FALSE}

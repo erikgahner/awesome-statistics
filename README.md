@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 571 active links
-in the dataset. The 140 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 624 active links
+in the dataset. The 145 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Books
@@ -110,6 +110,7 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [Survey Experiments in Practice](https://thomasleeper.com/surveyexpcourse/) 
+* [10 Things to Know About Survey Experiments](https://egap.org/resource/10-things-to-know-about-survey-experiments/) 
 
 # Data visualisation
 
@@ -133,6 +134,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Mistakes, we've drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368) 
 * [Twenty rules for good graphics](https://robjhyndman.com/hyndsight/graphics/) 
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) 
+* [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) 
+* [How maps in the media make us more negative about migrants](https://thecorrespondent.com/664/how-maps-in-the-media-make-us-more-negative-about-migrants/738023272448-bac255ba) 
 
 # Data
 
@@ -206,6 +209,7 @@ listed below. Feel free to add additional links to the dataset.
 * [R Cookbook, 2nd Edition](https://rc2e.com/) 
 * [Data Science: A First Introduction](https://datasciencebook.ca/) 
 * [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/) 
+* [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources) 
 
 ## Python
 
@@ -215,6 +219,11 @@ listed below. Feel free to add additional links to the dataset.
 * [Quantitative Economics with Python](https://python.quantecon.org/intro.html) 
 * [Another Book on Data Science: Learn R and Python in Parallel](https://www.anotherbookondatascience.com/) 
 * [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html) 
+
+## Julia
+
+
+* [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/) 
 
 ## Stata
 
