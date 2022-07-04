@@ -1,19 +1,14 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 624 active links
-in the dataset. The 145 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 654 active links
+in the dataset. The 150 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
-
-# Books
-
-
-* [Statistics Done Wrong: The woefully complete guide](https://www.statisticsdonewrong.com/) 
-* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) 
 
 # General
 
 
+* [Statistics Done Wrong: The woefully complete guide](https://www.statisticsdonewrong.com/) 
 * [Transformations: an introduction](http://fmwww.bc.edu/repec/bocode/t/transint.html) 
 * [Seven deadly sins of contemporary quantitative political analysis](https://doi.org/10.1177/0022343313499597) 
 * [Reference Collection to push back against “Common Statistical Myths”](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787) 
@@ -25,6 +20,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/) 
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet) 
 * [How to Get Better at Embracing Unknowns](https://www.scientificamerican.com/article/how-to-get-better-at-embracing-unknowns/) 
+* [The 9 concepts and formulas in probability that every data scientist should know](https://statsandr.com/blog/the-9-concepts-and-formulas-in-probability-that-every-data-scientist-should-know/) 
 
 ## Distributions
 
@@ -42,6 +38,7 @@ listed below. Feel free to add additional links to the dataset.
 * [DS-GA 3001.009: Special Topics in Data Science: Responsible Data Science](https://dataresponsibly.github.io/courses/spring19/) 
 * [Fairness and machine learning: Limitations and Opportunities](https://fairmlbook.org/) 
 * [When Is Anonymous Not Really Anonymous?](https://themarkup.org/the-breakdown/2020/03/24/when-is-anonymous-not-really-anonymous) 
+* [11 Short Machine Learning Ethics Videos](https://www.youtube.com/playlist?list=PLtmWHNX-gukIU6V33Bc8eP8OD41I4GywR) 
 
 # Analysis
 
@@ -78,6 +75,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data](https://doi.org/10.1177%2F2515245917745629) 
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/) 
 * [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/) 
+* [Least squares as springs](https://joshualoftus.com/posts/2020-11-23-least-squares-as-springs/) 
 
 ## Bayesian
 
@@ -127,6 +125,7 @@ listed below. Feel free to add additional links to the dataset.
 * [How Histograms Work](https://flowingdata.com/2017/06/07/how-histograms-work/) 
 * [What's so hard about histograms?](https://tinlizzie.org/histograms/) 
 * [Data Viz Project](https://datavizproject.com/) 
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) 
 * [Visualizing Outliers](https://flowingdata.com/2018/03/07/visualizing-outliers/) 
 * [Why not to use two axes, and what to use instead](https://blog.datawrapper.de/dualaxis/) 
 * [From Data to Viz](https://www.data-to-viz.com/) 
@@ -136,6 +135,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) 
 * [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) 
 * [How maps in the media make us more negative about migrants](https://thecorrespondent.com/664/how-maps-in-the-media-make-us-more-negative-about-migrants/738023272448-bac255ba) 
+* [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code](https://handsondataviz.org/) 
 
 # Data
 
@@ -210,6 +210,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Data Science: A First Introduction](https://datasciencebook.ca/) 
 * [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/) 
 * [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources) 
+* [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) 
 
 ## Python
 
