@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 654 active links
-in the dataset. The 150 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 695 active links
+in the dataset. The 157 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -31,6 +31,7 @@ listed below. Feel free to add additional links to the dataset.
 
 
 * [Causal Inference: What If (the book)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) 
+* [Causal design patterns for data analysts](https://emilyriederer.netlify.app/post/causal-design-patterns/) 
 
 ## Ethics and Fairness
 
@@ -54,6 +55,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Multiple Hypothesis Testing](https://multithreaded.stitchfix.com/blog/2015/10/15/multiple-hypothesis-testing/) 
 * [Understanding common misconceptions about p-values](http://daniellakens.blogspot.com/2017/12/understanding-common-misconceptions.html) 
 * [The Permutation Test: A Visual Explanation of Statistical Testing](https://www.jwilber.me/permutationtest/) 
+* [Hypothesis test by hand](https://statsandr.com/blog/hypothesis-test-by-hand/) 
 
 ## Correlation
 
@@ -76,6 +78,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/) 
 * [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/) 
 * [Least squares as springs](https://joshualoftus.com/posts/2020-11-23-least-squares-as-springs/) 
+* [A Crash Course in Good and Bad Controls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689437) 
 
 ## Bayesian
 
@@ -164,6 +167,7 @@ listed below. Feel free to add additional links to the dataset.
 
 * [The Most Dangerous Equation](https://web.archive.org/web/20111128224743/http://nsm.uh.edu/~dgraur/niv/TheMostDangerousEquation.pdf) 
 * [The flawed logic of chasing large effects with small samples](https://thehardestscience.com/2013/09/09/the-flawed-logic-of-chasing-large-effects-with-small-samples/) 
+* [Sample Size Justification](https://psyarxiv.com/9d3yf/) 
 
 ## Datasets
 
@@ -211,6 +215,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/) 
 * [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources) 
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) 
+* [Crime by the Numbers: A Criminologist’s Guide to R](https://crimebythenumbers.com/) 
+* [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) 
 
 ## Python
 
@@ -234,6 +240,11 @@ listed below. Feel free to add additional links to the dataset.
 * [Dictionary: Stata to R](https://github.com/EconometricsBySimulation/RStata/wiki/Dictionary:-Stata-to-R) 
 * [List of resources for the Stata commands 'margins' and 'marginsplot'](http://economicspsychologypolicy.blogspot.com/2014/09/list-of-resources-for-stata-commands.html) 
 * [Uncluttered Stata Graphs](https://gray.kimbrough.info/uncluttered-stata-graphs/) 
+
+## Excel
+
+
+* [Spreadsheet mistakes - news stories](http://www.eusprig.org/horror-stories.htm) 
 
 # Replication, open science and reproducibility
 
