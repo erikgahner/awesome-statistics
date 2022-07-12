@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 695 active links
-in the dataset. The 157 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 766 active links
+in the dataset. The 165 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -32,6 +32,8 @@ listed below. Feel free to add additional links to the dataset.
 
 * [Causal Inference: What If (the book)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) 
 * [Causal design patterns for data analysts](https://emilyriederer.netlify.app/post/causal-design-patterns/) 
+* [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) 
+* [Papers about Causal Inference and Language](https://github.com/causaltext/causal-text-papers) 
 
 ## Ethics and Fairness
 
@@ -139,6 +141,7 @@ listed below. Feel free to add additional links to the dataset.
 * [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) 
 * [How maps in the media make us more negative about migrants](https://thecorrespondent.com/664/how-maps-in-the-media-make-us-more-negative-about-migrants/738023272448-bac255ba) 
 * [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code](https://handsondataviz.org/) 
+* [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) 
 
 # Data
 
@@ -217,6 +220,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) 
 * [Crime by the Numbers: A Criminologist’s Guide to R](https://crimebythenumbers.com/) 
 * [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) 
+* [Lightweight Machine Learning Classics with R](https://lmlcr.gagolewski.com/lmlcr.pdf) 
 
 ## Python
 
@@ -226,6 +230,10 @@ listed below. Feel free to add additional links to the dataset.
 * [Quantitative Economics with Python](https://python.quantecon.org/intro.html) 
 * [Another Book on Data Science: Learn R and Python in Parallel](https://www.anotherbookondatascience.com/) 
 * [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html) 
+* [Notes On Using Data Science & Machine Learning To Fight For Something That Matters](https://chrisalbon.com/) 
+* [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) 
+* [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) 
+* [Full Stack Python](https://www.fullstackpython.com/) 
 
 ## Julia
 
