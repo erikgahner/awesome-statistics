@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 766 active links
-in the dataset. The 165 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 803 active links
+in the dataset. The 171 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -12,6 +12,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Transformations: an introduction](http://fmwww.bc.edu/repec/bocode/t/transint.html) 
 * [Seven deadly sins of contemporary quantitative political analysis](https://doi.org/10.1177/0022343313499597) 
 * [Reference Collection to push back against “Common Statistical Myths”](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787) 
+* [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) 
 
 ## Probability and uncertainty
 
@@ -142,6 +143,7 @@ listed below. Feel free to add additional links to the dataset.
 * [How maps in the media make us more negative about migrants](https://thecorrespondent.com/664/how-maps-in-the-media-make-us-more-negative-about-migrants/738023272448-bac255ba) 
 * [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code](https://handsondataviz.org/) 
 * [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) 
+* [Why you sometimes need to break the rules in data viz](https://medium.economist.com/why-you-sometimes-need-to-break-the-rules-in-data-viz-4d8ece284919) 
 
 # Data
 
@@ -234,6 +236,9 @@ listed below. Feel free to add additional links to the dataset.
 * [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) 
 * [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) 
 * [Full Stack Python](https://www.fullstackpython.com/) 
+* [Introduction to Deep Learning -- 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers](https://sebastianraschka.com/blog/2021/dl-course.html) 
+* [A Concrete Introduction to Probability (using Python)](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb) 
+* [Introduction to Python for Social Science](https://muhark.github.io/dpir-intro-python/) 
 
 ## Julia
 
@@ -248,6 +253,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Dictionary: Stata to R](https://github.com/EconometricsBySimulation/RStata/wiki/Dictionary:-Stata-to-R) 
 * [List of resources for the Stata commands 'margins' and 'marginsplot'](http://economicspsychologypolicy.blogspot.com/2014/09/list-of-resources-for-stata-commands.html) 
 * [Uncluttered Stata Graphs](https://gray.kimbrough.info/uncluttered-stata-graphs/) 
+* [The Stata workflow guide](https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006) 
 
 ## Excel
 
