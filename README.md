@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 803 active links
-in the dataset. The 171 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 858 active links
+in the dataset. The 181 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -109,12 +109,15 @@ listed below. Feel free to add additional links to the dataset.
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
 * [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) 
 * [What is machine learning, and how does it work?](https://www.pewresearch.org/fact-tank/2020/06/04/what-is-machine-learning-and-how-does-it-work/) 
+* [Machine learning, explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) 
+* [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497) 
 
 ## Experiments
 
 
 * [Survey Experiments in Practice](https://thomasleeper.com/surveyexpcourse/) 
 * [10 Things to Know About Survey Experiments](https://egap.org/resource/10-things-to-know-about-survey-experiments/) 
+* [I saw your RCT and I have some worries! FAQs](https://macartan.github.io/i/notes/rct_faqs.html) 
 
 # Data visualisation
 
@@ -144,6 +147,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code](https://handsondataviz.org/) 
 * [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) 
 * [Why you sometimes need to break the rules in data viz](https://medium.economist.com/why-you-sometimes-need-to-break-the-rules-in-data-viz-4d8ece284919) 
+* [In defense of simple charts](https://blog.datawrapper.de/in-defense-of-simple-charts/) 
 
 # Data
 
@@ -223,6 +227,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Crime by the Numbers: A Criminologist’s Guide to R](https://crimebythenumbers.com/) 
 * [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) 
 * [Lightweight Machine Learning Classics with R](https://lmlcr.gagolewski.com/lmlcr.pdf) 
+* [Modern Statistics with R](https://modernstatisticswithr.com/) 
 
 ## Python
 
@@ -254,11 +259,16 @@ listed below. Feel free to add additional links to the dataset.
 * [List of resources for the Stata commands 'margins' and 'marginsplot'](http://economicspsychologypolicy.blogspot.com/2014/09/list-of-resources-for-stata-commands.html) 
 * [Uncluttered Stata Graphs](https://gray.kimbrough.info/uncluttered-stata-graphs/) 
 * [The Stata workflow guide](https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006) 
+* [The Stata Guide](https://medium.com/the-stata-guide) 
 
 ## Excel
 
 
 * [Spreadsheet mistakes - news stories](http://www.eusprig.org/horror-stories.htm) 
+* [333 Excel Shortcuts for Windows and Mac](https://www.myexcelonline.com/blog/333-excel-shortcuts-for-windows-and-mac/) 
+* [Excel VBA Introduction](https://www.youtube.com/playlist?list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5) 
+* [101 Excel Functions you should know](https://exceljet.net/101-excel-functions) 
+* [Excel Charting Templates](https://simplexct.com/charts-in-excel-templates) 
 
 # Replication, open science and reproducibility
 
