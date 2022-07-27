@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 858 active links
-in the dataset. The 181 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 916 active links
+in the dataset. The 185 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -148,6 +148,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) 
 * [Why you sometimes need to break the rules in data viz](https://medium.economist.com/why-you-sometimes-need-to-break-the-rules-in-data-viz-4d8ece284919) 
 * [In defense of simple charts](https://blog.datawrapper.de/in-defense-of-simple-charts/) 
+* [Dataviz Accessibility Resources](https://github.com/dataviza11y/resources) 
 
 # Data
 
@@ -228,6 +229,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) 
 * [Lightweight Machine Learning Classics with R](https://lmlcr.gagolewski.com/lmlcr.pdf) 
 * [Modern Statistics with R](https://modernstatisticswithr.com/) 
+* [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) 
 
 ## Python
 
@@ -244,6 +246,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Introduction to Deep Learning -- 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers](https://sebastianraschka.com/blog/2021/dl-course.html) 
 * [A Concrete Introduction to Probability (using Python)](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb) 
 * [Introduction to Python for Social Science](https://muhark.github.io/dpir-intro-python/) 
+* [Spatial Data Programming with Python](https://geobgu.xyz/py/) 
 
 ## Julia
 
@@ -285,6 +288,7 @@ listed below. Feel free to add additional links to the dataset.
 * [DrawMyData: a tool for teaching stats and data science](http://robertgrantstats.co.uk/drawmydata.html) 
 * [Storyline](https://play.storylinegame.com/public/play) 
 * [Understanding Maximum Likelihood: An Interactive Visualization](https://rpsychologist.com/likelihood/) 
+* [Neural Networks from scratch](https://aegeorge42.github.io/) 
 
 # History
 
