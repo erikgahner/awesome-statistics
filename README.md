@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 916 active links
-in the dataset. The 185 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 948 active links
+in the dataset. The 188 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -35,6 +35,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Causal design patterns for data analysts](https://emilyriederer.netlify.app/post/causal-design-patterns/) 
 * [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) 
 * [Papers about Causal Inference and Language](https://github.com/causaltext/causal-text-papers) 
+* [Quantifying causality in data science with quasi-experiments](https://doi.org/10.1038/s43588-020-00005-8) 
 
 ## Ethics and Fairness
 
@@ -82,6 +83,7 @@ listed below. Feel free to add additional links to the dataset.
 * [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/) 
 * [Least squares as springs](https://joshualoftus.com/posts/2020-11-23-least-squares-as-springs/) 
 * [A Crash Course in Good and Bad Controls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689437) 
+* [Regression and Other Stories](https://users.aalto.fi/~ave/ROS.pdf) 
 
 ## Bayesian
 
@@ -247,6 +249,7 @@ listed below. Feel free to add additional links to the dataset.
 * [A Concrete Introduction to Probability (using Python)](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb) 
 * [Introduction to Python for Social Science](https://muhark.github.io/dpir-intro-python/) 
 * [Spatial Data Programming with Python](https://geobgu.xyz/py/) 
+* [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/) 
 
 ## Julia
 
