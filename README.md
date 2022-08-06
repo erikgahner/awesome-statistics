@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 948 active links
-in the dataset. The 188 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 986 active links
+in the dataset. The 190 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -151,6 +151,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Why you sometimes need to break the rules in data viz](https://medium.economist.com/why-you-sometimes-need-to-break-the-rules-in-data-viz-4d8ece284919) 
 * [In defense of simple charts](https://blog.datawrapper.de/in-defense-of-simple-charts/) 
 * [Dataviz Accessibility Resources](https://github.com/dataviza11y/resources) 
+* [10 ways to use fewer colors in your data visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/) 
 
 # Data
 
@@ -284,6 +285,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Sluggish data sharing hampers reproducibility effort](https://www.nature.com/articles/nature.2015.17694) 
 * [Self Evaluation for Reproducible Science](https://github.com/BIDS/reproducibility-wg/blob/master/self_eval/self-eval.md) 
 * [Science Isn't Broken: It's just a hell of a lot harder than we give it credit for](https://fivethirtyeight.com/features/science-isnt-broken/) 
+* [Seven steps toward more transparency in statistical practice](https://doi.org/10.1038/s41562-021-01211-8) 
 
 # Teaching
 
