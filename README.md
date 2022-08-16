@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 986 active links
-in the dataset. The 190 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1029 active links
+in the dataset. The 196 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -84,6 +84,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Least squares as springs](https://joshualoftus.com/posts/2020-11-23-least-squares-as-springs/) 
 * [A Crash Course in Good and Bad Controls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689437) 
 * [Regression and Other Stories](https://users.aalto.fi/~ave/ROS.pdf) 
+* [Linear Regression](https://www.simonwardjones.co.uk/posts/linear_regression/) 
 
 ## Bayesian
 
@@ -113,6 +114,7 @@ listed below. Feel free to add additional links to the dataset.
 * [What is machine learning, and how does it work?](https://www.pewresearch.org/fact-tank/2020/06/04/what-is-machine-learning-and-how-does-it-work/) 
 * [Machine learning, explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) 
 * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497) 
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 
 
 ## Experiments
 
@@ -152,6 +154,8 @@ listed below. Feel free to add additional links to the dataset.
 * [In defense of simple charts](https://blog.datawrapper.de/in-defense-of-simple-charts/) 
 * [Dataviz Accessibility Resources](https://github.com/dataviza11y/resources) 
 * [10 ways to use fewer colors in your data visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/) 
+* [A detailed guide to colors in data vis style guides](https://blog.datawrapper.de/colors-for-data-vis-style-guides/) 
+* [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) 
 
 # Data
 
@@ -233,6 +237,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Lightweight Machine Learning Classics with R](https://lmlcr.gagolewski.com/lmlcr.pdf) 
 * [Modern Statistics with R](https://modernstatisticswithr.com/) 
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) 
+* [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/) 
+* [R Without Statistics](https://book.rwithoutstatistics.com/) 
 
 ## Python
 
