@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1029 active links
-in the dataset. The 196 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1091 active links
+in the dataset. The 203 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -22,6 +22,7 @@ listed below. Feel free to add additional links to the dataset.
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet) 
 * [How to Get Better at Embracing Unknowns](https://www.scientificamerican.com/article/how-to-get-better-at-embracing-unknowns/) 
 * [The 9 concepts and formulas in probability that every data scientist should know](https://statsandr.com/blog/the-9-concepts-and-formulas-in-probability-that-every-data-scientist-should-know/) 
+* [Explaining base rate neglect](https://www.jasoncollins.blog/explaining-base-rate-neglect/) 
 
 ## Distributions
 
@@ -57,9 +58,11 @@ listed below. Feel free to add additional links to the dataset.
 * [Common Misconceptions about Data Analysis and Statistics](https://jpet.aspetjournals.org/content/jpet/351/1/200.full.pdf) 
 * [Understanding Statistical Power and Significance Testing](https://rpsychologist.com/d3/nhst/) 
 * [Multiple Hypothesis Testing](https://multithreaded.stitchfix.com/blog/2015/10/15/multiple-hypothesis-testing/) 
+* [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://doi.org/10.1007/s10654-016-0149-3) 
 * [Understanding common misconceptions about p-values](http://daniellakens.blogspot.com/2017/12/understanding-common-misconceptions.html) 
 * [The Permutation Test: A Visual Explanation of Statistical Testing](https://www.jwilber.me/permutationtest/) 
 * [Hypothesis test by hand](https://statsandr.com/blog/hypothesis-test-by-hand/) 
+* [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/) 
 
 ## Correlation
 
@@ -156,6 +159,8 @@ listed below. Feel free to add additional links to the dataset.
 * [10 ways to use fewer colors in your data visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/) 
 * [A detailed guide to colors in data vis style guides](https://blog.datawrapper.de/colors-for-data-vis-style-guides/) 
 * [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) 
+* [Dataviz Inspiration](https://www.dataviz-inspiration.com/) 
+* [Financial Times Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) 
 
 # Data
 
@@ -257,6 +262,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Introduction to Python for Social Science](https://muhark.github.io/dpir-intro-python/) 
 * [Spatial Data Programming with Python](https://geobgu.xyz/py/) 
 * [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/) 
+* [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/) 
 
 ## Julia
 
@@ -291,6 +297,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Sluggish data sharing hampers reproducibility effort](https://www.nature.com/articles/nature.2015.17694) 
 * [Self Evaluation for Reproducible Science](https://github.com/BIDS/reproducibility-wg/blob/master/self_eval/self-eval.md) 
 * [Science Isn't Broken: It's just a hell of a lot harder than we give it credit for](https://fivethirtyeight.com/features/science-isnt-broken/) 
+* [A reading list for the Replicability Crisis](http://crystalprisonzone.blogspot.com/2016/03/a-reading-list-for-replicability-crisis.html) 
 * [Seven steps toward more transparency in statistical practice](https://doi.org/10.1038/s41562-021-01211-8) 
 
 # Teaching
