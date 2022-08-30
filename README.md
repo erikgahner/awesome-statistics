@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1091 active links
-in the dataset. The 203 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1144 active links
+in the dataset. The 207 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -118,6 +118,9 @@ listed below. Feel free to add additional links to the dataset.
 * [Machine learning, explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) 
 * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497) 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 
+* [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/) 
+* [Deep Neural Nets: 33 years ago and 33 years from now](https://karpathy.github.io/2022/03/14/lecun1989/) 
+* [Machine Learning FAQ](https://sebastianraschka.com/faq/) 
 
 ## Experiments
 
@@ -244,6 +247,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) 
 * [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/) 
 * [R Without Statistics](https://book.rwithoutstatistics.com/) 
+* [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) 
 
 ## Python
 
