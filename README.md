@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1144 active links
-in the dataset. The 207 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1198 active links
+in the dataset. The 214 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -45,6 +45,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Fairness and machine learning: Limitations and Opportunities](https://fairmlbook.org/) 
 * [When Is Anonymous Not Really Anonymous?](https://themarkup.org/the-breakdown/2020/03/24/when-is-anonymous-not-really-anonymous) 
 * [11 Short Machine Learning Ethics Videos](https://www.youtube.com/playlist?list=PLtmWHNX-gukIU6V33Bc8eP8OD41I4GywR) 
+* [Ethical Principles for Web Machine Learning](https://webmachinelearning.github.io/webmachinelearning-ethics/) 
 
 # Analysis
 
@@ -164,6 +165,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) 
 * [Dataviz Inspiration](https://www.dataviz-inspiration.com/) 
 * [Financial Times Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) 
+* [What background color should your data vis have?](https://blog.datawrapper.de/background-color-of-data-visualizations/) 
+* [Are Vertical Line Charts Ever a Good Idea?](https://nightingaledvs.com/are-vertical-line-charts-ever-a-good-idea/) 
 
 # Data
 
@@ -179,6 +182,8 @@ listed below. Feel free to add additional links to the dataset.
 * [Data: Sharing Is Caring](https://doi.org/10.1177/2515245918758319) 
 * [Big data: A big mistake?](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2014.00778.x) 
 * [Tidy Data Rulebook](http://wiederkehr.github.io/tidy-data-rulebook/) 
+* [Critical Dataset Studies Reading List](https://knowingmachines.org/reading-list) 
+* [A curated list of awesome posts, videos, and articles on leading a data team (small and large)](https://github.com/ronikobrosly/awesome-data-leadership) 
 
 ## Missing data
 
@@ -248,6 +253,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/) 
 * [R Without Statistics](https://book.rwithoutstatistics.com/) 
 * [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) 
+* [Tidy Finance with R](https://www.tidy-finance.org/) 
 
 ## Python
 
@@ -267,6 +273,7 @@ listed below. Feel free to add additional links to the dataset.
 * [Spatial Data Programming with Python](https://geobgu.xyz/py/) 
 * [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/) 
 * [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/) 
+* [Python for Data Analysis](https://wesmckinney.com/book/) 
 
 ## Julia
 
