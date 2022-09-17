@@ -5,7 +5,7 @@ output: md_document
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ```{r include=FALSE}
-knitr::opts_chunk$set(comment = NULL)
+knitr::opts_chunk$set(comment = NULL, echo = FALSE, message = FALSE, warning = FALSE, results = "asis")
 ```
 
 ```{r introCode, echo=FALSE, message=FALSE, warning=FALSE}
