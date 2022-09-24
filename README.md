@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1251 active links
-in the dataset. The 223 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1291 active links
+in the dataset. The 227 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -142,6 +142,8 @@ listed below. Feel free to add additional links to the dataset.
     Regression](https://www.simonwardjones.co.uk/posts/linear_regression/)
 -   [Logistic
     Regression](https://mlu-explain.github.io/logistic-regression/)
+-   [Linear
+    Regression](https://mlu-explain.github.io/linear-regression/)
 
 ## Bayesian
 
@@ -267,6 +269,8 @@ listed below. Feel free to add additional links to the dataset.
     Idea?](https://nightingaledvs.com/are-vertical-line-charts-ever-a-good-idea/)
 -   [Friends Don’t Let Friends Make Bad
     Graphs](https://github.com/cxli233/FriendsDontLetFriends)
+-   [Which fonts to use for your charts and
+    tables](https://blog.datawrapper.de/fonts-for-data-visualization/)
 
 # Data
 
@@ -392,7 +396,9 @@ listed below. Feel free to add additional links to the dataset.
 -   [R Without Statistics](https://book.rwithoutstatistics.com/)
 -   [Supervised Machine Learning for Text Analysis in
     R](https://smltar.com/)
+-   [Introduction to Data Science](https://rafalab.github.io/dsbook/)
 -   [Tidy Finance with R](https://www.tidy-finance.org/)
+-   [Regression Modeling Strategies](http://hbiostat.org/rmsc/)
 
 ## Python
 
