@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1291 active links
-in the dataset. The 227 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1303 active links
+in the dataset. The 230 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -271,6 +271,8 @@ listed below. Feel free to add additional links to the dataset.
     Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 -   [Which fonts to use for your charts and
     tables](https://blog.datawrapper.de/fonts-for-data-visualization/)
+-   [What to consider when using text in data
+    visualizations](https://blog.datawrapper.de/text-in-data-visualizations/)
 
 # Data
 
@@ -399,6 +401,9 @@ listed below. Feel free to add additional links to the dataset.
 -   [Introduction to Data Science](https://rafalab.github.io/dsbook/)
 -   [Tidy Finance with R](https://www.tidy-finance.org/)
 -   [Regression Modeling Strategies](http://hbiostat.org/rmsc/)
+-   [Introduction to Multilevel Modelling](https://www.learn-mlms.com/)
+-   [Text Analysis Using
+    R](https://quanteda.github.io/Text-Analysis-Using-R/)
 
 ## Python
 
