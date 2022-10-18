@@ -261,6 +261,15 @@ df |>
   pander::pandoc.list(add.end.of.list = FALSE)
 ```
 
+# Surveys
+
+```{r generateTableSurveys, echo=FALSE, message=FALSE, warning=FALSE}
+df |> 
+  filter(category == "surveys") |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 # Teaching
 
 ```{r generateTableTeaching, echo=FALSE, message=FALSE, warning=FALSE}

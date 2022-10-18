@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1303 active links
-in the dataset. The 230 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1326 active links
+in the dataset. The 235 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -190,6 +190,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Deep Neural Nets: 33 years ago and 33 years from
     now](https://karpathy.github.io/2022/03/14/lecun1989/)
 -   [Machine Learning FAQ](https://sebastianraschka.com/faq/)
+-   [An Explorable Explainer of K-Means
+    Clustering](https://k-means-explorable.vercel.app/)
 
 ## Experiments
 
@@ -435,6 +437,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Getting started with NLP for absolute
     beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/)
 -   [Python for Data Analysis](https://wesmckinney.com/book/)
+-   [Coding for
+    Economists](https://aeturrell.github.io/coding-for-economists/)
 
 ## Julia
 
@@ -487,6 +491,16 @@ listed below. Feel free to add additional links to the dataset.
     Crisis](http://crystalprisonzone.blogspot.com/2016/03/a-reading-list-for-replicability-crisis.html)
 -   [Seven steps toward more transparency in statistical
     practice](https://doi.org/10.1038/s41562-021-01211-8)
+
+# Surveys
+
+-   [Do you know where your survey data come
+    from?](https://medium.com/3streams/surveys-3ec95995dde2)
+-   [How to Run Surveys: A Guide to Creating Your Own Identifying
+    Variation and
+    Revealing](https://www.nber.org/system/files/working_papers/w30527/w30527.pdf)
+-   [Likert-Type Scale Response
+    Anchors](https://www.marquette.edu/student-affairs/assessment-likert-scales.php)
 
 # Teaching
 
