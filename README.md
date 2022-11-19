@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1349 active links
-in the dataset. The 235 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1369 active links
+in the dataset. The 237 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -192,6 +192,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Machine Learning FAQ](https://sebastianraschka.com/faq/)
 -   [An Explorable Explainer of K-Means
     Clustering](https://k-means-explorable.vercel.app/)
+-   [Failed Machine Learning
+    (FML)](https://github.com/kennethleungty/Failed-ML)
 
 ## Experiments
 
@@ -275,6 +277,7 @@ listed below. Feel free to add additional links to the dataset.
     tables](https://blog.datawrapper.de/fonts-for-data-visualization/)
 -   [What to consider when using text in data
     visualizations](https://blog.datawrapper.de/text-in-data-visualizations/)
+-   [Beautiful Public Data](https://www.beautifulpublicdata.com/)
 
 # Data
 
