@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1369 active links
-in the dataset. The 237 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1393 active links
+in the dataset. The 238 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -17,6 +17,8 @@ listed below. Feel free to add additional links to the dataset.
     Myths”](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
 -   [Introduction to Modern
     Statistics](https://openintro-ims.netlify.app/)
+-   [Philosophy of
+    Statistics](https://plato.stanford.edu/entries/statistics/)
 
 ## Probability and uncertainty
 
