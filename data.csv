@@ -1468,3 +1468,8 @@ id,title,url,category,dead,awesome,revision
 1467,"Introduction to Graph Machine Learning",https://huggingface.co/blog/intro-graphml,machinelearning,0,0,"2023-01-05"
 1468,"A Succinct Summary of Reinforcement Learning",https://arxiv.org/abs/2301.01379,machinelearning,0,0,"2023-01-06"
 1469,"Combining R and Python with {reticulate} and Quarto",https://nrennie.rbind.io/blog/combining-r-and-python-with-reticulate-and-quarto/,R,0,0,"2023-01-06"
+1470,"A Guide To Getting Data Visualization Right",https://www.smashingmagazine.com/2023/01/guide-getting-data-visualization-right/,R,0,0,"2023-01-09"
+1471,"Level Up Your Python",https://henryiii.github.io/level-up-your-python/,Python,0,0,"2023-01-09"
+1472,"Exploratory spatial data analysis with Python",https://walker-data.com/posts/esda-with-python/,Python,0,0,"2023-01-10"
+1473,"6 tips for creating charts for social media",https://www.tableau.com/blog/6-tips-to-design-charts-for-social-media,visualisation,0,0,"2023-01-11"
+1474,"balance: a python package for balancing biased data samples",https://github.com/facebookresearch/balance,Python,0,0,"2023-01-11"
