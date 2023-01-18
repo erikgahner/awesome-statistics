@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1452 active links
-in the dataset. The 243 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1465 active links
+in the dataset. The 245 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -200,6 +200,10 @@ listed below. Feel free to add additional links to the dataset.
     Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
 -   [Probabilistic Machine Learning: Advanced
     Topics](https://probml.github.io/pml-book/book2.html)
+-   [On Moving from Statistics to Machine Learning, the Final Stage of
+    Grief](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
+-   [The Illustrated Machine Learning
+    website](https://illustrated-machine-learning.github.io/)
 
 ## Experiments
 
