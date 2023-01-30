@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1475 active links
-in the dataset. The 247 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1484 active links
+in the dataset. The 249 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -422,6 +422,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Text Analysis Using
     R](https://quanteda.github.io/Text-Analysis-Using-R/)
 -   [Deep R Programming](https://deepr.gagolewski.com/)
+-   [Telling Stories with Data: With applications in
+    R](https://tellingstorieswithdata.com/)
 
 ## Python
 
@@ -457,6 +459,8 @@ listed below. Feel free to add additional links to the dataset.
     Economists](https://aeturrell.github.io/coding-for-economists/)
 -   [Minimalist Data Wrangling with
     Python](https://datawranglingpy.gagolewski.com/)
+-   [Pandas Illustrated: The Definitive Visual Guide to
+    Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
 
 ## Julia
 
