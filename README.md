@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1484 active links
-in the dataset. The 249 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1495 active links
+in the dataset. The 248 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -495,8 +495,6 @@ listed below. Feel free to add additional links to the dataset.
     Introduction](https://www.youtube.com/playlist?list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5)
 -   [101 Excel Functions you should
     know](https://exceljet.net/101-excel-functions)
--   [Excel Charting
-    Templates](https://simplexct.com/charts-in-excel-templates)
 
 # Replication, open science and reproducibility
 
