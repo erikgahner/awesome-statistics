@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1495 active links
-in the dataset. The 248 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1502 active links
+in the dataset. The 250 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -317,6 +317,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [A curated list of awesome posts, videos, and articles on leading a
     data team (small and
     large)](https://github.com/ronikobrosly/awesome-data-leadership)
+-   [List of tools and techniques for working with relational
+    databases](https://github.com/danhuss/awesome-sql)
 
 ## Missing data
 
@@ -461,6 +463,8 @@ listed below. Feel free to add additional links to the dataset.
     Python](https://datawranglingpy.gagolewski.com/)
 -   [Pandas Illustrated: The Definitive Visual Guide to
     Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
+-   [Google Python Style
+    Guide](https://google.github.io/styleguide/pyguide.html)
 
 ## Julia
 
