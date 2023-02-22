@@ -1518,3 +1518,8 @@ id,title,url,category,dead,awesome,revision
 1517,"Prediction Intervals for Linear Mixed Effects Models",https://deanmarchiori.rbind.io/post/prediction-intervals-for-linear-mixed-effects-models/,R,0,0,"2023-02-13"
 1518,"Should I learn Stan?",https://www.jumpingrivers.com/blog/why-stan/,R,0,0,"2023-02-13"
 1519,"List of tools and techniques for working with relational databases",https://github.com/danhuss/awesome-sql,data,0,1,"2023-02-13"
+1520,"Building reproducible analytical pipelines with R",https://raps-with-r.dev/,R,0,0,"20223-02-17"
+1521,"A Critical Field Guide for Working with Machine Learning Datasets",https://knowingmachines.org/critical-field-guide,machinelearning,0,0,"2023-02-17"
+1522,"Awesome-LLM: everything you need to know about Large Language Model",https://github.com/Hannibal046/Awesome-LLM,machinelearning,0,0,"2023-02-19"
+1523,"How to do a Kruskal-Wallis Test in R",https://www.marsja.se/how-to-do-a-kruskal-wallis-test-in-r/,R,0,0,"2023-02-20"
+1524,"Introduction to ICA: Independent Component Analysis",https://towardsdatascience.com/introduction-to-ica-independent-component-analysis-b2c3c4720cd9,R,0,0,"2023-02-21"
