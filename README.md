@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1535 active links
-in the dataset. The 251 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1539 active links
+in the dataset. The 252 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -290,6 +290,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [What to consider when using text in data
     visualizations](https://blog.datawrapper.de/text-in-data-visualizations/)
 -   [Beautiful Public Data](https://www.beautifulpublicdata.com/)
+-   [Easy Graph Mistakes to
+    Avoid](https://nickch-k.github.io/DataCommSlides/Easy_Mistakes_to_Avoid.html)
 
 # Data
 

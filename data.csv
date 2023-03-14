@@ -1551,3 +1551,7 @@ id,title,url,category,dead,awesome,revision
 1550,"Render parameterized reports with Quarto",https://www.jhelvy.com/posts/2023-02-28-parameterized-pdfs-with-quarto/,R,0,0,"2023-03-07"
 1551,"The Power of Minimalist Maps",https://www.bloomberg.com/news/newsletters/2023-02-22/maplab-an-interview-with-artist-and-mapmaker-peter-gorman,visualisation,0,0,"2023-03-07"
 1552,"How Discord Stores Trillions of Messages",https://discord.com/blog/how-discord-stores-trillions-of-messages,data,0,0,"2023-03-08"
+1553,"Easy Graph Mistakes to Avoid",https://nickch-k.github.io/DataCommSlides/Easy_Mistakes_to_Avoid.html,visualisation,0,1,"2023-03-11"
+1554,"Organising R scripts",https://www.seascapemodels.org/rstats/2023/03/10/organising-r-scripts.html,R,0,0,"2023-03-13"
+1555,"The Shortcomings of Standardized Regression Coefficients",https://data.library.virginia.edu/the-shortcomings-of-standardized-regression-coefficients/,regression,0,0,"2023-03-13"
+1556,"Deep learning with Keras using MNIST dataset",https://divingintogeneticsandgenomics.rbind.io/post/deep-learning-with-keras-using-mnst-dataset/,R,0,0,"2023-03-13"
