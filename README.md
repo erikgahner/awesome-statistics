@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1557 active links
-in the dataset. The 253 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1564 active links
+in the dataset. The 254 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -150,6 +150,8 @@ listed below. Feel free to add additional links to the dataset.
     Regression](https://mlu-explain.github.io/linear-regression/)
 -   [Logistic regression is not
     fucked](http://jakewestfall.org/blog/index.php/2018/03/12/logistic-regression-is-not-fucked/)
+-   [A User’s Guide to Statistical Inference and
+    Regression](https://mattblackwell.github.io/gov2002-book/)
 
 ## Bayesian
 
