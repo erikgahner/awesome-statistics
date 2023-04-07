@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1564 active links
-in the dataset. The 254 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1572 active links
+in the dataset. The 255 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -434,6 +434,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Deep R Programming](https://deepr.gagolewski.com/)
 -   [Telling Stories with Data: With applications in
     R](https://tellingstorieswithdata.com/)
+-   [Deep Learning and Scientific Computing with R
+    torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/)
 
 ## Python
 
