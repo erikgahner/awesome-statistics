@@ -1597,3 +1597,8 @@ id,title,url,category,dead,awesome,revision
 1596,"On Efficient Training of Large-Scale Deep Learning Models: A Literature Review",https://arxiv.org/abs/2304.03589,machinelearning,0,0,"2023-04-10"
 1597,"Dependently Typing R Vectors, Arrays, and Matrices",https://arxiv.org/abs/2304.04265,R,0,0,"2023-04-11"
 1598,"Tidyteam code review principles",https://tidyverse.github.io/code-review/,R,0,0,"2023-04-11"
+1599,"The tidymodels is getting a whole lot faster",https://www.simonpcouch.com/blog/speedups-2023/,R,0,0,"2023-04-13"
+1600,"Making maps with R",https://www.paulamoraga.com/tutorial-maps/,R,0,0,"2023-04-13"
+1601,"Preventing common misconceptions about Bayes Factors",https://daniellakens.blogspot.com/2023/04/preventing-common-misconceptions-about.html,Bayesian,0,0,"2023-04-13"
+1602,"A Course in Machine Learning",http://ciml.info/,machinelearning,0,1,"2023-04-13"
+1603,"Unleash the Power of Functional Programming in R with the purrr Package",https://analyticadss.com/unleash-the-power-of-functional-programming-in-r-with-the-purrr-package/,R,0,0,"2023-04-15"
