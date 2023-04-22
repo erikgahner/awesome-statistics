@@ -1,8 +1,8 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1586 active links
-in the dataset. The 256 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1594 active links
+in the dataset. The 257 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # General
@@ -211,6 +211,7 @@ listed below. Feel free to add additional links to the dataset.
 -   [The Illustrated Machine Learning
     website](https://illustrated-machine-learning.github.io/)
 -   [A Course in Machine Learning](http://ciml.info/)
+-   [Deep Learning](https://www.deeplearningbook.org/)
 
 ## Experiments
 
