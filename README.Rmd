@@ -20,6 +20,17 @@ df <- df_raw |>
 
 The repository consists of a dataset with curated links to material dealing with statistics and data. There is a total of `r NROW(df_raw[df_raw$dead == 0,])` active links in the dataset. The `r NROW(df_raw[df_raw$awesome == 1 & df_raw$dead == 0,])` awesome/recommended links in the dataset are listed below. Feel free to add additional links to the dataset.
 
+# Most recent links added to the dataset
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+df_raw |> 
+  arrange(desc(id)) |> 
+  slice(1:15) |> 
+  transmute(title = paste0("[", title, "](", url, ")"), category) |> 
+  pull(title) |> 
+  pander::pandoc.list(add.end.of.list = FALSE)
+```
+
 # General
 
 ```{r generateTableGeneral, echo=FALSE, message=FALSE, warning=FALSE}

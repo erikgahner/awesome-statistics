@@ -5,6 +5,39 @@ dealing with statistics and data. There is a total of 1627 active links
 in the dataset. The 257 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
+# Most recent links added to the dataset
+
+-   [Demystifying Item Response Theory (4/4): Rating Scale Models and
+    Ordered Logit Distributions](https://yongfu.name/2023/04/26/irt4/)
+-   [Demystifying Item Response Theory (3/4): Improving Estimation
+    through Partial Pooling](https://yongfu.name/2023/03/29/irt3/)
+-   [Demystifying Item Response Theory (2/4): IRT as Generalized Linear
+    Models](https://yongfu.name/2023/03/06/irt2/)
+-   [Demystifying Item Response Theory (1/4): Playing God through
+    Simulations](https://yongfu.name/2023/02/25/irt1/)
+-   [Correcting selection effects of noisy polygenic scores: an idiot’s
+    guide](https://hughjonesd.github.io/fertility-sumstats/estimating-selection-effects-idiots-guide.html)
+-   [r2mlm: An R package calculating R-squared measures for multilevel
+    models](https://doi.org/10.3758/s13428-022-01841-4)
+-   [Assessing the effects of generation using age-period-cohort
+    analysis](https://www.pewresearch.org/decoded/2023/05/22/assessing-the-effects-of-generation-using-age-period-cohort-analysis/)
+-   [Nine tips for ecologists using machine
+    learning](https://arxiv.org/abs/2305.10472)
+-   [Spatial regionalization using universal superpixels
+    algorithm](https://jakubnowosad.com/posts/2023-05-15-supercells-bp2/)
+-   [supercells: universal superpixels algorithm for applications to
+    geospatial
+    data](https://jakubnowosad.com/posts/2023-04-30-supercells-bp1/)
+-   [Awesome Spatial
+    Data](https://github.com/bchapuis/awesome-spatial-data)
+-   [Coloring in R’s Blind Spot](https://arxiv.org/abs/2303.04918)
+-   [Creative axes: Let your Y-axis follow the
+    data](https://www.theplot.media/p/creative-axes)
+-   [Optical Illusions and Data
+    Viz](https://domoorewithdata.com/2023/05/02/optical-illusions-and-data-viz/)
+-   [A guide to Bayesian proportion tests with R and
+    {brms}](https://www.andrewheiss.com/blog/2023/05/15/fancy-bayes-diffs-props/)
+
 # General
 
 -   [Statistics Done Wrong: The woefully complete
