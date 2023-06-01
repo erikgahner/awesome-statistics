@@ -1,12 +1,26 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1627 active links
-in the dataset. The 257 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1634 active links
+in the dataset. The 258 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [A First Course in Causal
+    Inference](https://arxiv.org/abs/2305.18793)
+-   [Curried functions in
+    R](https://mikedecr.netlify.app/blog/partial_fns_ggplot/)
+-   [Showing women proportion of Parliamentarians on a
+    map](http://freerangestats.info/blog/2023/05/26/women-parl-map)
+-   [Using ChatGPT for Creating Multiple- and Single-Choice R/exams
+    Questions](https://www.r-exams.org/tutorials/chatgpt/)
+-   [How to Use GitHub Actions with R to Run Code
+    Automatically](https://rfortherestofus.com/2023/05/github-actions/)
+-   [Applied Data Skills: Processing & Presenting
+    Data](https://psyteachr.github.io/ads-v2/)
+-   [purrr::walk() this
+    way](https://www.tidyverse.org/blog/2023/05/purrr-walk-this-way/)
 -   [Demystifying Item Response Theory (4/4): Rating Scale Models and
     Ordered Logit Distributions](https://yongfu.name/2023/04/26/irt4/)
 -   [Demystifying Item Response Theory (3/4): Improving Estimation
@@ -23,20 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     analysis](https://www.pewresearch.org/decoded/2023/05/22/assessing-the-effects-of-generation-using-age-period-cohort-analysis/)
 -   [Nine tips for ecologists using machine
     learning](https://arxiv.org/abs/2305.10472)
--   [Spatial regionalization using universal superpixels
-    algorithm](https://jakubnowosad.com/posts/2023-05-15-supercells-bp2/)
--   [supercells: universal superpixels algorithm for applications to
-    geospatial
-    data](https://jakubnowosad.com/posts/2023-04-30-supercells-bp1/)
--   [Awesome Spatial
-    Data](https://github.com/bchapuis/awesome-spatial-data)
--   [Coloring in R’s Blind Spot](https://arxiv.org/abs/2303.04918)
--   [Creative axes: Let your Y-axis follow the
-    data](https://www.theplot.media/p/creative-axes)
--   [Optical Illusions and Data
-    Viz](https://domoorewithdata.com/2023/05/02/optical-illusions-and-data-viz/)
--   [A guide to Bayesian proportion tests with R and
-    {brms}](https://www.andrewheiss.com/blog/2023/05/15/fancy-bayes-diffs-props/)
 
 # General
 
@@ -96,6 +96,8 @@ listed below. Feel free to add additional links to the dataset.
     Applications](https://mattblackwell.github.io/gov2003-f21-site/)
 -   [STAT 286/GOV 2003: Causal Inference with
     Applications](https://imai.fas.harvard.edu/teaching/cause.html)
+-   [A First Course in Causal
+    Inference](https://arxiv.org/abs/2305.18793)
 
 ## Ethics and Fairness
 
