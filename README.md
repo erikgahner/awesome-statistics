@@ -1,12 +1,25 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1634 active links
+dealing with statistics and data. There is a total of 1641 active links
 in the dataset. The 258 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Teaching Confidence Intervals and Hypothesis Testing with
+    gganimate](http://www.carlislerainey.com/blog/2023-06-01-teaching-confidence-intervals-with-gganimate/)
+-   [Using R + VSCode](https://rolkra.github.io/R-VSCode/)
+-   [Static and Dynamic Web Scraping with
+    R](https://tim-tiefenbach.de/post/2023-web-scraping/)
+-   [Simulating confounders, colliders and
+    mediators](http://freerangestats.info/blog/2023/06/04/causality-sims)
+-   [How to make fancy road trip maps with R and
+    OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
+-   [Introduction to Data Visualization for the
+    Web](https://colinmegill.com/blog/introduction-data-viz-web/)
+-   [Learning Julia with \#TidyTuesday and
+    Tidier.jl](https://nrennie.rbind.io/blog/learning-julia-with-tidytuesday-tidier/)
 -   [A First Course in Causal
     Inference](https://arxiv.org/abs/2305.18793)
 -   [Curried functions in
@@ -23,20 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     way](https://www.tidyverse.org/blog/2023/05/purrr-walk-this-way/)
 -   [Demystifying Item Response Theory (4/4): Rating Scale Models and
     Ordered Logit Distributions](https://yongfu.name/2023/04/26/irt4/)
--   [Demystifying Item Response Theory (3/4): Improving Estimation
-    through Partial Pooling](https://yongfu.name/2023/03/29/irt3/)
--   [Demystifying Item Response Theory (2/4): IRT as Generalized Linear
-    Models](https://yongfu.name/2023/03/06/irt2/)
--   [Demystifying Item Response Theory (1/4): Playing God through
-    Simulations](https://yongfu.name/2023/02/25/irt1/)
--   [Correcting selection effects of noisy polygenic scores: an idiot’s
-    guide](https://hughjonesd.github.io/fertility-sumstats/estimating-selection-effects-idiots-guide.html)
--   [r2mlm: An R package calculating R-squared measures for multilevel
-    models](https://doi.org/10.3758/s13428-022-01841-4)
--   [Assessing the effects of generation using age-period-cohort
-    analysis](https://www.pewresearch.org/decoded/2023/05/22/assessing-the-effects-of-generation-using-age-period-cohort-analysis/)
--   [Nine tips for ecologists using machine
-    learning](https://arxiv.org/abs/2305.10472)
 
 # General
 
