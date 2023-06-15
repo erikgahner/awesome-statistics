@@ -1657,3 +1657,8 @@ id,title,url,category,dead,awesome,revision
 1656,"Static and Dynamic Web Scraping with R",https://tim-tiefenbach.de/post/2023-web-scraping/,R,0,0,"2023-06-05"
 1657,"Using R + VSCode",https://rolkra.github.io/R-VSCode/,R,0,0,"2023-06-05"
 1658,"Teaching Confidence Intervals and Hypothesis Testing with gganimate",http://www.carlislerainey.com/blog/2023-06-01-teaching-confidence-intervals-with-gganimate/,R,0,0,"2023-06-06"
+1659,"Building a Dataviz Design System for a Medical Research Project",https://www.cararthompson.com/talks/rmedicine2023-dataviz-design-system/,R,0,0,"2023-06-09"
+1660,"rang: Reconstructing reproducible R computational environments",https://doi.org/10.1371/journal.pone.0286761,R,0,0,"2023-06-11"
+1661,"Quarto at Work: Streamline Reports and Share Insights",https://posit.co/blog/quarto-at-work/,R,0,0,"2023-06-12"
+1662,"Deploy your models on Amazon SageMaker with vetiver",https://posit.co/blog/vetiver-sagemaker/,R,0,0,"2023-06-12"
+1663,"Why did Marketing Science at Meta develop marsci, an internal R library?",https://developers.facebook.com/blog/post/2023/06/14/why-did-marketing-science-at-meta-develop-marsci-an-internal-R-library/,R,0,0,"2023-06-15"

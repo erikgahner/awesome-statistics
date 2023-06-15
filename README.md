@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1641 active links
+dealing with statistics and data. There is a total of 1646 active links
 in the dataset. The 258 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Why did Marketing Science at Meta develop marsci, an internal R
+    library?](https://developers.facebook.com/blog/post/2023/06/14/why-did-marketing-science-at-meta-develop-marsci-an-internal-R-library/)
+-   [Deploy your models on Amazon SageMaker with
+    vetiver](https://posit.co/blog/vetiver-sagemaker/)
+-   [Quarto at Work: Streamline Reports and Share
+    Insights](https://posit.co/blog/quarto-at-work/)
+-   [rang: Reconstructing reproducible R computational
+    environments](https://doi.org/10.1371/journal.pone.0286761)
+-   [Building a Dataviz Design System for a Medical Research
+    Project](https://www.cararthompson.com/talks/rmedicine2023-dataviz-design-system/)
 -   [Teaching Confidence Intervals and Hypothesis Testing with
     gganimate](http://www.carlislerainey.com/blog/2023-06-01-teaching-confidence-intervals-with-gganimate/)
 -   [Using R + VSCode](https://rolkra.github.io/R-VSCode/)
@@ -26,16 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     R](https://mikedecr.netlify.app/blog/partial_fns_ggplot/)
 -   [Showing women proportion of Parliamentarians on a
     map](http://freerangestats.info/blog/2023/05/26/women-parl-map)
--   [Using ChatGPT for Creating Multiple- and Single-Choice R/exams
-    Questions](https://www.r-exams.org/tutorials/chatgpt/)
--   [How to Use GitHub Actions with R to Run Code
-    Automatically](https://rfortherestofus.com/2023/05/github-actions/)
--   [Applied Data Skills: Processing & Presenting
-    Data](https://psyteachr.github.io/ads-v2/)
--   [purrr::walk() this
-    way](https://www.tidyverse.org/blog/2023/05/purrr-walk-this-way/)
--   [Demystifying Item Response Theory (4/4): Rating Scale Models and
-    Ordered Logit Distributions](https://yongfu.name/2023/04/26/irt4/)
 
 # General
 
