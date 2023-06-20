@@ -1,12 +1,33 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1646 active links
+dealing with statistics and data. There is a total of 1656 active links
 in the dataset. The 258 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Row relational operations with
+    slice()](https://yjunechoe.github.io/posts/2023-06-11-row-relational-operations/)
+-   [Pulling a formula from a recipe
+    object](https://www.spsanderson.com/steveondata/posts/2023-06-14/index.html)
+-   [Power, Part III: The Rule of 3.64 for Statistical
+    Power](https://www.carlislerainey.com/blog/2023-06-12-power-3-rule-of-364/index.html)
+-   [Power, Part II: What Do Confidence Intervals from Well-Powered
+    Studies Look
+    Like?](https://www.carlislerainey.com/blog/2023-05-25-power-2-what-do-confidence-intervals-look-like/)
+-   [Power, Part I: Power Is for You, Not for Reviewer
+    Two](https://www.carlislerainey.com/blog/2023-05-22-power-1-for-you-not-reviewer-2/)
+-   [morestopwords: All Stop Words in One
+    Place](https://fatelarico.github.io/morestopwords/)
+-   [Easy database access with a custom R6
+    package](https://reds-code-collection.netlify.app/posts/r_db_connector/)
+-   [Mastering the Power of R’s diff() Function: A Programmer’s
+    Guide](https://www.spsanderson.com/steveondata/posts/2023-06-16/index.html)
+-   [Bayesian structural equation model
+    tutorial](https://www.seascapemodels.org/rstats/2023/06/15/bayesian-sem-tute.html)
+-   [Spatial Statistics for Data Science: Theory and Practice with
+    R](https://www.paulamoraga.com/book-spatial/)
 -   [Why did Marketing Science at Meta develop marsci, an internal R
     library?](https://developers.facebook.com/blog/post/2023/06/14/why-did-marketing-science-at-meta-develop-marsci-an-internal-R-library/)
 -   [Deploy your models on Amazon SageMaker with
@@ -17,25 +38,6 @@ listed below. Feel free to add additional links to the dataset.
     environments](https://doi.org/10.1371/journal.pone.0286761)
 -   [Building a Dataviz Design System for a Medical Research
     Project](https://www.cararthompson.com/talks/rmedicine2023-dataviz-design-system/)
--   [Teaching Confidence Intervals and Hypothesis Testing with
-    gganimate](http://www.carlislerainey.com/blog/2023-06-01-teaching-confidence-intervals-with-gganimate/)
--   [Using R + VSCode](https://rolkra.github.io/R-VSCode/)
--   [Static and Dynamic Web Scraping with
-    R](https://tim-tiefenbach.de/post/2023-web-scraping/)
--   [Simulating confounders, colliders and
-    mediators](http://freerangestats.info/blog/2023/06/04/causality-sims)
--   [How to make fancy road trip maps with R and
-    OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
--   [Introduction to Data Visualization for the
-    Web](https://colinmegill.com/blog/introduction-data-viz-web/)
--   [Learning Julia with \#TidyTuesday and
-    Tidier.jl](https://nrennie.rbind.io/blog/learning-julia-with-tidytuesday-tidier/)
--   [A First Course in Causal
-    Inference](https://arxiv.org/abs/2305.18793)
--   [Curried functions in
-    R](https://mikedecr.netlify.app/blog/partial_fns_ggplot/)
--   [Showing women proportion of Parliamentarians on a
-    map](http://freerangestats.info/blog/2023/05/26/women-parl-map)
 
 # General
 
