@@ -1,12 +1,34 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1656 active links
+dealing with statistics and data. There is a total of 1666 active links
 in the dataset. The 258 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Artifact corrections for effect sizes: equations, code, and
+    interactive
+    app](https://matthewbjane.github.io/artifact-corrections/)
+-   [What Makes Raincloud Plots
+    Tick?](https://mcorrell.medium.com/what-makes-raincloud-plots-tick-1cc0f68e3e5a)
+-   [Mastering Data Aggregation with xtabs() in
+    R](https://www.spsanderson.com/steveondata/posts/2023-06-20/index.html)
+-   [How Can Someone Else Use My
+    Model?](https://matthewrkaye.com/posts/series/doing-data-science/2023-06-20-how-can-others-use-my-model/how-can-others-use-my-model.html)
+-   [Order Constraints in Bayes Models (with
+    brms)](https://blog.msbstats.info/posts/2023-06-26-order-constraints-in-brms/)
+-   [Student’s t-test explained with R and
+    Pokemon](https://pacha.dev/blog/2023/06/24/t-test/index.html)
+-   [The React Graph Gallery](https://www.react-graph-gallery.com/)
+-   [Setting up Github Copilot and
+    VSCode](https://paulgp.substack.com/p/setting-up-github-copilot-and-vscode)
+-   [GPT-2 from scratch with
+    torch](https://blogs.rstudio.com/ai/posts/2023-06-20-gpt2-torch/)
+-   [What are Large Language Models? What are they
+    not?](https://blogs.rstudio.com/ai/posts/2023-06-20-llm-intro/)
+-   [Large Language Models: A Complete
+    Guide](https://heartbeat.comet.ml/large-language-models-a-complete-guide-f818397c82d4)
 -   [Row relational operations with
     slice()](https://yjunechoe.github.io/posts/2023-06-11-row-relational-operations/)
 -   [Pulling a formula from a recipe
@@ -16,28 +38,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [Power, Part II: What Do Confidence Intervals from Well-Powered
     Studies Look
     Like?](https://www.carlislerainey.com/blog/2023-05-25-power-2-what-do-confidence-intervals-look-like/)
--   [Power, Part I: Power Is for You, Not for Reviewer
-    Two](https://www.carlislerainey.com/blog/2023-05-22-power-1-for-you-not-reviewer-2/)
--   [morestopwords: All Stop Words in One
-    Place](https://fatelarico.github.io/morestopwords/)
--   [Easy database access with a custom R6
-    package](https://reds-code-collection.netlify.app/posts/r_db_connector/)
--   [Mastering the Power of R’s diff() Function: A Programmer’s
-    Guide](https://www.spsanderson.com/steveondata/posts/2023-06-16/index.html)
--   [Bayesian structural equation model
-    tutorial](https://www.seascapemodels.org/rstats/2023/06/15/bayesian-sem-tute.html)
--   [Spatial Statistics for Data Science: Theory and Practice with
-    R](https://www.paulamoraga.com/book-spatial/)
--   [Why did Marketing Science at Meta develop marsci, an internal R
-    library?](https://developers.facebook.com/blog/post/2023/06/14/why-did-marketing-science-at-meta-develop-marsci-an-internal-R-library/)
--   [Deploy your models on Amazon SageMaker with
-    vetiver](https://posit.co/blog/vetiver-sagemaker/)
--   [Quarto at Work: Streamline Reports and Share
-    Insights](https://posit.co/blog/quarto-at-work/)
--   [rang: Reconstructing reproducible R computational
-    environments](https://doi.org/10.1371/journal.pone.0286761)
--   [Building a Dataviz Design System for a Medical Research
-    Project](https://www.cararthompson.com/talks/rmedicine2023-dataviz-design-system/)
 
 # General
 
