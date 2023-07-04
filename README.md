@@ -1,12 +1,27 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1666 active links
-in the dataset. The 258 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1674 active links
+in the dataset. The 260 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Road trip analysis! How to use and play with Google Location
+    History in
+    R](https://www.andrewheiss.com/blog/2023/07/03/using-google-location-history-with-r-roadtrip/)
+-   [A Gentle Introduction to
+    Docker](https://matthewrkaye.com/posts/series/doing-data-science/2023-06-03-docker/docker.html)
+-   [Unit Testing Analytics
+    Code](https://matthewrkaye.com/posts/series/doing-data-science/2023-04-03-unit-testing/unit-testing.html)
+-   [Lessons Learned From Running R in
+    Production](https://matthewrkaye.com/posts/2023-06-29-lessons-learned-from-running-r-in-production/lessons-learned-from-running-r-in-production.html)
+-   [The ave() Function in
+    R](https://www.spsanderson.com/steveondata/posts/2023-06-27/index.html)
+-   [Using a Data Dictionary to Recode Columns with
+    dplyr](https://tim-tiefenbach.de/post/2023-recode-columns/)
+-   [Understanding missing data mechanisms using causal
+    DAGs](https://cameronpatrick.com/post/2023/06/untangling-mar-mcar-mnar/)
 -   [Artifact corrections for effect sizes: equations, code, and
     interactive
     app](https://matthewbjane.github.io/artifact-corrections/)
@@ -23,21 +38,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [The React Graph Gallery](https://www.react-graph-gallery.com/)
 -   [Setting up Github Copilot and
     VSCode](https://paulgp.substack.com/p/setting-up-github-copilot-and-vscode)
--   [GPT-2 from scratch with
-    torch](https://blogs.rstudio.com/ai/posts/2023-06-20-gpt2-torch/)
--   [What are Large Language Models? What are they
-    not?](https://blogs.rstudio.com/ai/posts/2023-06-20-llm-intro/)
--   [Large Language Models: A Complete
-    Guide](https://heartbeat.comet.ml/large-language-models-a-complete-guide-f818397c82d4)
--   [Row relational operations with
-    slice()](https://yjunechoe.github.io/posts/2023-06-11-row-relational-operations/)
--   [Pulling a formula from a recipe
-    object](https://www.spsanderson.com/steveondata/posts/2023-06-14/index.html)
--   [Power, Part III: The Rule of 3.64 for Statistical
-    Power](https://www.carlislerainey.com/blog/2023-06-12-power-3-rule-of-364/index.html)
--   [Power, Part II: What Do Confidence Intervals from Well-Powered
-    Studies Look
-    Like?](https://www.carlislerainey.com/blog/2023-05-25-power-2-what-do-confidence-intervals-look-like/)
 
 # General
 
@@ -474,6 +474,8 @@ listed below. Feel free to add additional links to the dataset.
     R](https://tellingstorieswithdata.com/)
 -   [Deep Learning and Scientific Computing with R
     torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/)
+-   [Lessons Learned From Running R in
+    Production](https://matthewrkaye.com/posts/2023-06-29-lessons-learned-from-running-r-in-production/lessons-learned-from-running-r-in-production.html)
 
 ## Python
 
