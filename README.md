@@ -1,12 +1,18 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1674 active links
+dealing with statistics and data. There is a total of 1677 active links
 in the dataset. The 260 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [What tokens are used more vs. less in \#TidyTuesday place
+    names?](https://juliasilge.com/blog/place-names/)
+-   [ML system design: 200 case studies to learn
+    from](https://www.evidentlyai.com/ml-system-design)
+-   [Quantile Loss & Quantile
+    Regression](https://towardsdatascience.com/quantile-loss-and-quantile-regression-b0689c13f54d)
 -   [Road trip analysis! How to use and play with Google Location
     History in
     R](https://www.andrewheiss.com/blog/2023/07/03/using-google-location-history-with-r-roadtrip/)
@@ -33,11 +39,6 @@ listed below. Feel free to add additional links to the dataset.
     Model?](https://matthewrkaye.com/posts/series/doing-data-science/2023-06-20-how-can-others-use-my-model/how-can-others-use-my-model.html)
 -   [Order Constraints in Bayes Models (with
     brms)](https://blog.msbstats.info/posts/2023-06-26-order-constraints-in-brms/)
--   [Student’s t-test explained with R and
-    Pokemon](https://pacha.dev/blog/2023/06/24/t-test/index.html)
--   [The React Graph Gallery](https://www.react-graph-gallery.com/)
--   [Setting up Github Copilot and
-    VSCode](https://paulgp.substack.com/p/setting-up-github-copilot-and-vscode)
 
 # General
 

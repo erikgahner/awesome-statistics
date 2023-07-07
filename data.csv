@@ -1690,3 +1690,6 @@ id,title,url,category,dead,awesome,revision
 1689,"Unit Testing Analytics Code",https://matthewrkaye.com/posts/series/doing-data-science/2023-04-03-unit-testing/unit-testing.html,R,0,0,"2023-07-03"
 1690,"A Gentle Introduction to Docker",https://matthewrkaye.com/posts/series/doing-data-science/2023-06-03-docker/docker.html,R,0,0,"2023-07-03"
 1691,"Road trip analysis! How to use and play with Google Location History in R",https://www.andrewheiss.com/blog/2023/07/03/using-google-location-history-with-r-roadtrip/,R,0,0,"2023-07-04"
+1692,"Quantile Loss & Quantile Regression",https://towardsdatascience.com/quantile-loss-and-quantile-regression-b0689c13f54d,Python,0,0,"2023-07-04"
+1693,"ML system design: 200 case studies to learn from",https://www.evidentlyai.com/ml-system-design,machinelearning,0,0,"2023-07-04"
+1694,"What tokens are used more vs. less in #TidyTuesday place names?",https://juliasilge.com/blog/place-names/,R,0,0,"2023-07-06"
