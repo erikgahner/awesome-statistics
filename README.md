@@ -1,12 +1,16 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1677 active links
-in the dataset. The 260 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1679 active links
+in the dataset. The 261 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Fumbling my way through an XY
+    problem](https://yjunechoe.github.io/posts/2023-07-09-x-y-problem/)
+-   [Introduction to Statistical Learning with Applications in
+    Python](https://hastie.su.domains/ISLP/ISLP_website.pdf)
 -   [What tokens are used more vs. less in \#TidyTuesday place
     names?](https://juliasilge.com/blog/place-names/)
 -   [ML system design: 200 case studies to learn
@@ -35,10 +39,6 @@ listed below. Feel free to add additional links to the dataset.
     Tick?](https://mcorrell.medium.com/what-makes-raincloud-plots-tick-1cc0f68e3e5a)
 -   [Mastering Data Aggregation with xtabs() in
     R](https://www.spsanderson.com/steveondata/posts/2023-06-20/index.html)
--   [How Can Someone Else Use My
-    Model?](https://matthewrkaye.com/posts/series/doing-data-science/2023-06-20-how-can-others-use-my-model/how-can-others-use-my-model.html)
--   [Order Constraints in Bayes Models (with
-    brms)](https://blog.msbstats.info/posts/2023-06-26-order-constraints-in-brms/)
 
 # General
 
@@ -516,6 +516,8 @@ listed below. Feel free to add additional links to the dataset.
     Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
 -   [Google Python Style
     Guide](https://google.github.io/styleguide/pyguide.html)
+-   [Introduction to Statistical Learning with Applications in
+    Python](https://hastie.su.domains/ISLP/ISLP_website.pdf)
 
 ## Julia
 

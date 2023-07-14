@@ -1693,3 +1693,5 @@ id,title,url,category,dead,awesome,revision
 1692,"Quantile Loss & Quantile Regression",https://towardsdatascience.com/quantile-loss-and-quantile-regression-b0689c13f54d,Python,0,0,"2023-07-04"
 1693,"ML system design: 200 case studies to learn from",https://www.evidentlyai.com/ml-system-design,machinelearning,0,0,"2023-07-04"
 1694,"What tokens are used more vs. less in #TidyTuesday place names?",https://juliasilge.com/blog/place-names/,R,0,0,"2023-07-06"
+1695,"Introduction to Statistical Learning with Applications in Python",https://hastie.su.domains/ISLP/ISLP_website.pdf,Python,0,1,"2023-07-10"
+1696,"Fumbling my way through an XY problem",https://yjunechoe.github.io/posts/2023-07-09-x-y-problem/,R,0,0,"2023-07-10"
