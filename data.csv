@@ -1695,3 +1695,8 @@ id,title,url,category,dead,awesome,revision
 1694,"What tokens are used more vs. less in #TidyTuesday place names?",https://juliasilge.com/blog/place-names/,R,0,0,"2023-07-06"
 1695,"Introduction to Statistical Learning with Applications in Python",https://hastie.su.domains/ISLP/ISLP_website.pdf,Python,0,1,"2023-07-10"
 1696,"Fumbling my way through an XY problem",https://yjunechoe.github.io/posts/2023-07-09-x-y-problem/,R,0,0,"2023-07-10"
+1697,"From forecast to fable, design decisions for statistical software",https://slides.mitchelloharawild.com/nyr2023/,R,0,0,"2023-07-15"
+1698,"Ordering constraints in brms using contrast coding",https://www.tjmahr.com/bayesian-ordering-constraint/,R,0,0,"2023-07-17"
+1699,"Tree models for assessing covariate-dependent method agreement",https://www.zeileis.org/news/coat/,R,0,0,"2023-07-17"
+1700,"Testing functional specification in linear regression",https://vgherard.github.io/posts/2023-07-11-testing-functional-specification-in-linear-regression/,R,0,0,"2023-07-17"
+1701,"CheatSheet for coding in R, Python and Julia",https://geekcologist.wordpress.com/2023/07/04/cheatsheet-for-coding-in-r-python-and-julia/,Julia,0,0,"2023-07-17"

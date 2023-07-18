@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1679 active links
+dealing with statistics and data. There is a total of 1684 active links
 in the dataset. The 261 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [CheatSheet for coding in R, Python and
+    Julia](https://geekcologist.wordpress.com/2023/07/04/cheatsheet-for-coding-in-r-python-and-julia/)
+-   [Testing functional specification in linear
+    regression](https://vgherard.github.io/posts/2023-07-11-testing-functional-specification-in-linear-regression/)
+-   [Tree models for assessing covariate-dependent method
+    agreement](https://www.zeileis.org/news/coat/)
+-   [Ordering constraints in brms using contrast
+    coding](https://www.tjmahr.com/bayesian-ordering-constraint/)
+-   [From forecast to fable, design decisions for statistical
+    software](https://slides.mitchelloharawild.com/nyr2023/)
 -   [Fumbling my way through an XY
     problem](https://yjunechoe.github.io/posts/2023-07-09-x-y-problem/)
 -   [Introduction to Statistical Learning with Applications in
@@ -28,17 +38,6 @@ listed below. Feel free to add additional links to the dataset.
     Production](https://matthewrkaye.com/posts/2023-06-29-lessons-learned-from-running-r-in-production/lessons-learned-from-running-r-in-production.html)
 -   [The ave() Function in
     R](https://www.spsanderson.com/steveondata/posts/2023-06-27/index.html)
--   [Using a Data Dictionary to Recode Columns with
-    dplyr](https://tim-tiefenbach.de/post/2023-recode-columns/)
--   [Understanding missing data mechanisms using causal
-    DAGs](https://cameronpatrick.com/post/2023/06/untangling-mar-mcar-mnar/)
--   [Artifact corrections for effect sizes: equations, code, and
-    interactive
-    app](https://matthewbjane.github.io/artifact-corrections/)
--   [What Makes Raincloud Plots
-    Tick?](https://mcorrell.medium.com/what-makes-raincloud-plots-tick-1cc0f68e3e5a)
--   [Mastering Data Aggregation with xtabs() in
-    R](https://www.spsanderson.com/steveondata/posts/2023-06-20/index.html)
 
 # General
 
