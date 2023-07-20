@@ -1,12 +1,26 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1684 active links
-in the dataset. The 261 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1691 active links
+in the dataset. The 263 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Advanced Python
+    Mastery](https://github.com/dabeaz-course/python-mastery)
+-   [Practical Python
+    Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+-   [Classification metrics for \#TidyTuesday GPT
+    detectors](https://juliasilge.com/blog/gpt-detectors/)
+-   [Tips for debugging and cleaning broken
+    code](https://datavizs23.classes.andrewheiss.com/news/2023-07-05_messy-broken-code-tips.html)
+-   [Common methodological
+    mistakes](https://doi.org/10.1016/j.leaqua.2023.101677)
+-   [Demystifying Text Data with the unstructured Python Library
+    (+alternatives)](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
+-   [Computing the eigendecomposition and the singular value
+    decomposition](https://peterbloem.nl/blog/pca-5)
 -   [CheatSheet for coding in R, Python and
     Julia](https://geekcologist.wordpress.com/2023/07/04/cheatsheet-for-coding-in-r-python-and-julia/)
 -   [Testing functional specification in linear
@@ -23,21 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     Python](https://hastie.su.domains/ISLP/ISLP_website.pdf)
 -   [What tokens are used more vs. less in \#TidyTuesday place
     names?](https://juliasilge.com/blog/place-names/)
--   [ML system design: 200 case studies to learn
-    from](https://www.evidentlyai.com/ml-system-design)
--   [Quantile Loss & Quantile
-    Regression](https://towardsdatascience.com/quantile-loss-and-quantile-regression-b0689c13f54d)
--   [Road trip analysis! How to use and play with Google Location
-    History in
-    R](https://www.andrewheiss.com/blog/2023/07/03/using-google-location-history-with-r-roadtrip/)
--   [A Gentle Introduction to
-    Docker](https://matthewrkaye.com/posts/series/doing-data-science/2023-06-03-docker/docker.html)
--   [Unit Testing Analytics
-    Code](https://matthewrkaye.com/posts/series/doing-data-science/2023-04-03-unit-testing/unit-testing.html)
--   [Lessons Learned From Running R in
-    Production](https://matthewrkaye.com/posts/2023-06-29-lessons-learned-from-running-r-in-production/lessons-learned-from-running-r-in-production.html)
--   [The ave() Function in
-    R](https://www.spsanderson.com/steveondata/posts/2023-06-27/index.html)
 
 # General
 
@@ -517,6 +516,10 @@ listed below. Feel free to add additional links to the dataset.
     Guide](https://google.github.io/styleguide/pyguide.html)
 -   [Introduction to Statistical Learning with Applications in
     Python](https://hastie.su.domains/ISLP/ISLP_website.pdf)
+-   [Practical Python
+    Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+-   [Advanced Python
+    Mastery](https://github.com/dabeaz-course/python-mastery)
 
 ## Julia
 
