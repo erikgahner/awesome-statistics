@@ -1,12 +1,21 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1691 active links
-in the dataset. The 263 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1696 active links
+in the dataset. The 264 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Comprehensive Python
+    Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+-   [Astronomia ex machina: a history, primer and outlook on neural
+    networks in astronomy](https://doi.org/10.1098/rsos.221454)
+-   [Why do people use
+    R?](https://www.reddit.com/r/datascience/comments/154qdbv/why_do_people_use_r/)
+-   [Making charts that make an
+    impact](https://www.youtube.com/watch?v=tIbaQUo6H9g)
+-   [Tidy design principles](https://design.tidyverse.org/)
 -   [Advanced Python
     Mastery](https://github.com/dabeaz-course/python-mastery)
 -   [Practical Python
@@ -27,16 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     regression](https://vgherard.github.io/posts/2023-07-11-testing-functional-specification-in-linear-regression/)
 -   [Tree models for assessing covariate-dependent method
     agreement](https://www.zeileis.org/news/coat/)
--   [Ordering constraints in brms using contrast
-    coding](https://www.tjmahr.com/bayesian-ordering-constraint/)
--   [From forecast to fable, design decisions for statistical
-    software](https://slides.mitchelloharawild.com/nyr2023/)
--   [Fumbling my way through an XY
-    problem](https://yjunechoe.github.io/posts/2023-07-09-x-y-problem/)
--   [Introduction to Statistical Learning with Applications in
-    Python](https://hastie.su.domains/ISLP/ISLP_website.pdf)
--   [What tokens are used more vs. less in \#TidyTuesday place
-    names?](https://juliasilge.com/blog/place-names/)
 
 # General
 
@@ -475,6 +474,7 @@ listed below. Feel free to add additional links to the dataset.
     torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/)
 -   [Lessons Learned From Running R in
     Production](https://matthewrkaye.com/posts/2023-06-29-lessons-learned-from-running-r-in-production/lessons-learned-from-running-r-in-production.html)
+-   [Tidy design principles](https://design.tidyverse.org/)
 
 ## Python
 

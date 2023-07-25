@@ -1707,3 +1707,8 @@ id,title,url,category,dead,awesome,revision
 1706,"Classification metrics for #TidyTuesday GPT detectors",https://juliasilge.com/blog/gpt-detectors/,R,0,0,"2023-07-20"
 1707,"Practical Python Programming",https://dabeaz-course.github.io/practical-python/Notes/Contents.html,Python,0,1,"2023-07-20"
 1708,"Advanced Python Mastery",https://github.com/dabeaz-course/python-mastery,Python,0,1,"2023-07-20"
+1709,"Tidy design principles",https://design.tidyverse.org/,R,0,1,"2023-07-21"
+1710,"Making charts that make an impact",https://www.youtube.com/watch?v=tIbaQUo6H9g,visualisation,0,0,"2023-07-23"
+1711,"Why do people use R?",https://www.reddit.com/r/datascience/comments/154qdbv/why_do_people_use_r/,R,0,0,"2023-07-24"
+1712,"Astronomia ex machina: a history, primer and outlook on neural networks in astronomy",https://doi.org/10.1098/rsos.221454,machinelearning,0,0,"2023-07-24"
+1713,"Comprehensive Python Cheatsheet",https://gto76.github.io/python-cheatsheet/,Python,0,0,"2023-07-25"
