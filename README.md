@@ -1,12 +1,24 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1696 active links
-in the dataset. The 264 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1702 active links
+in the dataset. The 265 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Beyond Item Response Theory: Growth Curve Modeling of Latent
+    Variables with Bayes](https://yongfu.name/2023/06/27/irt5/)
+-   [Four reasons to learn HTML + CSS as an R
+    programmer](https://albert-rapp.de/posts/16_html_css_for_r/16_html_css_for_r.html)
+-   [Jazz up your
+    ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
+-   [Supervised Topic Modeling for Short Texts: My Workflow and A Worked
+    Example](https://www.markhw.com/blog/supervisedtext)
+-   [The ultimate practical guide to conjoint analysis with
+    R](https://www.andrewheiss.com/blog/2023/07/25/conjoint-bayesian-frequentist-guide/)
+-   [Emphasize what you want readers to see with
+    color](https://blog.datawrapper.de/emphasize-with-color-in-data-visualizations/)
 -   [Comprehensive Python
     Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 -   [Astronomia ex machina: a history, primer and outlook on neural
@@ -24,18 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     detectors](https://juliasilge.com/blog/gpt-detectors/)
 -   [Tips for debugging and cleaning broken
     code](https://datavizs23.classes.andrewheiss.com/news/2023-07-05_messy-broken-code-tips.html)
--   [Common methodological
-    mistakes](https://doi.org/10.1016/j.leaqua.2023.101677)
--   [Demystifying Text Data with the unstructured Python Library
-    (+alternatives)](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
--   [Computing the eigendecomposition and the singular value
-    decomposition](https://peterbloem.nl/blog/pca-5)
--   [CheatSheet for coding in R, Python and
-    Julia](https://geekcologist.wordpress.com/2023/07/04/cheatsheet-for-coding-in-r-python-and-julia/)
--   [Testing functional specification in linear
-    regression](https://vgherard.github.io/posts/2023-07-11-testing-functional-specification-in-linear-regression/)
--   [Tree models for assessing covariate-dependent method
-    agreement](https://www.zeileis.org/news/coat/)
 
 # General
 
@@ -332,6 +332,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Beautiful Public Data](https://www.beautifulpublicdata.com/)
 -   [Easy Graph Mistakes to
     Avoid](https://nickch-k.github.io/DataCommSlides/Easy_Mistakes_to_Avoid.html)
+-   [Emphasize what you want readers to see with
+    color](https://blog.datawrapper.de/emphasize-with-color-in-data-visualizations/)
 
 # Data
 
