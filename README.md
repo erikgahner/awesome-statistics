@@ -1,12 +1,26 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1702 active links
+dealing with statistics and data. There is a total of 1709 active links
 in the dataset. The 265 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Best Practices for Data
+    Visualisation](https://royal-statistical-society.github.io/datavisguide/)
+-   [Stat Arb - An Easy
+    Walkthrough](https://dm13450.github.io/2023/07/15/Stat-Arb-Walkthrough.html)
+-   [Predicting a Successful Mt Everest
+    Climb](https://dm13450.github.io/2023/04/27/Predicting-a-Successful-Mt-Everest-Climb.html)
+-   [About Tidy Design
+    Principles](https://tidydesign.substack.com/p/about-tidy-design-principles)
+-   [How to fill maps with density gradients with R, {ggplot2}, and
+    {sf}](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/)
+-   [What is ‘production’ anyway? MLOps for the
+    curious](https://www.youtube.com/watch?v=53-x5OFMGjA)
+-   [Large language models, explained with a minimum of math and
+    jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 -   [Beyond Item Response Theory: Growth Curve Modeling of Latent
     Variables with Bayes](https://yongfu.name/2023/06/27/irt5/)
 -   [Four reasons to learn HTML + CSS as an R
@@ -23,19 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 -   [Astronomia ex machina: a history, primer and outlook on neural
     networks in astronomy](https://doi.org/10.1098/rsos.221454)
--   [Why do people use
-    R?](https://www.reddit.com/r/datascience/comments/154qdbv/why_do_people_use_r/)
--   [Making charts that make an
-    impact](https://www.youtube.com/watch?v=tIbaQUo6H9g)
--   [Tidy design principles](https://design.tidyverse.org/)
--   [Advanced Python
-    Mastery](https://github.com/dabeaz-course/python-mastery)
--   [Practical Python
-    Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
--   [Classification metrics for \#TidyTuesday GPT
-    detectors](https://juliasilge.com/blog/gpt-detectors/)
--   [Tips for debugging and cleaning broken
-    code](https://datavizs23.classes.andrewheiss.com/news/2023-07-05_messy-broken-code-tips.html)
 
 # General
 
@@ -452,7 +453,7 @@ listed below. Feel free to add additional links to the dataset.
     Modeling](https://www.bayesrulesbook.com/)
 -   [Crime by the Numbers: A Criminologist’s Guide to
     R](https://crimebythenumbers.com/)
--   [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
+-   [Modern Data Science with R](https://mdsr-book.github.io/mdsr3e/)
 -   [Lightweight Machine Learning Classics with
     R](https://lmlcr.gagolewski.com/lmlcr.pdf)
 -   [Modern Statistics with R](https://modernstatisticswithr.com/)
