@@ -1,12 +1,24 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1709 active links
+dealing with statistics and data. There is a total of 1715 active links
 in the dataset. The 265 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [It Takes Long to Become
+    Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
+-   [Linear Programming in
+    Python](https://slama.dev/youtube/linear-programming-in-python/)
+-   [Explainable AI: Visualizing Attention in
+    Transformers](https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)
+-   [Annotated equations in ggplot2: Importing latex into
+    ggplot2](https://wjschne.github.io/posts/2023-07-23-latex-equation-in-ggplot2/)
+-   [Adding social media icons to charts with
+    {ggplot2}](https://nrennie.rbind.io/blog/adding-social-media-icons-ggplot2/)
+-   [Reducing my for loop usage with
+    purrr::reduce()](https://masalmon.eu/2023/07/26/reduce/)
 -   [Best Practices for Data
     Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 -   [Stat Arb - An Easy
@@ -25,18 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     Variables with Bayes](https://yongfu.name/2023/06/27/irt5/)
 -   [Four reasons to learn HTML + CSS as an R
     programmer](https://albert-rapp.de/posts/16_html_css_for_r/16_html_css_for_r.html)
--   [Jazz up your
-    ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
--   [Supervised Topic Modeling for Short Texts: My Workflow and A Worked
-    Example](https://www.markhw.com/blog/supervisedtext)
--   [The ultimate practical guide to conjoint analysis with
-    R](https://www.andrewheiss.com/blog/2023/07/25/conjoint-bayesian-frequentist-guide/)
--   [Emphasize what you want readers to see with
-    color](https://blog.datawrapper.de/emphasize-with-color-in-data-visualizations/)
--   [Comprehensive Python
-    Cheatsheet](https://gto76.github.io/python-cheatsheet/)
--   [Astronomia ex machina: a history, primer and outlook on neural
-    networks in astronomy](https://doi.org/10.1098/rsos.221454)
 
 # General
 
