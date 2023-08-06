@@ -1,12 +1,28 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1715 active links
+dealing with statistics and data. There is a total of 1723 active links
 in the dataset. The 265 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Using flexdashboard to create a GitHub Actions-powered YouTube
+    feed](https://ivelasq.rbind.io/blog/automated-youtube-dashboard/)
+-   [It’s the
+    interactions](https://lorentzen.ch/index.php/2023/08/01/its-the-interactions/)
+-   [Introducing Shannon Regression: An Information Theoretic
+    Alternative to Logistic and Probit Regression for Binary
+    Outcomes](https://jack-bailey.co.uk/posts/shannon_regression/)
+-   [Reducing clutter with an options
+    object](https://tidydesign.substack.com/p/reducing-clutter-with-an-options)
+-   [Introduction to Educational and Psychological Measurement Using
+    R](https://www.thetaminusb.com/intro-measurement-r/)
+-   [Catching up on the weird world of
+    LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
+-   [How I Set Up RStudio for Efficient
+    Coding](https://www.youtube.com/watch?v=p-r-AWR3-Es)
+-   [Cookbook Polars for R](https://ddotta.github.io/cookbook-rpolars/)
 -   [It Takes Long to Become
     Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
 -   [Linear Programming in
@@ -21,22 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     purrr::reduce()](https://masalmon.eu/2023/07/26/reduce/)
 -   [Best Practices for Data
     Visualisation](https://royal-statistical-society.github.io/datavisguide/)
--   [Stat Arb - An Easy
-    Walkthrough](https://dm13450.github.io/2023/07/15/Stat-Arb-Walkthrough.html)
--   [Predicting a Successful Mt Everest
-    Climb](https://dm13450.github.io/2023/04/27/Predicting-a-Successful-Mt-Everest-Climb.html)
--   [About Tidy Design
-    Principles](https://tidydesign.substack.com/p/about-tidy-design-principles)
--   [How to fill maps with density gradients with R, {ggplot2}, and
-    {sf}](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/)
--   [What is ‘production’ anyway? MLOps for the
-    curious](https://www.youtube.com/watch?v=53-x5OFMGjA)
--   [Large language models, explained with a minimum of math and
-    jargon](https://www.understandingai.org/p/large-language-models-explained-with)
--   [Beyond Item Response Theory: Growth Curve Modeling of Latent
-    Variables with Bayes](https://yongfu.name/2023/06/27/irt5/)
--   [Four reasons to learn HTML + CSS as an R
-    programmer](https://albert-rapp.de/posts/16_html_css_for_r/16_html_css_for_r.html)
 
 # General
 
