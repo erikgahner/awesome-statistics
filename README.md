@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1723 active links
+dealing with statistics and data. There is a total of 1728 active links
 in the dataset. The 265 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Teaching the tidyverse in
+    2023](https://www.tidyverse.org/blog/2023/08/teach-tidyverse-23/)
+-   [Neyman causal model or Rubin causal
+    model?](https://causalinf.substack.com/p/neyman-causal-model-or-rubin-causal)
+-   [Boost Model Performance with Hyperparameter Tuning in R |
+    Tidymodels](https://www.youtube.com/watch?v=IzjmuGJgwKQ)
+-   [Building Serverless Shiny Apps with webR: A Step-by-Step
+    Guide](https://hypebright.nl/index.php/en/2023/07/25/building-serverless-shiny-apps-with-webr-a-step-by-step-guide/)
+-   [R Functions for Getting
+    Objects](https://www.spsanderson.com/steveondata/posts/2023-08-01/index.html)
 -   [Using flexdashboard to create a GitHub Actions-powered YouTube
     feed](https://ivelasq.rbind.io/blog/automated-youtube-dashboard/)
 -   [It’s the
@@ -27,16 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
 -   [Linear Programming in
     Python](https://slama.dev/youtube/linear-programming-in-python/)
--   [Explainable AI: Visualizing Attention in
-    Transformers](https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)
--   [Annotated equations in ggplot2: Importing latex into
-    ggplot2](https://wjschne.github.io/posts/2023-07-23-latex-equation-in-ggplot2/)
--   [Adding social media icons to charts with
-    {ggplot2}](https://nrennie.rbind.io/blog/adding-social-media-icons-ggplot2/)
--   [Reducing my for loop usage with
-    purrr::reduce()](https://masalmon.eu/2023/07/26/reduce/)
--   [Best Practices for Data
-    Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 
 # General
 

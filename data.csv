@@ -1739,3 +1739,8 @@ id,title,url,category,dead,awesome,revision
 1738,"Introducing Shannon Regression: An Information Theoretic Alternative to Logistic and Probit Regression for Binary Outcomes",https://jack-bailey.co.uk/posts/shannon_regression/,regression,0,0,"2023-08-06"
 1739,"It’s the interactions",https://lorentzen.ch/index.php/2023/08/01/its-the-interactions/,R,0,0,"2023-08-06"
 1740,"Using flexdashboard to create a GitHub Actions-powered YouTube feed",https://ivelasq.rbind.io/blog/automated-youtube-dashboard/,R,0,0,"2023-08-06"
+1741,"R Functions for Getting Objects",https://www.spsanderson.com/steveondata/posts/2023-08-01/index.html,R,0,0,"2023-08-07"
+1742,"Building Serverless Shiny Apps with webR: A Step-by-Step Guide",https://hypebright.nl/index.php/en/2023/07/25/building-serverless-shiny-apps-with-webr-a-step-by-step-guide/,R,0,0,"2023-08-07"
+1743,"Boost Model Performance with Hyperparameter Tuning in R | Tidymodels",https://www.youtube.com/watch?v=IzjmuGJgwKQ,R,0,0,"2023-08-07"
+1744,"Neyman causal model or Rubin causal model?",https://causalinf.substack.com/p/neyman-causal-model-or-rubin-causal,causality,0,0,"2023-08-08"
+1745,"Teaching the tidyverse in 2023",https://www.tidyverse.org/blog/2023/08/teach-tidyverse-23/,R,0,0,"2023-08-08"
