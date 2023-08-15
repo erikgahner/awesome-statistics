@@ -1,12 +1,26 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1728 active links
-in the dataset. The 265 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1734 active links
+in the dataset. The 266 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [How to use UNHCR’s refugees R
+    package](https://www.unhcr.org/refugee-statistics/insights/explainers/refugees-r-package.html)
+-   [How to Create Your Own Table Theme with the gt
+    Package](https://www.youtube.com/watch?v=YzmLB2z9whw)
+-   [Mixed Models with
+    R](https://m-clark.github.io/mixed-models-with-R/)
+-   [The ultimate practical guide to multilevel multinomial conjoint
+    analysis with
+    R](https://www.andrewheiss.com/blog/2023/08/12/conjoint-multilevel-multinomial-guide/)
+-   [Dot-dot-dot, bang-bang-bang, and
+    do.call()](https://tidydesign.substack.com/p/dot-dot-dot-bang-bang-bang-and-docall)
+-   [How to improve the substantive interpretation of regression results
+    when the dependent variable is
+    logged](https://doi.org/10.1017/psrm.2023.29)
 -   [Teaching the tidyverse in
     2023](https://www.tidyverse.org/blog/2023/08/teach-tidyverse-23/)
 -   [Neyman causal model or Rubin causal
@@ -26,17 +40,6 @@ listed below. Feel free to add additional links to the dataset.
     Outcomes](https://jack-bailey.co.uk/posts/shannon_regression/)
 -   [Reducing clutter with an options
     object](https://tidydesign.substack.com/p/reducing-clutter-with-an-options)
--   [Introduction to Educational and Psychological Measurement Using
-    R](https://www.thetaminusb.com/intro-measurement-r/)
--   [Catching up on the weird world of
-    LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
--   [How I Set Up RStudio for Efficient
-    Coding](https://www.youtube.com/watch?v=p-r-AWR3-Es)
--   [Cookbook Polars for R](https://ddotta.github.io/cookbook-rpolars/)
--   [It Takes Long to Become
-    Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
--   [Linear Programming in
-    Python](https://slama.dev/youtube/linear-programming-in-python/)
 
 # General
 
@@ -478,6 +481,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Lessons Learned From Running R in
     Production](https://matthewrkaye.com/posts/2023-06-29-lessons-learned-from-running-r-in-production/lessons-learned-from-running-r-in-production.html)
 -   [Tidy design principles](https://design.tidyverse.org/)
+-   [Mixed Models with
+    R](https://m-clark.github.io/mixed-models-with-R/)
 
 ## Python
 
