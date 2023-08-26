@@ -1,12 +1,29 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1734 active links
-in the dataset. The 266 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1742 active links
+in the dataset. The 267 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Wizard’s Guide to Statistics](https://cassandraxia.com/wizard/)
+-   [How to use LLMs for Text
+    Analysis](https://arxiv.org/abs/2307.13106)
+-   [A collection of stand-alone Python machine learning
+    recipes](https://github.com/rougier/ML-Recipes)
+-   [Announcing Python in Excel: Combining the power of Python and the
+    flexibility of
+    Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
+-   [Equivalence Tests Using
+    {marginaleffects}](https://www.carlislerainey.com/blog/2023-08-18-equivalence-tests/)
+-   [Ordinal Models for Paired
+    Data](https://www.fharrell.com/post/pair/)
+-   [Top 10 errors in R and how to fix
+    them](https://statsandr.com/blog/top-10-errors-in-r/)
+-   [Manually generate predicted values for logistic regression with
+    matrix multiplication in
+    R](https://www.andrewheiss.com/blog/2023/08/15/matrix-multiply-logit-predict/)
 -   [How to use UNHCR’s refugees R
     package](https://www.unhcr.org/refugee-statistics/insights/explainers/refugees-r-package.html)
 -   [How to Create Your Own Table Theme with the gt
@@ -23,23 +40,6 @@ listed below. Feel free to add additional links to the dataset.
     logged](https://doi.org/10.1017/psrm.2023.29)
 -   [Teaching the tidyverse in
     2023](https://www.tidyverse.org/blog/2023/08/teach-tidyverse-23/)
--   [Neyman causal model or Rubin causal
-    model?](https://causalinf.substack.com/p/neyman-causal-model-or-rubin-causal)
--   [Boost Model Performance with Hyperparameter Tuning in R |
-    Tidymodels](https://www.youtube.com/watch?v=IzjmuGJgwKQ)
--   [Building Serverless Shiny Apps with webR: A Step-by-Step
-    Guide](https://hypebright.nl/index.php/en/2023/07/25/building-serverless-shiny-apps-with-webr-a-step-by-step-guide/)
--   [R Functions for Getting
-    Objects](https://www.spsanderson.com/steveondata/posts/2023-08-01/index.html)
--   [Using flexdashboard to create a GitHub Actions-powered YouTube
-    feed](https://ivelasq.rbind.io/blog/automated-youtube-dashboard/)
--   [It’s the
-    interactions](https://lorentzen.ch/index.php/2023/08/01/its-the-interactions/)
--   [Introducing Shannon Regression: An Information Theoretic
-    Alternative to Logistic and Probit Regression for Binary
-    Outcomes](https://jack-bailey.co.uk/posts/shannon_regression/)
--   [Reducing clutter with an options
-    object](https://tidydesign.substack.com/p/reducing-clutter-with-an-options)
 
 # General
 
@@ -57,6 +57,7 @@ listed below. Feel free to add additional links to the dataset.
     Statistics](https://plato.stanford.edu/entries/statistics/)
 -   [An Introduction to Statistical
     Learning](https://www.statlearning.com/)
+-   [Wizard’s Guide to Statistics](https://cassandraxia.com/wizard/)
 
 ## Probability and uncertainty
 
