@@ -1,12 +1,21 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1742 active links
-in the dataset. The 267 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1747 active links
+in the dataset. The 269 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Is probability frequentist or
+    Bayesian?](https://thepalindrome.org/p/is-probability-frequentist-or-bayesian)
+-   [Yet Again: R + Data Science](https://yards.albert-rapp.de/)
+-   [How to design a useful (and fun!) color key for your data
+    visualization](https://blog.datawrapper.de/color-keys-for-data-visualizations/)
+-   [Recreate a real-world, complex dataviz with R &
+    ggplot](https://www.youtube.com/watch?v=k34IjRXq1BI)
+-   [Exploring Causal Discovery with gCastle through Reticulate in
+    R](https://www.kenkoonwong.com/blog/gcastle/)
 -   [Wizard’s Guide to Statistics](https://cassandraxia.com/wizard/)
 -   [How to use LLMs for Text
     Analysis](https://arxiv.org/abs/2307.13106)
@@ -28,18 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     package](https://www.unhcr.org/refugee-statistics/insights/explainers/refugees-r-package.html)
 -   [How to Create Your Own Table Theme with the gt
     Package](https://www.youtube.com/watch?v=YzmLB2z9whw)
--   [Mixed Models with
-    R](https://m-clark.github.io/mixed-models-with-R/)
--   [The ultimate practical guide to multilevel multinomial conjoint
-    analysis with
-    R](https://www.andrewheiss.com/blog/2023/08/12/conjoint-multilevel-multinomial-guide/)
--   [Dot-dot-dot, bang-bang-bang, and
-    do.call()](https://tidydesign.substack.com/p/dot-dot-dot-bang-bang-bang-and-docall)
--   [How to improve the substantive interpretation of regression results
-    when the dependent variable is
-    logged](https://doi.org/10.1017/psrm.2023.29)
--   [Teaching the tidyverse in
-    2023](https://www.tidyverse.org/blog/2023/08/teach-tidyverse-23/)
 
 # General
 
@@ -339,6 +336,8 @@ listed below. Feel free to add additional links to the dataset.
     Avoid](https://nickch-k.github.io/DataCommSlides/Easy_Mistakes_to_Avoid.html)
 -   [Emphasize what you want readers to see with
     color](https://blog.datawrapper.de/emphasize-with-color-in-data-visualizations/)
+-   [How to design a useful (and fun!) color key for your data
+    visualization](https://blog.datawrapper.de/color-keys-for-data-visualizations/)
 
 # Data
 
@@ -484,6 +483,7 @@ listed below. Feel free to add additional links to the dataset.
 -   [Tidy design principles](https://design.tidyverse.org/)
 -   [Mixed Models with
     R](https://m-clark.github.io/mixed-models-with-R/)
+-   [Yet Again: R + Data Science](https://yards.albert-rapp.de/)
 
 ## Python
 
