@@ -1,12 +1,29 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1747 active links
+dealing with statistics and data. There is a total of 1755 active links
 in the dataset. The 269 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Exploring Interaction Effects and
+    S-Learners](https://www.kenkoonwong.com/blog/interaction-slearner/)
+-   [Geographic data analysis in R and Python: comparing code and
+    outputs for vector
+    data](https://geocompx.org/post/2023/ogh23/index.html)
+-   [Hugging Face, with a warm embrace, meet
+    R️](https://www.kenkoonwong.com/blog/huggingface/)
+-   [Writing better R functions part
+    four](https://ibecav.github.io/betterfunctions4/)
+-   [Writing better R functions part
+    three](https://ibecav.github.io/betterfunctions3/)
+-   [Writing better R functions part
+    two](https://ibecav.github.io/betterfunctions2/)
+-   [Writing better R functions part
+    one](https://ibecav.github.io/betterfunctions/)
+-   [Tidy evaluation in R - Simple
+    Examples](https://heads0rtai1s.github.io/2019/04/24/tidy-eval-examples/)
 -   [Is probability frequentist or
     Bayesian?](https://thepalindrome.org/p/is-probability-frequentist-or-bayesian)
 -   [Yet Again: R + Data Science](https://yards.albert-rapp.de/)
@@ -19,24 +36,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [Wizard’s Guide to Statistics](https://cassandraxia.com/wizard/)
 -   [How to use LLMs for Text
     Analysis](https://arxiv.org/abs/2307.13106)
--   [A collection of stand-alone Python machine learning
-    recipes](https://github.com/rougier/ML-Recipes)
--   [Announcing Python in Excel: Combining the power of Python and the
-    flexibility of
-    Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
--   [Equivalence Tests Using
-    {marginaleffects}](https://www.carlislerainey.com/blog/2023-08-18-equivalence-tests/)
--   [Ordinal Models for Paired
-    Data](https://www.fharrell.com/post/pair/)
--   [Top 10 errors in R and how to fix
-    them](https://statsandr.com/blog/top-10-errors-in-r/)
--   [Manually generate predicted values for logistic regression with
-    matrix multiplication in
-    R](https://www.andrewheiss.com/blog/2023/08/15/matrix-multiply-logit-predict/)
--   [How to use UNHCR’s refugees R
-    package](https://www.unhcr.org/refugee-statistics/insights/explainers/refugees-r-package.html)
--   [How to Create Your Own Table Theme with the gt
-    Package](https://www.youtube.com/watch?v=YzmLB2z9whw)
 
 # General
 
