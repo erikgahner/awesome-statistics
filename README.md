@@ -1,12 +1,23 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1755 active links
-in the dataset. The 269 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1760 active links
+in the dataset. The 270 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [What This Graph of a Dinosaur Can Teach Us about Doing Better
+    Science](https://www.scientificamerican.com/article/what-this-graph-of-a-dinosaur-can-teach-us-about-doing-better-science/)
+-   [Engineering Production-Grade Shiny
+    Apps](https://engineering-shiny.org/)
+-   [How adding a ‘Don’t know’ response option can affect cross-national
+    survey
+    results](https://www.pewresearch.org/decoded/2023/09/06/how-adding-a-dont-know-response-option-can-affect-cross-national-survey-results/)
+-   [R for Sign Language
+    Linguistics](https://borstell.github.io/misc/r4sl/)
+-   [Making Large Language Models work for
+    you](https://simonwillison.net/2023/Aug/27/wordcamp-llms/)
 -   [Exploring Interaction Effects and
     S-Learners](https://www.kenkoonwong.com/blog/interaction-slearner/)
 -   [Geographic data analysis in R and Python: comparing code and
@@ -27,15 +38,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [Is probability frequentist or
     Bayesian?](https://thepalindrome.org/p/is-probability-frequentist-or-bayesian)
 -   [Yet Again: R + Data Science](https://yards.albert-rapp.de/)
--   [How to design a useful (and fun!) color key for your data
-    visualization](https://blog.datawrapper.de/color-keys-for-data-visualizations/)
--   [Recreate a real-world, complex dataviz with R &
-    ggplot](https://www.youtube.com/watch?v=k34IjRXq1BI)
--   [Exploring Causal Discovery with gCastle through Reticulate in
-    R](https://www.kenkoonwong.com/blog/gcastle/)
--   [Wizard’s Guide to Statistics](https://cassandraxia.com/wizard/)
--   [How to use LLMs for Text
-    Analysis](https://arxiv.org/abs/2307.13106)
 
 # General
 
@@ -483,6 +485,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Mixed Models with
     R](https://m-clark.github.io/mixed-models-with-R/)
 -   [Yet Again: R + Data Science](https://yards.albert-rapp.de/)
+-   [Engineering Production-Grade Shiny
+    Apps](https://engineering-shiny.org/)
 
 ## Python
 

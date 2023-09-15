@@ -1771,3 +1771,8 @@ id,title,url,category,dead,awesome,revision
 1770,"Hugging Face, with a warm embrace, meet R️",https://www.kenkoonwong.com/blog/huggingface/,R,0,0,"2023-09-02"
 1771,"Geographic data analysis in R and Python: comparing code and outputs for vector data",https://geocompx.org/post/2023/ogh23/index.html,Python,0,0,"2023-09-04"
 1772,"Exploring Interaction Effects and S-Learners",https://www.kenkoonwong.com/blog/interaction-slearner/,R,0,0,"2023-09-05"
+1773,"Making Large Language Models work for you",https://simonwillison.net/2023/Aug/27/wordcamp-llms/,machinelearning,0,0,"2023-09-05"
+1774,"R for Sign Language Linguistics",https://borstell.github.io/misc/r4sl/,R,0,0,"2023-09-05"
+1775,"How adding a ‘Don’t know’ response option can affect cross-national survey results",https://www.pewresearch.org/decoded/2023/09/06/how-adding-a-dont-know-response-option-can-affect-cross-national-survey-results/,survey,0,0,"2023-09-06"
+1776,"Engineering Production-Grade Shiny Apps",https://engineering-shiny.org/,R,0,1,"2023-09-08"
+1777,"What This Graph of a Dinosaur Can Teach Us about Doing Better Science",https://www.scientificamerican.com/article/what-this-graph-of-a-dinosaur-can-teach-us-about-doing-better-science/,visualisation,0,0,"2023-09-14"
