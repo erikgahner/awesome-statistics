@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1760 active links
+dealing with statistics and data. There is a total of 1765 active links
 in the dataset. The 270 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Guide to understanding the intuition behind the Dirichlet
+    distribution](https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/)
+-   [An introduction to Python for R
+    Users](https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python)
+-   [Generative AI exists because of the
+    transformer](https://ig.ft.com/generative-ai/)
+-   [The Causal Cookbook: Recipes for Propensity Scores, G-Computation,
+    and Doubly Robust Standardization](https://psyarxiv.com/k2gzp)
+-   [How to add annotations in ggplot: should you use geoms or
+    annotations?](https://www.youtube.com/watch?v=RfdcjMP2qMM)
 -   [What This Graph of a Dinosaur Can Teach Us about Doing Better
     Science](https://www.scientificamerican.com/article/what-this-graph-of-a-dinosaur-can-teach-us-about-doing-better-science/)
 -   [Engineering Production-Grade Shiny
@@ -29,15 +39,6 @@ listed below. Feel free to add additional links to the dataset.
     four](https://ibecav.github.io/betterfunctions4/)
 -   [Writing better R functions part
     three](https://ibecav.github.io/betterfunctions3/)
--   [Writing better R functions part
-    two](https://ibecav.github.io/betterfunctions2/)
--   [Writing better R functions part
-    one](https://ibecav.github.io/betterfunctions/)
--   [Tidy evaluation in R - Simple
-    Examples](https://heads0rtai1s.github.io/2019/04/24/tidy-eval-examples/)
--   [Is probability frequentist or
-    Bayesian?](https://thepalindrome.org/p/is-probability-frequentist-or-bayesian)
--   [Yet Again: R + Data Science](https://yards.albert-rapp.de/)
 
 # General
 

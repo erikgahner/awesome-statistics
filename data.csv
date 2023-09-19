@@ -1776,3 +1776,8 @@ id,title,url,category,dead,awesome,revision
 1775,"How adding a ‘Don’t know’ response option can affect cross-national survey results",https://www.pewresearch.org/decoded/2023/09/06/how-adding-a-dont-know-response-option-can-affect-cross-national-survey-results/,survey,0,0,"2023-09-06"
 1776,"Engineering Production-Grade Shiny Apps",https://engineering-shiny.org/,R,0,1,"2023-09-08"
 1777,"What This Graph of a Dinosaur Can Teach Us about Doing Better Science",https://www.scientificamerican.com/article/what-this-graph-of-a-dinosaur-can-teach-us-about-doing-better-science/,visualisation,0,0,"2023-09-14"
+1778,"How to add annotations in ggplot: should you use geoms or annotations?",https://www.youtube.com/watch?v=RfdcjMP2qMM,R,0,0,"2023-09-16"
+1779,"The Causal Cookbook: Recipes for Propensity Scores, G-Computation, and Doubly Robust Standardization",https://psyarxiv.com/k2gzp,causality,0,0,"2023-09-16"
+1780,"Generative AI exists because of the transformer",https://ig.ft.com/generative-ai/,machinelearning,0,0,"2023-09-16"
+1781,"An introduction to Python for R Users",https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python,Python,0,0,"2023-09-18"
+1782,"Guide to understanding the intuition behind the Dirichlet distribution",https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/,R,0,0,"2023-09-18"
