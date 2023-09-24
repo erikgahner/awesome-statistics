@@ -1,12 +1,16 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1765 active links
-in the dataset. The 270 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1767 active links
+in the dataset. The 271 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [The problem with “select-all-that-apply” survey questions,
+    graphed](https://goodauthority.org/news/the-problem-with-select-all-that-apply-survey-questions-graphed/)
+-   [Overview of R Modelling
+    Packages](https://strengejacke.github.io/regressionmodels/)
 -   [Guide to understanding the intuition behind the Dirichlet
     distribution](https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/)
 -   [An introduction to Python for R
@@ -35,10 +39,6 @@ listed below. Feel free to add additional links to the dataset.
     data](https://geocompx.org/post/2023/ogh23/index.html)
 -   [Hugging Face, with a warm embrace, meet
     R️](https://www.kenkoonwong.com/blog/huggingface/)
--   [Writing better R functions part
-    four](https://ibecav.github.io/betterfunctions4/)
--   [Writing better R functions part
-    three](https://ibecav.github.io/betterfunctions3/)
 
 # General
 
@@ -488,6 +488,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Yet Again: R + Data Science](https://yards.albert-rapp.de/)
 -   [Engineering Production-Grade Shiny
     Apps](https://engineering-shiny.org/)
+-   [Overview of R Modelling
+    Packages](https://strengejacke.github.io/regressionmodels/)
 
 ## Python
 

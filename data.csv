@@ -1781,3 +1781,5 @@ id,title,url,category,dead,awesome,revision
 1780,"Generative AI exists because of the transformer",https://ig.ft.com/generative-ai/,machinelearning,0,0,"2023-09-16"
 1781,"An introduction to Python for R Users",https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python,Python,0,0,"2023-09-18"
 1782,"Guide to understanding the intuition behind the Dirichlet distribution",https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/,R,0,0,"2023-09-18"
+1783,"Overview of R Modelling Packages",https://strengejacke.github.io/regressionmodels/,R,0,1,"2023-09-20"
+1784,"The problem with “select-all-that-apply” survey questions, graphed",https://goodauthority.org/news/the-problem-with-select-all-that-apply-survey-questions-graphed/,survey,0,0,"2023-09-22"
