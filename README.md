@@ -1,12 +1,18 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1767 active links
+dealing with statistics and data. There is a total of 1770 active links
 in the dataset. The 271 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
+-   [Connected Scatterplots Make Me Feel
+    Dumb](https://nightingaledvs.com/connected-scatterplots-make-me-feel-dumb/)
+-   [Confidence Intervals in Election Polling: Understanding the
+    Uncertainty of Political
+    Forecasting](https://blog.ephorie.de/confidence-intervals-in-election-polling-understanding-the-uncertainty-of-political-forecasting)
 -   [The problem with “select-all-that-apply” survey questions,
     graphed](https://goodauthority.org/news/the-problem-with-select-all-that-apply-survey-questions-graphed/)
 -   [Overview of R Modelling
@@ -32,13 +38,6 @@ listed below. Feel free to add additional links to the dataset.
     Linguistics](https://borstell.github.io/misc/r4sl/)
 -   [Making Large Language Models work for
     you](https://simonwillison.net/2023/Aug/27/wordcamp-llms/)
--   [Exploring Interaction Effects and
-    S-Learners](https://www.kenkoonwong.com/blog/interaction-slearner/)
--   [Geographic data analysis in R and Python: comparing code and
-    outputs for vector
-    data](https://geocompx.org/post/2023/ogh23/index.html)
--   [Hugging Face, with a warm embrace, meet
-    R️](https://www.kenkoonwong.com/blog/huggingface/)
 
 # General
 
