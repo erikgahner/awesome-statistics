@@ -1786,3 +1786,7 @@ id,title,url,category,dead,awesome,revision
 1785,"Confidence Intervals in Election Polling: Understanding the Uncertainty of Political Forecasting",https://blog.ephorie.de/confidence-intervals-in-election-polling-understanding-the-uncertainty-of-political-forecasting,R,0,0,"2023-09-26"
 1786,"Connected Scatterplots Make Me Feel Dumb",https://nightingaledvs.com/connected-scatterplots-make-me-feel-dumb/,visualisation,0,0,"2023-09-26"
 1787,"Causality for Machine Learning",https://ff13.fastforwardlabs.com/,causality,0,0,"2023-09-26"
+1788,"Creating typewriter-styled maps in {ggplot2}",https://nrennie.rbind.io/blog/creating-typewriter-maps-r/,R,0,0,"2023-10-03"
+1789,"An overview of what's out there for reproducibility with R",https://www.brodrigues.co/blog/2023-10-05-repro_overview/,R,0,0,"2023-10-05"
+1790,"A Dataset for Violence Trends in the Ancient Middle East between 12,000 and 400 BCE",https://doi.org/10.5281/zenodo.8010024,dataset,0,0,"2023-10-10"
+1791,"Geospatial Data Science with Julia",https://juliaearth.github.io/geospatial-data-science-with-julia/,Julia,0,1,"2023-10-11"

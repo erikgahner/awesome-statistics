@@ -1,12 +1,20 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1770 active links
-in the dataset. The 271 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1774 active links
+in the dataset. The 272 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Geospatial Data Science with
+    Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
+-   [A Dataset for Violence Trends in the Ancient Middle East between
+    12,000 and 400 BCE](https://doi.org/10.5281/zenodo.8010024)
+-   [An overview of what’s out there for reproducibility with
+    R](https://www.brodrigues.co/blog/2023-10-05-repro_overview/)
+-   [Creating typewriter-styled maps in
+    {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
 -   [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
 -   [Connected Scatterplots Make Me Feel
     Dumb](https://nightingaledvs.com/connected-scatterplots-make-me-feel-dumb/)
@@ -29,15 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     annotations?](https://www.youtube.com/watch?v=RfdcjMP2qMM)
 -   [What This Graph of a Dinosaur Can Teach Us about Doing Better
     Science](https://www.scientificamerican.com/article/what-this-graph-of-a-dinosaur-can-teach-us-about-doing-better-science/)
--   [Engineering Production-Grade Shiny
-    Apps](https://engineering-shiny.org/)
--   [How adding a ‘Don’t know’ response option can affect cross-national
-    survey
-    results](https://www.pewresearch.org/decoded/2023/09/06/how-adding-a-dont-know-response-option-can-affect-cross-national-survey-results/)
--   [R for Sign Language
-    Linguistics](https://borstell.github.io/misc/r4sl/)
--   [Making Large Language Models work for
-    you](https://simonwillison.net/2023/Aug/27/wordcamp-llms/)
 
 # General
 
@@ -541,6 +540,8 @@ listed below. Feel free to add additional links to the dataset.
     Thinking](https://computationalthinking.mit.edu/Fall20/)
 -   [Data Science in Julia for
     Hackers](https://datasciencejuliahackers.com/)
+-   [Geospatial Data Science with
+    Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
 
 ## Stata
 
