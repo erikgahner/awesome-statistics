@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1774 active links
+dealing with statistics and data. There is a total of 1779 active links
 in the dataset. The 272 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Visualizations on Statistics and Signal
+    Processing](https://tools.laszlokorte.de/)
+-   [How to add annotations in ggplot: should you use geoms or
+    annotations?](https://rfortherestofus.com/2023/10/annotate-vs-geoms)
+-   [Getting Started with Large Language Models: Key Things to
+    Know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know)
+-   [Introduction to Econometrics with
+    R](https://scpoecon.github.io/ScPoEconometrics/)
+-   [Remind readers of the colors in your data
+    visualization](https://blog.datawrapper.de/remind-readers-of-colors-in-data-vis/)
 -   [Geospatial Data Science with
     Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
 -   [A Dataset for Violence Trends in the Ancient Middle East between
@@ -27,16 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     Packages](https://strengejacke.github.io/regressionmodels/)
 -   [Guide to understanding the intuition behind the Dirichlet
     distribution](https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/)
--   [An introduction to Python for R
-    Users](https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python)
--   [Generative AI exists because of the
-    transformer](https://ig.ft.com/generative-ai/)
--   [The Causal Cookbook: Recipes for Propensity Scores, G-Computation,
-    and Doubly Robust Standardization](https://psyarxiv.com/k2gzp)
--   [How to add annotations in ggplot: should you use geoms or
-    annotations?](https://www.youtube.com/watch?v=RfdcjMP2qMM)
--   [What This Graph of a Dinosaur Can Teach Us about Doing Better
-    Science](https://www.scientificamerican.com/article/what-this-graph-of-a-dinosaur-can-teach-us-about-doing-better-science/)
 
 # General
 
@@ -49,7 +49,7 @@ listed below. Feel free to add additional links to the dataset.
 -   [Reference Collection to push back against “Common Statistical
     Myths”](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)
 -   [Introduction to Modern
-    Statistics](https://openintro-ims.netlify.app/)
+    Statistics](https://openintro-ims2.netlify.app/)
 -   [Philosophy of
     Statistics](https://plato.stanford.edu/entries/statistics/)
 -   [An Introduction to Statistical
