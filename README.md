@@ -1,12 +1,25 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1779 active links
+dealing with statistics and data. There is a total of 1786 active links
 in the dataset. The 272 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Five Steps to Improve Your Chart
+    Quickly](https://rfortherestofus.com/2023/11/theme-minimal)
+-   [Approaches to Calculating Number Needed to Treat (NNT) with
+    Meta-Analysis](https://www.kenkoonwong.com/blog/metannt/)
+-   [What’s New in
+    tidymodels](https://emilhvitfeldt.com/talk/2023-10-27-harvard-tidymodels/)
+-   [HCS 7100: Data Visualization in R](https://www.rdataviz.com/)
+-   [Spice up your {gt} table with
+    {ggplot}](https://rfortherestofus.com/2023/10/ggplots-in-gt-tables)
+-   [The 6 most popular R packages for
+    Dataviz](https://datavizuniverse.substack.com/p/the-6-most-popular-r-packages-for)
+-   [Embeddings: What they are and why they
+    matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 -   [Visualizations on Statistics and Signal
     Processing](https://tools.laszlokorte.de/)
 -   [How to add annotations in ggplot: should you use geoms or
@@ -23,20 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     12,000 and 400 BCE](https://doi.org/10.5281/zenodo.8010024)
 -   [An overview of what’s out there for reproducibility with
     R](https://www.brodrigues.co/blog/2023-10-05-repro_overview/)
--   [Creating typewriter-styled maps in
-    {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
--   [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
--   [Connected Scatterplots Make Me Feel
-    Dumb](https://nightingaledvs.com/connected-scatterplots-make-me-feel-dumb/)
--   [Confidence Intervals in Election Polling: Understanding the
-    Uncertainty of Political
-    Forecasting](https://blog.ephorie.de/confidence-intervals-in-election-polling-understanding-the-uncertainty-of-political-forecasting)
--   [The problem with “select-all-that-apply” survey questions,
-    graphed](https://goodauthority.org/news/the-problem-with-select-all-that-apply-survey-questions-graphed/)
--   [Overview of R Modelling
-    Packages](https://strengejacke.github.io/regressionmodels/)
--   [Guide to understanding the intuition behind the Dirichlet
-    distribution](https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/)
 
 # General
 
