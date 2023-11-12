@@ -1802,3 +1802,7 @@ id,title,url,category,dead,awesome,revision
 1801,"What’s New in tidymodels",https://emilhvitfeldt.com/talk/2023-10-27-harvard-tidymodels/,R,0,0,"2023-10-27"
 1802,"Approaches to Calculating Number Needed to Treat (NNT) with Meta-Analysis",https://www.kenkoonwong.com/blog/metannt/,R,0,0,"2023-10-28"
 1803,"Five Steps to Improve Your Chart Quickly",https://rfortherestofus.com/2023/11/theme-minimal,R,0,0,"2023-11-01"
+1804,"Geocode address text strings using tidygeocoder",https://ikashnitsky.phd/2023/geocoding/index.html,R,0,0,"2023-11-06"
+1805,"Adding context to maps made with ggplot2",https://www.mm218.dev/posts/2023-10-31-map-context/index.html,R,0,0,"2023-11-06"
+1806,"Useful functions for dealing with object names",https://masalmon.eu/2023/11/06/functions-dealing-with-names/,R,0,0,"2023-11-06"
+1807,"Data Visualisation: A Comprehensive Guide to Unlocking Your Data’s Potential",https://data.europa.eu/apps/data-visualisation-guide/,visualisation,0,0,"2023-11-07"

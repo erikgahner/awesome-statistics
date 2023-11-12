@@ -1,12 +1,20 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1786 active links
+dealing with statistics and data. There is a total of 1790 active links
 in the dataset. The 272 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Data Visualisation: A Comprehensive Guide to Unlocking Your Data’s
+    Potential](https://data.europa.eu/apps/data-visualisation-guide/)
+-   [Useful functions for dealing with object
+    names](https://masalmon.eu/2023/11/06/functions-dealing-with-names/)
+-   [Adding context to maps made with
+    ggplot2](https://www.mm218.dev/posts/2023-10-31-map-context/index.html)
+-   [Geocode address text strings using
+    tidygeocoder](https://ikashnitsky.phd/2023/geocoding/index.html)
 -   [Five Steps to Improve Your Chart
     Quickly](https://rfortherestofus.com/2023/11/theme-minimal)
 -   [Approaches to Calculating Number Needed to Treat (NNT) with
@@ -28,14 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     Know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know)
 -   [Introduction to Econometrics with
     R](https://scpoecon.github.io/ScPoEconometrics/)
--   [Remind readers of the colors in your data
-    visualization](https://blog.datawrapper.de/remind-readers-of-colors-in-data-vis/)
--   [Geospatial Data Science with
-    Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
--   [A Dataset for Violence Trends in the Ancient Middle East between
-    12,000 and 400 BCE](https://doi.org/10.5281/zenodo.8010024)
--   [An overview of what’s out there for reproducibility with
-    R](https://www.brodrigues.co/blog/2023-10-05-repro_overview/)
 
 # General
 
