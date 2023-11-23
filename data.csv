@@ -1806,3 +1806,8 @@ id,title,url,category,dead,awesome,revision
 1805,"Adding context to maps made with ggplot2",https://www.mm218.dev/posts/2023-10-31-map-context/index.html,R,0,0,"2023-11-06"
 1806,"Useful functions for dealing with object names",https://masalmon.eu/2023/11/06/functions-dealing-with-names/,R,0,0,"2023-11-06"
 1807,"Data Visualisation: A Comprehensive Guide to Unlocking Your Data’s Potential",https://data.europa.eu/apps/data-visualisation-guide/,visualisation,0,0,"2023-11-07"
+1808,"How to get started with data visualization",https://blog.datawrapper.de/how-to-get-started-with-data-visualization/,visualisation,0,0,"2023-11-15"
+1809,"Machine Learning for Beginners - A Curriculum",https://github.com/microsoft/ML-For-Beginners,machinelearning,0,0,"2023-11-15"
+1810,"How to Get Good with R?",https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/,R,0,0,"2023-11-20"
+1811,"Lesser-known reasons to prefer apply() over for loops",https://epiverse-trace.github.io/posts/for-vs-apply/,R,0,0,"2023-11-20"
+1812,"The Ultimate Guide to Get Started With ggplot2",https://albert-rapp.de/posts/ggplot2-tips/18_ultimate_guide/18_ultimate_guide.html,R,0,0,"2023-11-22"

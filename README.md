@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1790 active links
+dealing with statistics and data. There is a total of 1795 active links
 in the dataset. The 272 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [The Ultimate Guide to Get Started With
+    ggplot2](https://albert-rapp.de/posts/ggplot2-tips/18_ultimate_guide/18_ultimate_guide.html)
+-   [Lesser-known reasons to prefer apply() over for
+    loops](https://epiverse-trace.github.io/posts/for-vs-apply/)
+-   [How to Get Good with
+    R?](https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/)
+-   [Machine Learning for Beginners - A
+    Curriculum](https://github.com/microsoft/ML-For-Beginners)
+-   [How to get started with data
+    visualization](https://blog.datawrapper.de/how-to-get-started-with-data-visualization/)
 -   [Data Visualisation: A Comprehensive Guide to Unlocking Your Data’s
     Potential](https://data.europa.eu/apps/data-visualisation-guide/)
 -   [Useful functions for dealing with object
@@ -26,16 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     {ggplot}](https://rfortherestofus.com/2023/10/ggplots-in-gt-tables)
 -   [The 6 most popular R packages for
     Dataviz](https://datavizuniverse.substack.com/p/the-6-most-popular-r-packages-for)
--   [Embeddings: What they are and why they
-    matter](https://simonwillison.net/2023/Oct/23/embeddings/)
--   [Visualizations on Statistics and Signal
-    Processing](https://tools.laszlokorte.de/)
--   [How to add annotations in ggplot: should you use geoms or
-    annotations?](https://rfortherestofus.com/2023/10/annotate-vs-geoms)
--   [Getting Started with Large Language Models: Key Things to
-    Know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know)
--   [Introduction to Econometrics with
-    R](https://scpoecon.github.io/ScPoEconometrics/)
 
 # General
 
