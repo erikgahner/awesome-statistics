@@ -1,12 +1,25 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1795 active links
-in the dataset. The 272 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1802 active links
+in the dataset. The 273 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Quick Stata Tips](https://www.toddrjones.com/quickstatatips/)
+-   [R date
+    formatting](https://gist.github.com/zross/7fbbc034459aeff36627)
+-   [How to make your own \#RStats
+    Wrapped!](https://nrennie.rbind.io/blog/2022-12-03-how-to-make-your-own-rstats-wrapped/)
+-   [Write R Code Faster with These
+    Shortcuts](https://www.youtube.com/watch?v=UDQ-Gff9vxc)
+-   [Large Language Model
+    Course](https://github.com/mlabonne/llm-course)
+-   [Why does correlation not equal
+    causation?](https://pedermisager.org/blog/why_does_correlation_not_equal_causation/)
+-   [Getting started with
+    theme()](https://www.jumpingrivers.com/blog/intro-to-theme-ggplot2-r/)
 -   [The Ultimate Guide to Get Started With
     ggplot2](https://albert-rapp.de/posts/ggplot2-tips/18_ultimate_guide/18_ultimate_guide.html)
 -   [Lesser-known reasons to prefer apply() over for
@@ -23,19 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     names](https://masalmon.eu/2023/11/06/functions-dealing-with-names/)
 -   [Adding context to maps made with
     ggplot2](https://www.mm218.dev/posts/2023-10-31-map-context/index.html)
--   [Geocode address text strings using
-    tidygeocoder](https://ikashnitsky.phd/2023/geocoding/index.html)
--   [Five Steps to Improve Your Chart
-    Quickly](https://rfortherestofus.com/2023/11/theme-minimal)
--   [Approaches to Calculating Number Needed to Treat (NNT) with
-    Meta-Analysis](https://www.kenkoonwong.com/blog/metannt/)
--   [What’s New in
-    tidymodels](https://emilhvitfeldt.com/talk/2023-10-27-harvard-tidymodels/)
--   [HCS 7100: Data Visualization in R](https://www.rdataviz.com/)
--   [Spice up your {gt} table with
-    {ggplot}](https://rfortherestofus.com/2023/10/ggplots-in-gt-tables)
--   [The 6 most popular R packages for
-    Dataviz](https://datavizuniverse.substack.com/p/the-6-most-popular-r-packages-for)
 
 # General
 
@@ -557,6 +557,7 @@ listed below. Feel free to add additional links to the dataset.
     guide](https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006)
 -   [The Stata Guide](https://medium.com/the-stata-guide)
 -   [Stata-schemes](https://asjadnaqvi.github.io/Stata-schemes/)
+-   [Quick Stata Tips](https://www.toddrjones.com/quickstatatips/)
 
 ## Excel
 
