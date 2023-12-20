@@ -1818,3 +1818,8 @@ id,title,url,category,dead,awesome,revision
 1817,"How to make your own #RStats Wrapped!",https://nrennie.rbind.io/blog/2022-12-03-how-to-make-your-own-rstats-wrapped/,R,0,0,"2023-12-04"
 1818,"R date formatting",https://gist.github.com/zross/7fbbc034459aeff36627,R,0,0,"2023-12-06"
 1819,"Quick Stata Tips",https://www.toddrjones.com/quickstatatips/,Stata,0,1,"2023-12-06"
+1820,"How to create separate bibliographies in a Quarto document",https://www.andrewheiss.com/blog/2023/12/11/separate-bibliographies-quarto/,R,0,0,"2023-12-11"
+1821,"Why is View() capitalized, anyway?",https://www.mm218.dev/posts/2023-12-07-view/,R,0,0,"2023-12-11"
+1822,"5 Example Charts with ggplot2",https://albert-rapp.de/posts/ggplot2-tips/19_example_charts/19_example_charts.html,R,0,0,"2023-12-17"
+1823,"Computational Methods for Economists using Python",https://opensourceecon.github.io/CompMethods/,Python,0,1,"2023-12-18"
+1824,"Creating Christmas cards with R",https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html,R,0,0,"2023-12-19"

@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1802 active links
-in the dataset. The 273 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1807 active links
+in the dataset. The 274 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Creating Christmas cards with
+    R](https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html)
+-   [Computational Methods for Economists using
+    Python](https://opensourceecon.github.io/CompMethods/)
+-   [5 Example Charts with
+    ggplot2](https://albert-rapp.de/posts/ggplot2-tips/19_example_charts/19_example_charts.html)
+-   [Why is View() capitalized,
+    anyway?](https://www.mm218.dev/posts/2023-12-07-view/)
+-   [How to create separate bibliographies in a Quarto
+    document](https://www.andrewheiss.com/blog/2023/12/11/separate-bibliographies-quarto/)
 -   [Quick Stata Tips](https://www.toddrjones.com/quickstatatips/)
 -   [R date
     formatting](https://gist.github.com/zross/7fbbc034459aeff36627)
@@ -26,16 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     loops](https://epiverse-trace.github.io/posts/for-vs-apply/)
 -   [How to Get Good with
     R?](https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/)
--   [Machine Learning for Beginners - A
-    Curriculum](https://github.com/microsoft/ML-For-Beginners)
--   [How to get started with data
-    visualization](https://blog.datawrapper.de/how-to-get-started-with-data-visualization/)
--   [Data Visualisation: A Comprehensive Guide to Unlocking Your Data’s
-    Potential](https://data.europa.eu/apps/data-visualisation-guide/)
--   [Useful functions for dealing with object
-    names](https://masalmon.eu/2023/11/06/functions-dealing-with-names/)
--   [Adding context to maps made with
-    ggplot2](https://www.mm218.dev/posts/2023-10-31-map-context/index.html)
 
 # General
 
@@ -532,6 +532,8 @@ listed below. Feel free to add additional links to the dataset.
     Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 -   [Advanced Python
     Mastery](https://github.com/dabeaz-course/python-mastery)
+-   [Computational Methods for Economists using
+    Python](https://opensourceecon.github.io/CompMethods/)
 
 ## Julia
 
