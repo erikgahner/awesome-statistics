@@ -1,12 +1,19 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1807 active links
+dealing with statistics and data. There is a total of 1811 active links
 in the dataset. The 274 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Python Rgonomics](https://emilyriederer.netlify.app/post/py-rgo/)
+-   [List of data visualization
+    books](https://baryon.notion.site/880c8d8e34e34ac98895e7b35ddd2f30?v=6eb5e43188014ff3bf0f2c2c2330db77)
+-   [The case for a pipe assignment operator in
+    R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
+-   [Many Models in R: A
+    Tutorial](https://osf.io/preprints/socarxiv/azvs4)
 -   [Creating Christmas cards with
     R](https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html)
 -   [Computational Methods for Economists using
@@ -28,14 +35,6 @@ listed below. Feel free to add additional links to the dataset.
     Course](https://github.com/mlabonne/llm-course)
 -   [Why does correlation not equal
     causation?](https://pedermisager.org/blog/why_does_correlation_not_equal_causation/)
--   [Getting started with
-    theme()](https://www.jumpingrivers.com/blog/intro-to-theme-ggplot2-r/)
--   [The Ultimate Guide to Get Started With
-    ggplot2](https://albert-rapp.de/posts/ggplot2-tips/18_ultimate_guide/18_ultimate_guide.html)
--   [Lesser-known reasons to prefer apply() over for
-    loops](https://epiverse-trace.github.io/posts/for-vs-apply/)
--   [How to Get Good with
-    R?](https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/)
 
 # General
 

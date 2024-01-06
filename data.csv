@@ -1823,3 +1823,7 @@ id,title,url,category,dead,awesome,revision
 1822,"5 Example Charts with ggplot2",https://albert-rapp.de/posts/ggplot2-tips/19_example_charts/19_example_charts.html,R,0,0,"2023-12-17"
 1823,"Computational Methods for Economists using Python",https://opensourceecon.github.io/CompMethods/,Python,0,1,"2023-12-18"
 1824,"Creating Christmas cards with R",https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html,R,0,0,"2023-12-19"
+1825,"Many Models in R: A Tutorial",https://osf.io/preprints/socarxiv/azvs4,R,0,0,"2023-12-28"
+1826,The case for a pipe assignment operator in R,http://hughjonesd.github.io/case-for-pipe-assignment.html,R,0,0,"2023-12-30"
+1827,"List of data visualization books",https://baryon.notion.site/880c8d8e34e34ac98895e7b35ddd2f30?v=6eb5e43188014ff3bf0f2c2c2330db77,visualisation,0,0,"2023-12-31"
+1828,"Python Rgonomics",https://emilyriederer.netlify.app/post/py-rgo/,Python,0,0,"2024-01-04"
