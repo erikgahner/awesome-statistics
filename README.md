@@ -1,12 +1,24 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1811 active links
-in the dataset. The 274 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1817 active links
+in the dataset. The 275 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [R data.table
+    Joins](https://medium.com/analytics-vidhya/r-data-table-joins-48f00b46ce29)
+-   [Here’s why you should (almost) never use a pie chart for your
+    data.https://theconversation.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-214576](visualisation)
+-   [Four ways to streamline your R
+    workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/)
+-   [non-equi joins in
+    data.table](https://johnmackintosh.net/blog/2023-12-22-non-equi-joins/)
+-   [.I in
+    data.table](https://johnmackintosh.net/blog/2024-01-03-dot-i/)
+-   [5 Powerful ggplot2
+    Extensions](https://albert-rapp.de/posts/ggplot2-tips/20_ggplot_extensions/ggplot_extensions.html)
 -   [Python Rgonomics](https://emilyriederer.netlify.app/post/py-rgo/)
 -   [List of data visualization
     books](https://baryon.notion.site/880c8d8e34e34ac98895e7b35ddd2f30?v=6eb5e43188014ff3bf0f2c2c2330db77)
@@ -24,17 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     anyway?](https://www.mm218.dev/posts/2023-12-07-view/)
 -   [How to create separate bibliographies in a Quarto
     document](https://www.andrewheiss.com/blog/2023/12/11/separate-bibliographies-quarto/)
--   [Quick Stata Tips](https://www.toddrjones.com/quickstatatips/)
--   [R date
-    formatting](https://gist.github.com/zross/7fbbc034459aeff36627)
--   [How to make your own \#RStats
-    Wrapped!](https://nrennie.rbind.io/blog/2022-12-03-how-to-make-your-own-rstats-wrapped/)
--   [Write R Code Faster with These
-    Shortcuts](https://www.youtube.com/watch?v=UDQ-Gff9vxc)
--   [Large Language Model
-    Course](https://github.com/mlabonne/llm-course)
--   [Why does correlation not equal
-    causation?](https://pedermisager.org/blog/why_does_correlation_not_equal_causation/)
 
 # General
 
