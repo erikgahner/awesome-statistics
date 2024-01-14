@@ -1,12 +1,19 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1817 active links
-in the dataset. The 275 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1820 active links
+in the dataset. The 276 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [DIY API with Make and
+    {plumber}](https://www.andrewheiss.com/blog/2024/01/12/diy-api-plumber-quarto-ojs/_book/)
+-   [Redacting identifying information with computational methods in
+    large text
+    data](https://www.pewresearch.org/decoded/2024/01/12/redacting-identifying-information-with-computational-methods-in-large-text-data/)
+-   [Exploring Data Science with R and the Tidyverse: A Concise
+    Introduction](https://ds4world.cs.miami.edu/)
 -   [R data.table
     Joins](https://medium.com/analytics-vidhya/r-data-table-joins-48f00b46ce29)
 -   [Here’s why you should (almost) never use a pie chart for your
@@ -30,12 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     R](https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html)
 -   [Computational Methods for Economists using
     Python](https://opensourceecon.github.io/CompMethods/)
--   [5 Example Charts with
-    ggplot2](https://albert-rapp.de/posts/ggplot2-tips/19_example_charts/19_example_charts.html)
--   [Why is View() capitalized,
-    anyway?](https://www.mm218.dev/posts/2023-12-07-view/)
--   [How to create separate bibliographies in a Quarto
-    document](https://www.andrewheiss.com/blog/2023/12/11/separate-bibliographies-quarto/)
 
 # General
 
@@ -487,6 +488,8 @@ listed below. Feel free to add additional links to the dataset.
     Apps](https://engineering-shiny.org/)
 -   [Overview of R Modelling
     Packages](https://strengejacke.github.io/regressionmodels/)
+-   [Exploring Data Science with R and the Tidyverse: A Concise
+    Introduction](https://ds4world.cs.miami.edu/)
 
 ## Python
 

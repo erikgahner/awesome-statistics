@@ -1833,3 +1833,6 @@ id,title,url,category,dead,awesome,revision
 1832,"Four ways to streamline your R workflows",https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/,R,0,0,"2024-01-08"
 1833,"Here’s why you should (almost) never use a pie chart for your data".https://theconversation.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-214576,visualisation,0,0,"2024-01-08"
 1834,"R data.table Joins",https://medium.com/analytics-vidhya/r-data-table-joins-48f00b46ce29,R,0,0,"2024-01-10"
+1835,"Exploring Data Science with R and the Tidyverse: A Concise Introduction",https://ds4world.cs.miami.edu/,R,0,1,"2024-01-11"
+1836,"Redacting identifying information with computational methods in large text data",https://www.pewresearch.org/decoded/2024/01/12/redacting-identifying-information-with-computational-methods-in-large-text-data/,textanalysis,0,0,"2024-01-12"
+1837,"DIY API with Make and {plumber}",https://www.andrewheiss.com/blog/2024/01/12/diy-api-plumber-quarto-ojs/_book/,R,0,0,"2024-01-23"
