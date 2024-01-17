@@ -1836,3 +1836,4 @@ id,title,url,category,dead,awesome,revision
 1835,"Exploring Data Science with R and the Tidyverse: A Concise Introduction",https://ds4world.cs.miami.edu/,R,0,1,"2024-01-11"
 1836,"Redacting identifying information with computational methods in large text data",https://www.pewresearch.org/decoded/2024/01/12/redacting-identifying-information-with-computational-methods-in-large-text-data/,textanalysis,0,0,"2024-01-12"
 1837,"DIY API with Make and {plumber}",https://www.andrewheiss.com/blog/2024/01/12/diy-api-plumber-quarto-ojs/_book/,R,0,0,"2024-01-23"
+1838,"Awesome official statistics software",https://github.com/SNStatComp/awesome-official-statistics-software,software,0,1,"2024-01-17"
