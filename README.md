@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1820 active links
-in the dataset. The 276 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1825 active links
+in the dataset. The 277 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [One billion row challenge using base
+    R](http://blog.schochastics.net/posts/2024-01-08_one-billion-rows-challenge/)
+-   [Overview of clustering methods in
+    R](https://petolau.github.io/Overview-clustering-methods-in-R/)
+-   [Advanced tips and tricks with
+    data.table](http://brooksandrew.github.io/simpleblog/articles/advanced-data-table/)
+-   [6 Common ggplot2
+    Mistakes](https://albert-rapp.de/posts/ggplot2-tips/21_common_ggplot_mistakes/21_common_ggplot_mistakes.html)
+-   [Awesome official statistics
+    software](https://github.com/SNStatComp/awesome-official-statistics-software)
 -   [DIY API with Make and
     {plumber}](https://www.andrewheiss.com/blog/2024/01/12/diy-api-plumber-quarto-ojs/_book/)
 -   [Redacting identifying information with computational methods in
@@ -27,16 +37,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [5 Powerful ggplot2
     Extensions](https://albert-rapp.de/posts/ggplot2-tips/20_ggplot_extensions/ggplot_extensions.html)
 -   [Python Rgonomics](https://emilyriederer.netlify.app/post/py-rgo/)
--   [List of data visualization
-    books](https://baryon.notion.site/880c8d8e34e34ac98895e7b35ddd2f30?v=6eb5e43188014ff3bf0f2c2c2330db77)
--   [The case for a pipe assignment operator in
-    R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
--   [Many Models in R: A
-    Tutorial](https://osf.io/preprints/socarxiv/azvs4)
--   [Creating Christmas cards with
-    R](https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html)
--   [Computational Methods for Economists using
-    Python](https://opensourceecon.github.io/CompMethods/)
 
 # General
 
@@ -408,6 +408,8 @@ listed below. Feel free to add additional links to the dataset.
     scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 -   [The Statistics Software
     Signal](https://seanjtaylor.com/2013/01/03/the-statistics-software-signal.html)
+-   [Awesome official statistics
+    software](https://github.com/SNStatComp/awesome-official-statistics-software)
 
 ## R
 
