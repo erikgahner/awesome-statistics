@@ -1,12 +1,19 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1825 active links
-in the dataset. The 277 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1829 active links
+in the dataset. The 278 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Modern Data Visualization with
+    R](https://rkabacoff.github.io/datavis/)
+-   [Reading and Writing Data with
+    {arrow}](https://www.jumpingrivers.com/blog/arrow-reading-writing-feather-hive-parquet/)
+-   [Let’s talk about joins](https://cghlewis.com/blog/joins/)
+-   [Six not-so-basic base R
+    functions](https://ivelasq.rbind.io/blog/not-so-basic-base-r-functions/)
 -   [One billion row challenge using base
     R](http://blog.schochastics.net/posts/2024-01-08_one-billion-rows-challenge/)
 -   [Overview of clustering methods in
@@ -30,13 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     data.https://theconversation.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-214576](visualisation)
 -   [Four ways to streamline your R
     workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/)
--   [non-equi joins in
-    data.table](https://johnmackintosh.net/blog/2023-12-22-non-equi-joins/)
--   [.I in
-    data.table](https://johnmackintosh.net/blog/2024-01-03-dot-i/)
--   [5 Powerful ggplot2
-    Extensions](https://albert-rapp.de/posts/ggplot2-tips/20_ggplot_extensions/ggplot_extensions.html)
--   [Python Rgonomics](https://emilyriederer.netlify.app/post/py-rgo/)
 
 # General
 
@@ -492,6 +492,8 @@ listed below. Feel free to add additional links to the dataset.
     Packages](https://strengejacke.github.io/regressionmodels/)
 -   [Exploring Data Science with R and the Tidyverse: A Concise
     Introduction](https://ds4world.cs.miami.edu/)
+-   [Modern Data Visualization with
+    R](https://rkabacoff.github.io/datavis/)
 
 ## Python
 

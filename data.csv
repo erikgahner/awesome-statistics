@@ -1842,3 +1842,6 @@ id,title,url,category,dead,awesome,revision
 1841,"Overview of clustering methods in R",https://petolau.github.io/Overview-clustering-methods-in-R/,R,0,0,"2024-01-25"
 1842,"One billion row challenge using base R",http://blog.schochastics.net/posts/2024-01-08_one-billion-rows-challenge/,R,0,0,"2024-01-16"
 1843,"Six not-so-basic base R functions",https://ivelasq.rbind.io/blog/not-so-basic-base-r-functions/,R,0,0,"2024-01-18"
+1844,"Let's talk about joins",https://cghlewis.com/blog/joins/,R,0,0,"2024-01-20"
+1845,"Reading and Writing Data with {arrow}",https://www.jumpingrivers.com/blog/arrow-reading-writing-feather-hive-parquet/,R,0,0,"2024-01-22"
+1846,"Modern Data Visualization with R",https://rkabacoff.github.io/datavis/,R,0,1,"2024-01-23"
