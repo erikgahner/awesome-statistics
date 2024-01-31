@@ -1,12 +1,15 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1829 active links
-in the dataset. The 278 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1831 active links
+in the dataset. The 279 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Are connected scatterplots so
+    bad?](https://blog.datawrapper.de/connected-scatterplots/)
+-   [Feature Engineering A-Z](https://feaz-book.com/)
 -   [Modern Data Visualization with
     R](https://rkabacoff.github.io/datavis/)
 -   [Reading and Writing Data with
@@ -33,10 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     Introduction](https://ds4world.cs.miami.edu/)
 -   [R data.table
     Joins](https://medium.com/analytics-vidhya/r-data-table-joins-48f00b46ce29)
--   [Here’s why you should (almost) never use a pie chart for your
-    data.https://theconversation.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-214576](visualisation)
--   [Four ways to streamline your R
-    workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/)
 
 # General
 
@@ -494,6 +493,7 @@ listed below. Feel free to add additional links to the dataset.
     Introduction](https://ds4world.cs.miami.edu/)
 -   [Modern Data Visualization with
     R](https://rkabacoff.github.io/datavis/)
+-   [Feature Engineering A-Z](https://feaz-book.com/)
 
 ## Python
 

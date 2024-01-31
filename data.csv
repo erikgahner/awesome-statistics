@@ -1845,3 +1845,5 @@ id,title,url,category,dead,awesome,revision
 1844,"Let's talk about joins",https://cghlewis.com/blog/joins/,R,0,0,"2024-01-20"
 1845,"Reading and Writing Data with {arrow}",https://www.jumpingrivers.com/blog/arrow-reading-writing-feather-hive-parquet/,R,0,0,"2024-01-22"
 1846,"Modern Data Visualization with R",https://rkabacoff.github.io/datavis/,R,0,1,"2024-01-23"
+1847,"Feature Engineering A-Z",https://feaz-book.com/,R,0,1,"2024-01-29"
+1848,"Are connected scatterplots so bad?",https://blog.datawrapper.de/connected-scatterplots/,visualisation,0,0,"2024-01-31"
