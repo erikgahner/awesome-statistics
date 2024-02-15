@@ -1,12 +1,26 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1831 active links
+dealing with statistics and data. There is a total of 1838 active links
 in the dataset. The 279 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Splatter: How to make a mess with ggplot2 and
+    ambient](https://blog.djnavarro.net/posts/2024-01-26_splatter/)
+-   [more .I in
+    data.table](https://johnmackintosh.net/blog/2024-02-03-more-dot-i/)
+-   [new programming with
+    data.table](https://johnmackintosh.net/blog/2024-02-05-dt-programming/)
+-   [VS Code for R on
+    macOS](https://jimgar.github.io/posts/vs-code-macos-r/post.html)
+-   [Piping
+    data.tables](https://rdatatable-community.github.io/The-Raft/posts/2024-01-28-piping_data_tables-elio_campitelli/)
+-   [You ‘tidyr::complete()’
+    me](https://luisdva.github.io/rstats/complete/)
+-   [Correlation heat maps with
+    {ggplot2}](https://albert-rapp.de/posts/ggplot2-tips/24_correlation_heat_map/24_correlation_heat_map.html)
 -   [Are connected scatterplots so
     bad?](https://blog.datawrapper.de/connected-scatterplots/)
 -   [Feature Engineering A-Z](https://feaz-book.com/)
@@ -21,21 +35,6 @@ listed below. Feel free to add additional links to the dataset.
     R](http://blog.schochastics.net/posts/2024-01-08_one-billion-rows-challenge/)
 -   [Overview of clustering methods in
     R](https://petolau.github.io/Overview-clustering-methods-in-R/)
--   [Advanced tips and tricks with
-    data.table](http://brooksandrew.github.io/simpleblog/articles/advanced-data-table/)
--   [6 Common ggplot2
-    Mistakes](https://albert-rapp.de/posts/ggplot2-tips/21_common_ggplot_mistakes/21_common_ggplot_mistakes.html)
--   [Awesome official statistics
-    software](https://github.com/SNStatComp/awesome-official-statistics-software)
--   [DIY API with Make and
-    {plumber}](https://www.andrewheiss.com/blog/2024/01/12/diy-api-plumber-quarto-ojs/_book/)
--   [Redacting identifying information with computational methods in
-    large text
-    data](https://www.pewresearch.org/decoded/2024/01/12/redacting-identifying-information-with-computational-methods-in-large-text-data/)
--   [Exploring Data Science with R and the Tidyverse: A Concise
-    Introduction](https://ds4world.cs.miami.edu/)
--   [R data.table
-    Joins](https://medium.com/analytics-vidhya/r-data-table-joins-48f00b46ce29)
 
 # General
 
