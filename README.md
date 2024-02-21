@@ -1,12 +1,20 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1838 active links
-in the dataset. The 279 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1842 active links
+in the dataset. The 280 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Why pandas feels clunky when coming from
+    R](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
+-   [Everything is a Linear
+    Model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
+-   [Modeling Short Time Series with Prior
+    Knowledge](https://minimizeregret.com/short-time-series-prior-knowledge)
+-   [Psychometrics in Exercises using R and
+    RStudio](https://bookdown.org/annabrown/psychometricsR/)
 -   [Splatter: How to make a mess with ggplot2 and
     ambient](https://blog.djnavarro.net/posts/2024-01-26_splatter/)
 -   [more .I in
@@ -28,13 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     R](https://rkabacoff.github.io/datavis/)
 -   [Reading and Writing Data with
     {arrow}](https://www.jumpingrivers.com/blog/arrow-reading-writing-feather-hive-parquet/)
--   [Let’s talk about joins](https://cghlewis.com/blog/joins/)
--   [Six not-so-basic base R
-    functions](https://ivelasq.rbind.io/blog/not-so-basic-base-r-functions/)
--   [One billion row challenge using base
-    R](http://blog.schochastics.net/posts/2024-01-08_one-billion-rows-challenge/)
--   [Overview of clustering methods in
-    R](https://petolau.github.io/Overview-clustering-methods-in-R/)
 
 # General
 
@@ -53,6 +54,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [An Introduction to Statistical
     Learning](https://www.statlearning.com/)
 -   [Wizard’s Guide to Statistics](https://cassandraxia.com/wizard/)
+-   [Everything is a Linear
+    Model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
 
 ## Probability and uncertainty
 

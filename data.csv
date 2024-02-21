@@ -1854,3 +1854,7 @@ id,title,url,category,dead,awesome,revision
 1853,"new programming with data.table",https://johnmackintosh.net/blog/2024-02-05-dt-programming/,R,0,0,"2024-02-12"
 1854,"more .I in data.table",https://johnmackintosh.net/blog/2024-02-03-more-dot-i/,R,0,0,"2024-02-12"
 1855,"Splatter: How to make a mess with ggplot2 and ambient",https://blog.djnavarro.net/posts/2024-01-26_splatter/,R,0,0,"2024-02-13"
+1856,"Psychometrics in Exercises using R and RStudio",https://bookdown.org/annabrown/psychometricsR/,R,0,0,"2024-02-17"
+1857,"Modeling Short Time Series with Prior Knowledge",https://minimizeregret.com/short-time-series-prior-knowledge,R,0,0,"2024-02-18"
+1858,"Everything is a Linear Model",https://danielroelfs.com/blog/everything-is-a-linear-model/,general,0,1,"2024-02-19"
+1859,"Why pandas feels clunky when coming from R",https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/,Python,0,0,"2024-02-20"
