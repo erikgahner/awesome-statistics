@@ -1858,3 +1858,6 @@ id,title,url,category,dead,awesome,revision
 1857,"Modeling Short Time Series with Prior Knowledge",https://minimizeregret.com/short-time-series-prior-knowledge,R,0,0,"2024-02-18"
 1858,"Everything is a Linear Model",https://danielroelfs.com/blog/everything-is-a-linear-model/,general,0,1,"2024-02-19"
 1859,"Why pandas feels clunky when coming from R",https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/,Python,0,0,"2024-02-20"
+1860,"How to create diverging bar plots",https://albert-rapp.de/posts/ggplot2-tips/22_diverging_bar_plot/22_diverging_bar_plot.html,R,0,0,"2024-02-25"
+1861,"Balanced sampling in R, Julia, and R + Julia",https://www.practicalsignificance.com/posts/cube-method-in-r-and-julia/,Julia,0,0,"2024-02-07"
+1862,"What to consider when creating small multiple line charts",https://blog.datawrapper.de/what-to-consider-when-creating-small-multiple-line-charts/,visualisation,0,0,"2024-02-07"

@@ -1,12 +1,18 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1842 active links
+dealing with statistics and data. There is a total of 1845 active links
 in the dataset. The 280 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [What to consider when creating small multiple line
+    charts](https://blog.datawrapper.de/what-to-consider-when-creating-small-multiple-line-charts/)
+-   [Balanced sampling in R, Julia, and R +
+    Julia](https://www.practicalsignificance.com/posts/cube-method-in-r-and-julia/)
+-   [How to create diverging bar
+    plots](https://albert-rapp.de/posts/ggplot2-tips/22_diverging_bar_plot/22_diverging_bar_plot.html)
 -   [Why pandas feels clunky when coming from
     R](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
 -   [Everything is a Linear
@@ -31,11 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     {ggplot2}](https://albert-rapp.de/posts/ggplot2-tips/24_correlation_heat_map/24_correlation_heat_map.html)
 -   [Are connected scatterplots so
     bad?](https://blog.datawrapper.de/connected-scatterplots/)
--   [Feature Engineering A-Z](https://feaz-book.com/)
--   [Modern Data Visualization with
-    R](https://rkabacoff.github.io/datavis/)
--   [Reading and Writing Data with
-    {arrow}](https://www.jumpingrivers.com/blog/arrow-reading-writing-feather-hive-parquet/)
 
 # General
 
