@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1845 active links
-in the dataset. The 280 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1850 active links
+in the dataset. The 281 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Spring clean your R
+    packages](https://www.jumpingrivers.com/blog/spring-clean-r-package-usethis/)
+-   [Plotting data in
+    Julia](https://blog.djnavarro.net/posts/2024-03-03_julia-plots/)
+-   [Working with data in
+    Julia](https://blog.djnavarro.net/posts/2024-03-02_julia-data-frames/)
+-   [A foundation in
+    Julia](https://blog.djnavarro.net/posts/2024-03-01_julia-foundation/)
+-   [Advanced Data Science Statistics and Prediction Algorithms Through
+    Case Studies](http://rafalab.dfci.harvard.edu/dsbook-part-2/)
 -   [What to consider when creating small multiple line
     charts](https://blog.datawrapper.de/what-to-consider-when-creating-small-multiple-line-charts/)
 -   [Balanced sampling in R, Julia, and R +
@@ -27,16 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     data.table](https://johnmackintosh.net/blog/2024-02-03-more-dot-i/)
 -   [new programming with
     data.table](https://johnmackintosh.net/blog/2024-02-05-dt-programming/)
--   [VS Code for R on
-    macOS](https://jimgar.github.io/posts/vs-code-macos-r/post.html)
--   [Piping
-    data.tables](https://rdatatable-community.github.io/The-Raft/posts/2024-01-28-piping_data_tables-elio_campitelli/)
--   [You ‘tidyr::complete()’
-    me](https://luisdva.github.io/rstats/complete/)
--   [Correlation heat maps with
-    {ggplot2}](https://albert-rapp.de/posts/ggplot2-tips/24_correlation_heat_map/24_correlation_heat_map.html)
--   [Are connected scatterplots so
-    bad?](https://blog.datawrapper.de/connected-scatterplots/)
 
 # General
 
@@ -471,7 +471,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [R Without Statistics](https://book.rwithoutstatistics.com/)
 -   [Supervised Machine Learning for Text Analysis in
     R](https://smltar.com/)
--   [Introduction to Data Science](https://rafalab.github.io/dsbook/)
+-   [Introduction to Data Science: Data Wrangling and Visualization with
+    R](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
 -   [Tidy Finance with R](https://www.tidy-finance.org/)
 -   [Regression Modeling Strategies](http://hbiostat.org/rmsc/)
 -   [Introduction to Multilevel Modelling](https://www.learn-mlms.com/)
@@ -553,6 +554,12 @@ listed below. Feel free to add additional links to the dataset.
     Hackers](https://datasciencejuliahackers.com/)
 -   [Geospatial Data Science with
     Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
+-   [A foundation in
+    Julia](https://blog.djnavarro.net/posts/2024-03-01_julia-foundation/)
+-   [Working with data in
+    Julia](https://blog.djnavarro.net/posts/2024-03-02_julia-data-frames/)
+-   [Plotting data in
+    Julia](https://blog.djnavarro.net/posts/2024-03-03_julia-plots/)
 
 ## Stata
 
