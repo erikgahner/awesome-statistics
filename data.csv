@@ -1866,3 +1866,6 @@ id,title,url,category,dead,awesome,revision
 1865,"Working with data in Julia",https://blog.djnavarro.net/posts/2024-03-02_julia-data-frames/,Julia,0,1,"2024-03-03"
 1866,"Plotting data in Julia",https://blog.djnavarro.net/posts/2024-03-03_julia-plots/,Julia,0,1,"2024-03-03"
 1867,"Spring clean your R packages",https://www.jumpingrivers.com/blog/spring-clean-r-package-usethis/,R,0,0,"2024-03-11"
+1868,"ggplot2 101",https://brunomioto.com/posts/intro_ggplot2/en/,R,0,0,"2024-03-12"
+1869,"Drawing waterlines with ggplot2 in R",https://brunomioto.com/posts/waterlines/en/,R,0,0,"2024-03-12"
+1870,"Romeo and Julia, where Romeo is Basic Statistics",https://b-lukaszuk.github.io/RJ_BS_eng/,Julia,0,1,"2024-03-16"

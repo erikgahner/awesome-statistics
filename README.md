@@ -1,12 +1,17 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1850 active links
-in the dataset. The 281 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1853 active links
+in the dataset. The 282 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Romeo and Julia, where Romeo is Basic
+    Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
+-   [Drawing waterlines with ggplot2 in
+    R](https://brunomioto.com/posts/waterlines/en/)
+-   [ggplot2 101](https://brunomioto.com/posts/intro_ggplot2/en/)
 -   [Spring clean your R
     packages](https://www.jumpingrivers.com/blog/spring-clean-r-package-usethis/)
 -   [Plotting data in
@@ -31,12 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     Knowledge](https://minimizeregret.com/short-time-series-prior-knowledge)
 -   [Psychometrics in Exercises using R and
     RStudio](https://bookdown.org/annabrown/psychometricsR/)
--   [Splatter: How to make a mess with ggplot2 and
-    ambient](https://blog.djnavarro.net/posts/2024-01-26_splatter/)
--   [more .I in
-    data.table](https://johnmackintosh.net/blog/2024-02-03-more-dot-i/)
--   [new programming with
-    data.table](https://johnmackintosh.net/blog/2024-02-05-dt-programming/)
 
 # General
 
@@ -560,6 +559,8 @@ listed below. Feel free to add additional links to the dataset.
     Julia](https://blog.djnavarro.net/posts/2024-03-02_julia-data-frames/)
 -   [Plotting data in
     Julia](https://blog.djnavarro.net/posts/2024-03-03_julia-plots/)
+-   [Romeo and Julia, where Romeo is Basic
+    Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
 
 ## Stata
 
