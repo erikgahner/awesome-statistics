@@ -1,12 +1,17 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1853 active links
-in the dataset. The 282 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1856 active links
+in the dataset. The 283 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [What Does a Statistical Method
+    Assume?](https://www.fharrell.com/post/assume/)
+-   [Creating upset charts with
+    ggplot2](https://albert-rapp.de/posts/ggplot2-tips/26_upset_charts/26_upset_charts.html)
+-   [Using axis lines for good or evil](https://dynomight.net/axes/)
 -   [Romeo and Julia, where Romeo is Basic
     Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
 -   [Drawing waterlines with ggplot2 in
@@ -30,12 +35,6 @@ listed below. Feel free to add additional links to the dataset.
     plots](https://albert-rapp.de/posts/ggplot2-tips/22_diverging_bar_plot/22_diverging_bar_plot.html)
 -   [Why pandas feels clunky when coming from
     R](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
--   [Everything is a Linear
-    Model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
--   [Modeling Short Time Series with Prior
-    Knowledge](https://minimizeregret.com/short-time-series-prior-knowledge)
--   [Psychometrics in Exercises using R and
-    RStudio](https://bookdown.org/annabrown/psychometricsR/)
 
 # General
 
@@ -313,6 +312,8 @@ listed below. Feel free to add additional links to the dataset.
     charts](https://blog.datawrapper.de/in-defense-of-simple-charts/)
 -   [Dataviz Accessibility
     Resources](https://github.com/dataviza11y/resources)
+-   [Psyc 6135: Psychology of Data
+    Visualization](https://friendly.github.io/6135/)
 -   [10 ways to use fewer colors in your data
     visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/)
 -   [A detailed guide to colors in data vis style
