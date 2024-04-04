@@ -1872,3 +1872,6 @@ id,title,url,category,dead,awesome,revision
 1871,"Using axis lines for good or evil",https://dynomight.net/axes/,visualisation,0,0,"2024-03-23"
 1872,"Creating upset charts with ggplot2",https://albert-rapp.de/posts/ggplot2-tips/26_upset_charts/26_upset_charts.html,R,0,0,"2024-03-25"
 1873,"What Does a Statistical Method Assume?",https://www.fharrell.com/post/assume/,general,0,0,"2024-03-27"
+1874,"Reproducibility as part of code quality control",https://www.pewresearch.org/decoded/2024/03/28/reproducibility-as-part-of-code-quality-control/,replication,0,0,"2024-04-28"
+1875,"30 Python Language Features and Tricks You May Not Know About",https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html,Python,0,0,"2024-03-30"
+1876,"An Introduction to R",https://intro2r.com/,R,0,1,"2024-04-03"

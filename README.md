@@ -1,12 +1,17 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1856 active links
-in the dataset. The 283 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1859 active links
+in the dataset. The 284 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [An Introduction to R](https://intro2r.com/)
+-   [30 Python Language Features and Tricks You May Not Know
+    About](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
+-   [Reproducibility as part of code quality
+    control](https://www.pewresearch.org/decoded/2024/03/28/reproducibility-as-part-of-code-quality-control/)
 -   [What Does a Statistical Method
     Assume?](https://www.fharrell.com/post/assume/)
 -   [Creating upset charts with
@@ -29,12 +34,6 @@ listed below. Feel free to add additional links to the dataset.
     Case Studies](http://rafalab.dfci.harvard.edu/dsbook-part-2/)
 -   [What to consider when creating small multiple line
     charts](https://blog.datawrapper.de/what-to-consider-when-creating-small-multiple-line-charts/)
--   [Balanced sampling in R, Julia, and R +
-    Julia](https://www.practicalsignificance.com/posts/cube-method-in-r-and-julia/)
--   [How to create diverging bar
-    plots](https://albert-rapp.de/posts/ggplot2-tips/22_diverging_bar_plot/22_diverging_bar_plot.html)
--   [Why pandas feels clunky when coming from
-    R](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)
 
 # General
 
@@ -498,6 +497,7 @@ listed below. Feel free to add additional links to the dataset.
 -   [Modern Data Visualization with
     R](https://rkabacoff.github.io/datavis/)
 -   [Feature Engineering A-Z](https://feaz-book.com/)
+-   [An Introduction to R](https://intro2r.com/)
 
 ## Python
 
