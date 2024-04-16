@@ -1,12 +1,25 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1859 active links
+dealing with statistics and data. There is a total of 1865 active links
 in the dataset. The 284 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [The Truth About Tidy
+    Wrappers](https://outsiderdata.netlify.app/posts/2024-04-10-the-truth-about-tidy-wrappers/benchmark_wrappers.html)
+-   [How long until building complaints are dispositioned? A survival
+    analysis case
+    study](https://www.tidymodels.org/learn/statistics/survival-case-study/)
+-   [A Rant](https://www.hendrik-erz.de/post/a-rant)
+-   [Three Ways to Include Images in Your
+    ggplots](https://albert-rapp.de/posts/ggplot2-tips/27_images/27_images.html)
+-   [Visualizing {dplyr}’s mutate(), summarize(), group\_by(), and
+    ungroup() with
+    animations](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/)
+-   [Reading large spatial
+    data](https://www.jumpingrivers.com/blog/large-spatial-data-r-sql/)
 -   [An Introduction to R](https://intro2r.com/)
 -   [30 Python Language Features and Tricks You May Not Know
     About](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
@@ -22,18 +35,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [Drawing waterlines with ggplot2 in
     R](https://brunomioto.com/posts/waterlines/en/)
 -   [ggplot2 101](https://brunomioto.com/posts/intro_ggplot2/en/)
--   [Spring clean your R
-    packages](https://www.jumpingrivers.com/blog/spring-clean-r-package-usethis/)
--   [Plotting data in
-    Julia](https://blog.djnavarro.net/posts/2024-03-03_julia-plots/)
--   [Working with data in
-    Julia](https://blog.djnavarro.net/posts/2024-03-02_julia-data-frames/)
--   [A foundation in
-    Julia](https://blog.djnavarro.net/posts/2024-03-01_julia-foundation/)
--   [Advanced Data Science Statistics and Prediction Algorithms Through
-    Case Studies](http://rafalab.dfci.harvard.edu/dsbook-part-2/)
--   [What to consider when creating small multiple line
-    charts](https://blog.datawrapper.de/what-to-consider-when-creating-small-multiple-line-charts/)
 
 # General
 
