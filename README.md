@@ -1,12 +1,18 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1865 active links
+dealing with statistics and data. There is a total of 1868 active links
 in the dataset. The 284 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Create engaging tables with R or Python using
+    {gt}](https://albert-rapp.de/posts/22_gt_py_and_r/22_gt_py_and_r.html)
+-   [Kicking
+    tyres](https://www.hiddenelephants.co.uk/Blog/kicking-tyres.html)
+-   [On Indentation in
+    R](https://www.hiddenelephants.co.uk/Blog/on-indentation-in-R.html)
 -   [The Truth About Tidy
     Wrappers](https://outsiderdata.netlify.app/posts/2024-04-10-the-truth-about-tidy-wrappers/benchmark_wrappers.html)
 -   [How long until building complaints are dispositioned? A survival
@@ -30,11 +36,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [Creating upset charts with
     ggplot2](https://albert-rapp.de/posts/ggplot2-tips/26_upset_charts/26_upset_charts.html)
 -   [Using axis lines for good or evil](https://dynomight.net/axes/)
--   [Romeo and Julia, where Romeo is Basic
-    Statistics](https://b-lukaszuk.github.io/RJ_BS_eng/)
--   [Drawing waterlines with ggplot2 in
-    R](https://brunomioto.com/posts/waterlines/en/)
--   [ggplot2 101](https://brunomioto.com/posts/intro_ggplot2/en/)
 
 # General
 
