@@ -1,12 +1,18 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1868 active links
+dealing with statistics and data. There is a total of 1871 active links
 in the dataset. The 284 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Sketchy waffle charts in
+    R](https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/)
+-   [Correlation vs. Regression: A Key Difference That Many Analysts
+    Miss](https://medium.com/the-stata-gallery/correlation-vs-regression-a-key-difference-that-many-analysts-miss-3770c9b368d9)
+-   [Elicit Machine Learning Reading
+    List](https://github.com/elicit/machine-learning-list)
 -   [Create engaging tables with R or Python using
     {gt}](https://albert-rapp.de/posts/22_gt_py_and_r/22_gt_py_and_r.html)
 -   [Kicking
@@ -31,11 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     About](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 -   [Reproducibility as part of code quality
     control](https://www.pewresearch.org/decoded/2024/03/28/reproducibility-as-part-of-code-quality-control/)
--   [What Does a Statistical Method
-    Assume?](https://www.fharrell.com/post/assume/)
--   [Creating upset charts with
-    ggplot2](https://albert-rapp.de/posts/ggplot2-tips/26_upset_charts/26_upset_charts.html)
--   [Using axis lines for good or evil](https://dynomight.net/axes/)
 
 # General
 

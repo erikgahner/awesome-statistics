@@ -1884,3 +1884,6 @@ id,title,url,category,dead,awesome,revision
 1883,"On Indentation in R",https://www.hiddenelephants.co.uk/Blog/on-indentation-in-R.html,R,0,0,"2024-04-22"
 1884,"Kicking tyres",https://www.hiddenelephants.co.uk/Blog/kicking-tyres.html,R,0,0,"2024-04-22"
 1885,"Create engaging tables with R or Python using {gt}",https://albert-rapp.de/posts/22_gt_py_and_r/22_gt_py_and_r.html,Python,0,0,"2024-04-27"
+1886,"Elicit Machine Learning Reading List",https://github.com/elicit/machine-learning-list,machinelearning,0,0,"2024-05-01"
+1887,"Correlation vs. Regression: A Key Difference That Many Analysts Miss",https://medium.com/the-stata-gallery/correlation-vs-regression-a-key-difference-that-many-analysts-miss-3770c9b368d9,regression,0,0,"2024-05-01"
+1888,"Sketchy waffle charts in R",https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/,R,0,0,"2024-05-06"
