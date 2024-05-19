@@ -1,12 +1,16 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1871 active links
-in the dataset. The 284 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1873 active links
+in the dataset. The 285 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Calculus with
+    Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+-   [CS388: Natural Language
+    Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 -   [Sketchy waffle charts in
     R](https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/)
 -   [Correlation vs. Regression: A Key Difference That Many Analysts
@@ -33,10 +37,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [Reading large spatial
     data](https://www.jumpingrivers.com/blog/large-spatial-data-r-sql/)
 -   [An Introduction to R](https://intro2r.com/)
--   [30 Python Language Features and Tricks You May Not Know
-    About](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
--   [Reproducibility as part of code quality
-    control](https://www.pewresearch.org/decoded/2024/03/28/reproducibility-as-part-of-code-quality-control/)
 
 # General
 
@@ -250,6 +250,8 @@ listed below. Feel free to add additional links to the dataset.
     website](https://illustrated-machine-learning.github.io/)
 -   [A Course in Machine Learning](http://ciml.info/)
 -   [Deep Learning](https://www.deeplearningbook.org/)
+-   [CS388: Natural Language
+    Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 
 ## Experiments
 

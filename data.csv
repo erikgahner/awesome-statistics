@@ -1887,3 +1887,5 @@ id,title,url,category,dead,awesome,revision
 1886,"Elicit Machine Learning Reading List",https://github.com/elicit/machine-learning-list,machinelearning,0,0,"2024-05-01"
 1887,"Correlation vs. Regression: A Key Difference That Many Analysts Miss",https://medium.com/the-stata-gallery/correlation-vs-regression-a-key-difference-that-many-analysts-miss-3770c9b368d9,regression,0,0,"2024-05-01"
 1888,"Sketchy waffle charts in R",https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/,R,0,0,"2024-05-06"
+1889,"CS388: Natural Language Processing",https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html,machinelearning,0,1,"2024-05-11"
+1890,"Calculus with Julia",https://jverzani.github.io/CalculusWithJuliaNotes.jl/,Julia,0,0,"2024-05-18"
