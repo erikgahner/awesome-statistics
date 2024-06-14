@@ -1,12 +1,24 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1873 active links
+dealing with statistics and data. There is a total of 1879 active links
 in the dataset. The 285 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Shiny apps for demystifying statistical models and
+    methods](https://sites.google.com/view/ben-prytherch-shiny-apps)
+-   [Creating R tutorial worksheets (with and without solutions) using
+    Quarto](https://nrennie.rbind.io/blog/r-tutorial-worksheets-quarto/)
+-   [Statistical Power from Pilot Data: Simulations to
+    Illustrate](https://www.carlislerainey.com/blog/2024-06-03-pilot-power/)
+-   [Why you shouldn’t use
+    boxplots](https://albert-rapp.de/posts/ggplot2-tips/29_no_boxplots/29_no_boxplots.html)
+-   [Easy data cleaning with the janitor
+    package](https://albert-rapp.de/posts/07_janitor_showcase/07_janitor_showcase.html)
+-   [Find Out How many Times Faster your Code
+    is](https://www.njtierney.com/post/2024/05/17/summary-benchmark/)
 -   [Calculus with
     Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 -   [CS388: Natural Language
@@ -25,18 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     R](https://www.hiddenelephants.co.uk/Blog/on-indentation-in-R.html)
 -   [The Truth About Tidy
     Wrappers](https://outsiderdata.netlify.app/posts/2024-04-10-the-truth-about-tidy-wrappers/benchmark_wrappers.html)
--   [How long until building complaints are dispositioned? A survival
-    analysis case
-    study](https://www.tidymodels.org/learn/statistics/survival-case-study/)
--   [A Rant](https://www.hendrik-erz.de/post/a-rant)
--   [Three Ways to Include Images in Your
-    ggplots](https://albert-rapp.de/posts/ggplot2-tips/27_images/27_images.html)
--   [Visualizing {dplyr}’s mutate(), summarize(), group\_by(), and
-    ungroup() with
-    animations](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/)
--   [Reading large spatial
-    data](https://www.jumpingrivers.com/blog/large-spatial-data-r-sql/)
--   [An Introduction to R](https://intro2r.com/)
 
 # General
 
