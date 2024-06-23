@@ -1895,3 +1895,5 @@ id,title,url,category,dead,awesome,revision
 1894,"Statistical Power from Pilot Data: Simulations to Illustrate",https://www.carlislerainey.com/blog/2024-06-03-pilot-power/,samplesize,0,0,"2024-06-03"
 1895,"Creating R tutorial worksheets (with and without solutions) using Quarto",https://nrennie.rbind.io/blog/r-tutorial-worksheets-quarto/,R,0,0,"2024-06-03"
 1896,"Shiny apps for demystifying statistical models and methods",https://sites.google.com/view/ben-prytherch-shiny-apps,R,0,0,"2024-06-04"
+1897,"Causal Inference in R",https://www.r-causal.org/,R,0,1,"2024-06-15"
+1898,"I’ve Stopped Using Box Plots. Should You?",https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/,visualisation,0,0,"2024-06-23"

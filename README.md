@@ -1,12 +1,15 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1879 active links
-in the dataset. The 285 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1881 active links
+in the dataset. The 286 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [I’ve Stopped Using Box Plots. Should
+    You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
+-   [Causal Inference in R](https://www.r-causal.org/)
 -   [Shiny apps for demystifying statistical models and
     methods](https://sites.google.com/view/ben-prytherch-shiny-apps)
 -   [Creating R tutorial worksheets (with and without solutions) using
@@ -33,10 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     {gt}](https://albert-rapp.de/posts/22_gt_py_and_r/22_gt_py_and_r.html)
 -   [Kicking
     tyres](https://www.hiddenelephants.co.uk/Blog/kicking-tyres.html)
--   [On Indentation in
-    R](https://www.hiddenelephants.co.uk/Blog/on-indentation-in-R.html)
--   [The Truth About Tidy
-    Wrappers](https://outsiderdata.netlify.app/posts/2024-04-10-the-truth-about-tidy-wrappers/benchmark_wrappers.html)
 
 # General
 
@@ -503,6 +502,7 @@ listed below. Feel free to add additional links to the dataset.
     R](https://rkabacoff.github.io/datavis/)
 -   [Feature Engineering A-Z](https://feaz-book.com/)
 -   [An Introduction to R](https://intro2r.com/)
+-   [Causal Inference in R](https://www.r-causal.org/)
 
 ## Python
 
