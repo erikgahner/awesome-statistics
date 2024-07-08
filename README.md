@@ -1,12 +1,28 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1881 active links
-in the dataset. The 286 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1888 active links
+in the dataset. The 285 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Type safe(r) R
+    code](https://josiahparry.com/posts/2024-06-30-type-safety/)
+-   [Winners of the 2024 Table
+    Contest](https://posit.co/blog/2024-table-contest-winners/)
+-   [Ten simple rules for teaching an introduction to
+    R](https://doi.org/10.1371/journal.pcbi.1012018)
+-   [What packages belong together? Learning from R code
+    samples](http://hughjonesd.github.io/learning-from-codesamples.html)
+-   [Interactive Map Filter in
+    Shiny](https://brendenmsmith.com/blog/shiny_map_filter/)
+-   [A timeline of R’s first 30
+    years](https://www.jumpingrivers.com/blog/r-timeline/)
+-   [Your Journey to Fluent
+    Python](https://github.com/pro1code1hack/Your-Journey-To-Fluent-Python)
+-   [Data Wrangling Recipes in
+    R](https://bookdown.org/hcwatt99/Data_Wrangling_Recipes_in_R/)
 -   [I’ve Stopped Using Box Plots. Should
     You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 -   [Causal Inference in R](https://www.r-causal.org/)
@@ -20,22 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     boxplots](https://albert-rapp.de/posts/ggplot2-tips/29_no_boxplots/29_no_boxplots.html)
 -   [Easy data cleaning with the janitor
     package](https://albert-rapp.de/posts/07_janitor_showcase/07_janitor_showcase.html)
--   [Find Out How many Times Faster your Code
-    is](https://www.njtierney.com/post/2024/05/17/summary-benchmark/)
--   [Calculus with
-    Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
--   [CS388: Natural Language
-    Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
--   [Sketchy waffle charts in
-    R](https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/)
--   [Correlation vs. Regression: A Key Difference That Many Analysts
-    Miss](https://medium.com/the-stata-gallery/correlation-vs-regression-a-key-difference-that-many-analysts-miss-3770c9b368d9)
--   [Elicit Machine Learning Reading
-    List](https://github.com/elicit/machine-learning-list)
--   [Create engaging tables with R or Python using
-    {gt}](https://albert-rapp.de/posts/22_gt_py_and_r/22_gt_py_and_r.html)
--   [Kicking
-    tyres](https://www.hiddenelephants.co.uk/Blog/kicking-tyres.html)
 
 # General
 
@@ -450,7 +450,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [Mastering Shiny](https://mastering-shiny.org/)
 -   [Doing Meta-Analysis in R: A Hands-on
     Guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
--   [Quantitative Politics with R](http://qpolr.com/)
 -   [A ggplot2 Tutorial for Beautiful Plotting in
     R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 -   [R Cookbook, 2nd Edition](https://rc2e.com/)
