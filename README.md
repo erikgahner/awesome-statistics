@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1888 active links
+dealing with statistics and data. There is a total of 1893 active links
 in the dataset. The 285 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Choosing a Sequential Testing Framework — Comparisons and
+    Discussions](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/)
+-   [Settings, Keybindings, and Extensions for
+    Positron](https://christophertkenny.com/posts/2024-06-29-positron-settings/)
+-   [Coding in R and Python with
+    Positron](https://occasionaldivergences.com/posts/positron-intro/)
+-   [Fun with
+    Positron](https://www.andrewheiss.com/blog/2024/07/08/fun-with-positron/)
+-   [Introducing Positron: A New, Yet Familiar IDE for R and
+    Python](https://www.appsilon.com/post/introducing-positron)
 -   [Type safe(r) R
     code](https://josiahparry.com/posts/2024-06-30-type-safety/)
 -   [Winners of the 2024 Table
@@ -26,16 +36,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [I’ve Stopped Using Box Plots. Should
     You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 -   [Causal Inference in R](https://www.r-causal.org/)
--   [Shiny apps for demystifying statistical models and
-    methods](https://sites.google.com/view/ben-prytherch-shiny-apps)
--   [Creating R tutorial worksheets (with and without solutions) using
-    Quarto](https://nrennie.rbind.io/blog/r-tutorial-worksheets-quarto/)
--   [Statistical Power from Pilot Data: Simulations to
-    Illustrate](https://www.carlislerainey.com/blog/2024-06-03-pilot-power/)
--   [Why you shouldn’t use
-    boxplots](https://albert-rapp.de/posts/ggplot2-tips/29_no_boxplots/29_no_boxplots.html)
--   [Easy data cleaning with the janitor
-    package](https://albert-rapp.de/posts/07_janitor_showcase/07_janitor_showcase.html)
 
 # General
 
