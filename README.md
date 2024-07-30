@@ -1,12 +1,21 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1893 active links
+dealing with statistics and data. There is a total of 1898 active links
 in the dataset. The 285 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Deep Learning in
+    Julia](https://github.com/cpfiffer/julia-deeplearning)
+-   [Julia for Economists Bootcamp,
+    2022](https://github.com/cpfiffer/julia-bootcamp-2022)
+-   [tea-tasting: statistical analysis of A/B
+    tests](https://tea-tasting.e10v.me/)
+-   [A Comparison of Packages to Generate Codebooks in
+    R](https://cghlewis.com/talk/rladies_nyc/)
+-   [Applied Machine Learning for Tabular Data](https://aml4td.org/)
 -   [Choosing a Sequential Testing Framework — Comparisons and
     Discussions](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/)
 -   [Settings, Keybindings, and Extensions for
@@ -27,15 +36,6 @@ listed below. Feel free to add additional links to the dataset.
     samples](http://hughjonesd.github.io/learning-from-codesamples.html)
 -   [Interactive Map Filter in
     Shiny](https://brendenmsmith.com/blog/shiny_map_filter/)
--   [A timeline of R’s first 30
-    years](https://www.jumpingrivers.com/blog/r-timeline/)
--   [Your Journey to Fluent
-    Python](https://github.com/pro1code1hack/Your-Journey-To-Fluent-Python)
--   [Data Wrangling Recipes in
-    R](https://bookdown.org/hcwatt99/Data_Wrangling_Recipes_in_R/)
--   [I’ve Stopped Using Box Plots. Should
-    You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
--   [Causal Inference in R](https://www.r-causal.org/)
 
 # General
 

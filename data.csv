@@ -1910,3 +1910,8 @@ id,title,url,category,dead,awesome,revision
 1909,"Coding in R and Python with Positron",https://occasionaldivergences.com/posts/positron-intro/,R,0,0,"2024-07-24"
 1910,"Settings, Keybindings, and Extensions for Positron",https://christophertkenny.com/posts/2024-06-29-positron-settings/,R,0,0,"2024-07-24"
 1911,"Choosing a Sequential Testing Framework — Comparisons and Discussions",https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/,experiments,0,0,"2024-07-25"
+1912,"Applied Machine Learning for Tabular Data",https://aml4td.org/,R,0,0,"2024-07-26"
+1913,"A Comparison of Packages to Generate Codebooks in R",https://cghlewis.com/talk/rladies_nyc/,R,0,0,"2024-07-29"
+1914,"tea-tasting: statistical analysis of A/B tests",https://tea-tasting.e10v.me/,Python,0,0,"2024-07-29"
+1915,"Julia for Economists Bootcamp, 2022",https://github.com/cpfiffer/julia-bootcamp-2022,Julia,0,0,"2024-07-30"
+1916,"Deep Learning in Julia",https://github.com/cpfiffer/julia-deeplearning,Julia,0,0,"2024-07-30"
