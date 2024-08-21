@@ -1,12 +1,25 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1898 active links
-in the dataset. The 285 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1904 active links
+in the dataset. The 286 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Tidy DataFrames but not
+    Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
+-   [Seven basic rules for causal
+    inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
+-   [How to interpret and report nonlinear effects from Generalized
+    Additive
+    Models](https://ecogambler.netlify.app/blog/interpreting-gams/)
+-   [R package development in
+    Positron](https://blog.stephenturner.us/p/r-package-development-in-positron)
+-   [Positron IDE - A new IDE for data
+    science](https://drmowinckels.io/blog/2024/positron/)
+-   [Statistics Minus The Math: An Introduction for the Social
+    Sciences](https://minusthemath.com/)
 -   [Deep Learning in
     Julia](https://github.com/cpfiffer/julia-deeplearning)
 -   [Julia for Economists Bootcamp,
@@ -24,18 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     Positron](https://occasionaldivergences.com/posts/positron-intro/)
 -   [Fun with
     Positron](https://www.andrewheiss.com/blog/2024/07/08/fun-with-positron/)
--   [Introducing Positron: A New, Yet Familiar IDE for R and
-    Python](https://www.appsilon.com/post/introducing-positron)
--   [Type safe(r) R
-    code](https://josiahparry.com/posts/2024-06-30-type-safety/)
--   [Winners of the 2024 Table
-    Contest](https://posit.co/blog/2024-table-contest-winners/)
--   [Ten simple rules for teaching an introduction to
-    R](https://doi.org/10.1371/journal.pcbi.1012018)
--   [What packages belong together? Learning from R code
-    samples](http://hughjonesd.github.io/learning-from-codesamples.html)
--   [Interactive Map Filter in
-    Shiny](https://brendenmsmith.com/blog/shiny_map_filter/)
 
 # General
 
@@ -56,6 +57,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Wizard’s Guide to Statistics](https://cassandraxia.com/wizard/)
 -   [Everything is a Linear
     Model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
+-   [Statistics Minus The Math: An Introduction for the Social
+    Sciences](https://minusthemath.com/)
 
 ## Probability and uncertainty
 
