@@ -1,12 +1,25 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1904 active links
-in the dataset. The 286 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1911 active links
+in the dataset. The 287 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Generalized Additive Models (GAMs) for Meta-Regression using
+    brms](http://matthewbjane.com/blog-posts/blog-post-8.html)
+-   [R in Production](https://r-in-production.org/)
+-   [Five ways to improve your chart
+    axes](https://nrennie.rbind.io/blog/five-ways-improve-chart-axes/)
+-   [Exploring Complex Survey Data Analysis Using
+    R](https://tidy-survey-r.github.io/tidy-survey-book/)
+-   [Dev containers with R and
+    Quarto](https://jamesgoldie.dev/writing/dev-containers-in-r/)
+-   [Deep Learning Models for Causal
+    Inference](https://github.com/kochbj/Deep-Learning-for-Causal-Inference)
+-   [Models Demystified: A Practical Guide from t-tests to Deep
+    Learning](https://m-clark.github.io/book-of-models/)
 -   [Tidy DataFrames but not
     Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
 -   [Seven basic rules for causal
@@ -24,19 +37,6 @@ listed below. Feel free to add additional links to the dataset.
     Julia](https://github.com/cpfiffer/julia-deeplearning)
 -   [Julia for Economists Bootcamp,
     2022](https://github.com/cpfiffer/julia-bootcamp-2022)
--   [tea-tasting: statistical analysis of A/B
-    tests](https://tea-tasting.e10v.me/)
--   [A Comparison of Packages to Generate Codebooks in
-    R](https://cghlewis.com/talk/rladies_nyc/)
--   [Applied Machine Learning for Tabular Data](https://aml4td.org/)
--   [Choosing a Sequential Testing Framework — Comparisons and
-    Discussions](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/)
--   [Settings, Keybindings, and Extensions for
-    Positron](https://christophertkenny.com/posts/2024-06-29-positron-settings/)
--   [Coding in R and Python with
-    Positron](https://occasionaldivergences.com/posts/positron-intro/)
--   [Fun with
-    Positron](https://www.andrewheiss.com/blog/2024/07/08/fun-with-positron/)
 
 # General
 
@@ -505,6 +505,7 @@ listed below. Feel free to add additional links to the dataset.
 -   [Feature Engineering A-Z](https://feaz-book.com/)
 -   [An Introduction to R](https://intro2r.com/)
 -   [Causal Inference in R](https://www.r-causal.org/)
+-   [R in Production](https://r-in-production.org/)
 
 ## Python
 
