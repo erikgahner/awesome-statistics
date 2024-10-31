@@ -1,12 +1,24 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1911 active links
-in the dataset. The 287 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1918 active links
+in the dataset. The 289 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Python for R
+    users](https://blog.stephenturner.us/p/python-for-r-users)
+-   [Understanding Gaussians](https://gestalt.ink/gaussians)
+-   [Comparing data.table reshape to duckdb and
+    polars](https://rdatatable-community.github.io/The-Raft/posts/2024-10-17-duckdb_polars_reshape-toby_hocking/)
+-   [Nested unit tests with
+    testthat](https://rpahl.github.io/r-some-blog/posts/2024-10-07-nested-unit-tests-with-testthat/)
+-   [Visual Diagnostic Tools for Causal
+    Inference](https://r-causal.github.io/r-causal-blog/posts/visual-diagnostic-tools/)
+-   [Using property-based testing in
+    R](https://www.etiennebacher.com/posts/2024-10-01-using-property-testing-in-r/)
+-   [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 -   [Generalized Additive Models (GAMs) for Meta-Regression using
     brms](http://matthewbjane.com/blog-posts/blog-post-8.html)
 -   [R in Production](https://r-in-production.org/)
@@ -22,21 +34,6 @@ listed below. Feel free to add additional links to the dataset.
     Learning](https://m-clark.github.io/book-of-models/)
 -   [Tidy DataFrames but not
     Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
--   [Seven basic rules for causal
-    inference](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)
--   [How to interpret and report nonlinear effects from Generalized
-    Additive
-    Models](https://ecogambler.netlify.app/blog/interpreting-gams/)
--   [R package development in
-    Positron](https://blog.stephenturner.us/p/r-package-development-in-positron)
--   [Positron IDE - A new IDE for data
-    science](https://drmowinckels.io/blog/2024/positron/)
--   [Statistics Minus The Math: An Introduction for the Social
-    Sciences](https://minusthemath.com/)
--   [Deep Learning in
-    Julia](https://github.com/cpfiffer/julia-deeplearning)
--   [Julia for Economists Bootcamp,
-    2022](https://github.com/cpfiffer/julia-bootcamp-2022)
 
 # General
 
@@ -82,6 +79,7 @@ listed below. Feel free to add additional links to the dataset.
 
 -   [Understanding the t-distribution and its normal
     approximation](https://rpsychologist.com/d3/tdist/)
+-   [Understanding Gaussians](https://gestalt.ink/gaussians)
 
 ## Causality
 
@@ -346,6 +344,7 @@ listed below. Feel free to add additional links to the dataset.
     color](https://blog.datawrapper.de/emphasize-with-color-in-data-visualizations/)
 -   [How to design a useful (and fun!) color key for your data
     visualization](https://blog.datawrapper.de/color-keys-for-data-visualizations/)
+-   [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 
 # Data
 
