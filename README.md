@@ -1,12 +1,26 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1918 active links
-in the dataset. The 289 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1925 active links
+in the dataset. The 291 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Positron vs RStudio - is it time to
+    switch?](https://www.jumpingrivers.com/blog/why-move-to-positron-r/)
+-   [xkcd and Data
+    Science](https://davidlindelof.com/data-science-the-xkcd-edition/)
+-   [TIL: dplyr::mutate()’s .keep
+    argument](https://blog.stephenturner.us/p/dplyr-mutate-keep)
+-   [Tips for data entry in
+    Excel](https://cghlewis.com/blog/excel_entry/)
+-   [The brms Book: Applied Bayesian Regression Modelling Using R and
+    Stan](http://paulbuerkner.com/software/brms-book/)
+-   [The Polars vs pandas difference nobody is talking
+    about](https://labs.quansight.org/blog/dataframe-group-by)
+-   [Parameterized plots and reports with R and
+    Quarto](https://nrennie.rbind.io/blog/parameterized-plots-reports-r-quarto/)
 -   [Python for R
     users](https://blog.stephenturner.us/p/python-for-r-users)
 -   [Understanding Gaussians](https://gestalt.ink/gaussians)
@@ -21,19 +35,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 -   [Generalized Additive Models (GAMs) for Meta-Regression using
     brms](http://matthewbjane.com/blog-posts/blog-post-8.html)
--   [R in Production](https://r-in-production.org/)
--   [Five ways to improve your chart
-    axes](https://nrennie.rbind.io/blog/five-ways-improve-chart-axes/)
--   [Exploring Complex Survey Data Analysis Using
-    R](https://tidy-survey-r.github.io/tidy-survey-book/)
--   [Dev containers with R and
-    Quarto](https://jamesgoldie.dev/writing/dev-containers-in-r/)
--   [Deep Learning Models for Causal
-    Inference](https://github.com/kochbj/Deep-Learning-for-Causal-Inference)
--   [Models Demystified: A Practical Guide from t-tests to Deep
-    Learning](https://m-clark.github.io/book-of-models/)
--   [Tidy DataFrames but not
-    Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
 
 # General
 
@@ -505,6 +506,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [An Introduction to R](https://intro2r.com/)
 -   [Causal Inference in R](https://www.r-causal.org/)
 -   [R in Production](https://r-in-production.org/)
+-   [The brms Book: Applied Bayesian Regression Modelling Using R and
+    Stan](http://paulbuerkner.com/software/brms-book/)
 
 ## Python
 
@@ -656,3 +659,5 @@ listed below. Feel free to add additional links to the dataset.
 -   [Bayesian survival analysis for Game of
     Thrones](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html)
 -   [Clickbait-Corrected p-Value](https://xkcd.com/2001/)
+-   [xkcd and Data
+    Science](https://davidlindelof.com/data-science-the-xkcd-edition/)
