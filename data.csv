@@ -1942,3 +1942,8 @@ id,title,url,category,dead,awesome,revision
 1941,"TIL: dplyr::mutate()'s .keep argument",https://blog.stephenturner.us/p/dplyr-mutate-keep,R,0,0,"2024-12-03"
 1942,"xkcd and Data Science",https://davidlindelof.com/data-science-the-xkcd-edition/,funny,0,1,"2024-12-03"
 1943,"Positron vs RStudio - is it time to switch?",https://www.jumpingrivers.com/blog/why-move-to-positron-r/,R,0,0,"2024-12-09"
+1944,"Dataviz accessibility principles, demonstrated by the 2024 presidential election dashboards",https://fossheim.io/writing/posts/2024-dataviz-a11y-elections/,visualisation,0,0,"2024-12-10"
+1945,"US Presidential Elections - A Bayesian Perspective",https://tomerzipori.github.io/blog/posts/elections2024/,R,0,0,"2025-01-13"
+1946,"Working with colours in R",https://nrennie.rbind.io/blog/colours-in-r/,R,0,0,"2025-01-13"
+1947,"Misleading graph",https://en.wikipedia.org/wiki/Misleading_graph,visualisation,0,0,"2025-01-15"
+1948,"From Default Python Line Chart to Journal-Quality Infographics",https://towardsdatascience.com/from-default-python-line-chart-to-journal-quality-infographics-80e3949eacc3,Python,0,0,"2025-01-21"

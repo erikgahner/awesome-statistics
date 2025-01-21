@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1925 active links
+dealing with statistics and data. There is a total of 1930 active links
 in the dataset. The 291 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [From Default Python Line Chart to Journal-Quality
+    Infographics](https://towardsdatascience.com/from-default-python-line-chart-to-journal-quality-infographics-80e3949eacc3)
+-   [Misleading graph](https://en.wikipedia.org/wiki/Misleading_graph)
+-   [Working with colours in
+    R](https://nrennie.rbind.io/blog/colours-in-r/)
+-   [US Presidential Elections - A Bayesian
+    Perspective](https://tomerzipori.github.io/blog/posts/elections2024/)
+-   [Dataviz accessibility principles, demonstrated by the 2024
+    presidential election
+    dashboards](https://fossheim.io/writing/posts/2024-dataviz-a11y-elections/)
 -   [Positron vs RStudio - is it time to
     switch?](https://www.jumpingrivers.com/blog/why-move-to-positron-r/)
 -   [xkcd and Data
@@ -26,15 +36,6 @@ listed below. Feel free to add additional links to the dataset.
 -   [Understanding Gaussians](https://gestalt.ink/gaussians)
 -   [Comparing data.table reshape to duckdb and
     polars](https://rdatatable-community.github.io/The-Raft/posts/2024-10-17-duckdb_polars_reshape-toby_hocking/)
--   [Nested unit tests with
-    testthat](https://rpahl.github.io/r-some-blog/posts/2024-10-07-nested-unit-tests-with-testthat/)
--   [Visual Diagnostic Tools for Causal
-    Inference](https://r-causal.github.io/r-causal-blog/posts/visual-diagnostic-tools/)
--   [Using property-based testing in
-    R](https://www.etiennebacher.com/posts/2024-10-01-using-property-testing-in-r/)
--   [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
--   [Generalized Additive Models (GAMs) for Meta-Regression using
-    brms](http://matthewbjane.com/blog-posts/blog-post-8.html)
 
 # General
 
