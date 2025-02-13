@@ -1,12 +1,25 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1930 active links
-in the dataset. The 291 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1936 active links
+in the dataset. The 292 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [Visualizing Data Is An Art - We Should Treat It Like
+    One](https://perthirtysix.com/visualizing-data-is-an-art)
+-   [Efficient Machine Learning with R: Low-Compute Predictive Modeling
+    with tidymodels](https://emlwr.org/)
+-   [Designing monochrome data
+    visualisations](https://nrennie.rbind.io/blog/monochrome-data-visualisations/)
+-   [Machine Learning in Production: From Models to
+    Products](https://mlip-cmu.github.io/book/)
+-   [Guide to comparing sample and population proportions with CPS data,
+    both classically and
+    Bayesianly](https://www.andrewheiss.com/blog/2025/01/27/ipums-cps-proportions-bayes/)
+-   [Modern Polars: A side-by-side comparison of the Polars and Pandas
+    libraries](https://kevinheavey.github.io/modern-polars/)
 -   [From Default Python Line Chart to Journal-Quality
     Infographics](https://towardsdatascience.com/from-default-python-line-chart-to-journal-quality-infographics-80e3949eacc3)
 -   [Misleading graph](https://en.wikipedia.org/wiki/Misleading_graph)
@@ -25,17 +38,6 @@ listed below. Feel free to add additional links to the dataset.
     argument](https://blog.stephenturner.us/p/dplyr-mutate-keep)
 -   [Tips for data entry in
     Excel](https://cghlewis.com/blog/excel_entry/)
--   [The brms Book: Applied Bayesian Regression Modelling Using R and
-    Stan](http://paulbuerkner.com/software/brms-book/)
--   [The Polars vs pandas difference nobody is talking
-    about](https://labs.quansight.org/blog/dataframe-group-by)
--   [Parameterized plots and reports with R and
-    Quarto](https://nrennie.rbind.io/blog/parameterized-plots-reports-r-quarto/)
--   [Python for R
-    users](https://blog.stephenturner.us/p/python-for-r-users)
--   [Understanding Gaussians](https://gestalt.ink/gaussians)
--   [Comparing data.table reshape to duckdb and
-    polars](https://rdatatable-community.github.io/The-Raft/posts/2024-10-17-duckdb_polars_reshape-toby_hocking/)
 
 # General
 
@@ -254,6 +256,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [Deep Learning](https://www.deeplearningbook.org/)
 -   [CS388: Natural Language
     Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
+-   [Machine Learning in Production: From Models to
+    Products](https://mlip-cmu.github.io/book/)
 
 ## Experiments
 
