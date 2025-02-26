@@ -1,43 +1,41 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1936 active links
-in the dataset. The 292 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1948 active links
+in the dataset. The 293 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+-   [The Best Way to Use Text Embeddings Portably is With Parquet and
+    Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
+-   [How to use a histogram as a legend in
+    {ggplot2}](https://www.andrewheiss.com/blog/2025/02/19/ggplot-histogram-legend/)
+-   [Data Frames as Vectors of
+    Rows](https://blog.davisvaughan.com/posts/2019-10-16-data-frames-as-a-vector-of-rows/)
+-   [Defense Against Dishonest
+    Charts](https://flowingdata.com/projects/dishonest-charts/)
+-   [Large Language Model tools for
+    R](https://luisdva.github.io/llmsr-book/)
+-   [Easy geom recipes](https://evamaerey.github.io/easy-geom-recipes/)
+-   [Beautiful Maps with R (V): Point
+    densities](https://dieghernan.github.io/202312_bertin_dots/)
+-   [Beautiful Maps with R (IV): Fun with flags
+    revisited](https://dieghernan.github.io/202201_maps-flags/)
+-   [Beautiful Maps with R (III): Patterns and hatched
+    maps](https://dieghernan.github.io/201912_Beautiful3/)
+-   [Beautiful Maps with R (II): Fun with
+    flags](https://dieghernan.github.io/201906_Beautiful2/)
+-   [Beautiful Maps with R (I): Fishnets, Honeycombs and
+    Pixels](https://dieghernan.github.io/201906_Beautiful1/)
+-   [Piping ggplot2 objects into
+    plotly](https://resulumit.com/blog/pipe-plotly/)
 -   [Visualizing Data Is An Art - We Should Treat It Like
     One](https://perthirtysix.com/visualizing-data-is-an-art)
 -   [Efficient Machine Learning with R: Low-Compute Predictive Modeling
     with tidymodels](https://emlwr.org/)
 -   [Designing monochrome data
     visualisations](https://nrennie.rbind.io/blog/monochrome-data-visualisations/)
--   [Machine Learning in Production: From Models to
-    Products](https://mlip-cmu.github.io/book/)
--   [Guide to comparing sample and population proportions with CPS data,
-    both classically and
-    Bayesianly](https://www.andrewheiss.com/blog/2025/01/27/ipums-cps-proportions-bayes/)
--   [Modern Polars: A side-by-side comparison of the Polars and Pandas
-    libraries](https://kevinheavey.github.io/modern-polars/)
--   [From Default Python Line Chart to Journal-Quality
-    Infographics](https://towardsdatascience.com/from-default-python-line-chart-to-journal-quality-infographics-80e3949eacc3)
--   [Misleading graph](https://en.wikipedia.org/wiki/Misleading_graph)
--   [Working with colours in
-    R](https://nrennie.rbind.io/blog/colours-in-r/)
--   [US Presidential Elections - A Bayesian
-    Perspective](https://tomerzipori.github.io/blog/posts/elections2024/)
--   [Dataviz accessibility principles, demonstrated by the 2024
-    presidential election
-    dashboards](https://fossheim.io/writing/posts/2024-dataviz-a11y-elections/)
--   [Positron vs RStudio - is it time to
-    switch?](https://www.jumpingrivers.com/blog/why-move-to-positron-r/)
--   [xkcd and Data
-    Science](https://davidlindelof.com/data-science-the-xkcd-edition/)
--   [TIL: dplyr::mutate()’s .keep
-    argument](https://blog.stephenturner.us/p/dplyr-mutate-keep)
--   [Tips for data entry in
-    Excel](https://cghlewis.com/blog/excel_entry/)
 
 # General
 
@@ -351,6 +349,8 @@ listed below. Feel free to add additional links to the dataset.
 -   [How to design a useful (and fun!) color key for your data
     visualization](https://blog.datawrapper.de/color-keys-for-data-visualizations/)
 -   [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+-   [Defense Against Dishonest
+    Charts](https://flowingdata.com/projects/dishonest-charts/)
 
 # Data
 
