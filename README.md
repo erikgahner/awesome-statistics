@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1955 active links
-in the dataset. The 294 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1961 active links
+in the dataset. The 295 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [tidyverse functions you might not know
+  about](https://benharrap.com/post/2025-05-23-tidyverse-functions/)
+- [When good pseudorandom numbers go
+  bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
+- [Fonts in R](https://www.tidyverse.org/blog/2025/05/fonts-in-r/)
+- [An Introduction to Bayesian Multi-Membership Models Using
+  brms](https://bradleyrentz.com/blog/2025/04/28/multimembership_brms_tutorial/)
+- [Sketchy waffle charts in
+  R](https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/)
+- [R Graphics Cookbook](https://r-graphics.org/)
 - [R, DuckDB and
   Me](https://rorylawless.github.io/posts/r-duckdb-and-me/)
 - [Statistical Inference via Data Science: A ModernDive into R and the
@@ -22,17 +32,6 @@ listed below. Feel free to add additional links to the dataset.
   Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 - [How to use a histogram as a legend in
   {ggplot2}](https://www.andrewheiss.com/blog/2025/02/19/ggplot-histogram-legend/)
-- [Data Frames as Vectors of
-  Rows](https://blog.davisvaughan.com/posts/2019-10-16-data-frames-as-a-vector-of-rows/)
-- [Defense Against Dishonest
-  Charts](https://flowingdata.com/projects/dishonest-charts/)
-- [Large Language Model tools for
-  R](https://luisdva.github.io/llmsr-book/)
-- [Easy geom recipes](https://evamaerey.github.io/easy-geom-recipes/)
-- [Beautiful Maps with R (V): Point
-  densities](https://dieghernan.github.io/202312_bertin_dots/)
-- [Beautiful Maps with R (IV): Fun with flags
-  revisited](https://dieghernan.github.io/202201_maps-flags/)
 
 # General
 
@@ -503,6 +502,7 @@ listed below. Feel free to add additional links to the dataset.
 - [R in Production](https://r-in-production.org/)
 - [The brms Book: Applied Bayesian Regression Modelling Using R and
   Stan](http://paulbuerkner.com/software/brms-book/)
+- [R Graphics Cookbook](https://r-graphics.org/)
 
 ## Python
 
