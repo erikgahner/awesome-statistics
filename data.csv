@@ -1978,3 +1978,8 @@ id,title,url,category,dead,awesome,revision
 1977,"Fonts in R",https://www.tidyverse.org/blog/2025/05/fonts-in-r/,R,0,0,"2025-05-21"
 1978,"When good pseudorandom numbers go bad",https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/,R,0,0,"2025-05-23"
 1979,"tidyverse functions you might not know about",https://benharrap.com/post/2025-05-23-tidyverse-functions/,R,0,0,"2025-05-23"
+1980,"Speed up your data science and scientific computing code",https://pythonspeed.com/datascience/,Python,0,0,"2025-05-23"
+1981,"A step-by-step chart makeover",https://nrennie.rbind.io/blog/chart-makeover/,R,0,0,"2025-05-24"
+1982,"Refactoring code with flir",https://www.etiennebacher.com/posts/2025-05-23-refactoring-code-with-flir/,R,0,0,"2025-05-24"
+1983,"The 80/20 Guide to R You Wish You Read Years Ago",https://borkar.substack.com/p/the-8020-guide-to-r-you-wish-you,R,0,0,"2025-05-24"
+1984,"Spatial machine learning with R: caret, tidymodels, and mlr3",https://geocompx.org/post/2025/sml-bp1/,R,0,0,"2025-05-29"

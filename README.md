@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1961 active links
+dealing with statistics and data. There is a total of 1966 active links
 in the dataset. The 295 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [Spatial machine learning with R: caret, tidymodels, and
+  mlr3](https://geocompx.org/post/2025/sml-bp1/)
+- [The 80/20 Guide to R You Wish You Read Years
+  Ago](https://borkar.substack.com/p/the-8020-guide-to-r-you-wish-you)
+- [Refactoring code with
+  flir](https://www.etiennebacher.com/posts/2025-05-23-refactoring-code-with-flir/)
+- [A step-by-step chart
+  makeover](https://nrennie.rbind.io/blog/chart-makeover/)
+- [Speed up your data science and scientific computing
+  code](https://pythonspeed.com/datascience/)
 - [tidyverse functions you might not know
   about](https://benharrap.com/post/2025-05-23-tidyverse-functions/)
 - [When good pseudorandom numbers go
@@ -24,14 +34,6 @@ listed below. Feel free to add additional links to the dataset.
 - [Python Developer Tooling Handbook](https://pydevtools.com/handbook/)
 - [The guide to gradients in R and
   ggplot2](https://jamesgoldie.dev/writing/stack-gradients-in-r/)
-- [Data Viz Showcase](https://github.com/SchmidtPaul/DataVizShowcase)
-- [Understand geom\_bar and its statistical
-  transformations](https://www.codingthepast.com/2025/02/24/geom_bar.html)
-- [Awesome Polars](https://github.com/ddotta/awesome-polars)
-- [The Best Way to Use Text Embeddings Portably is With Parquet and
-  Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
-- [How to use a histogram as a legend in
-  {ggplot2}](https://www.andrewheiss.com/blog/2025/02/19/ggplot-histogram-legend/)
 
 # General
 
