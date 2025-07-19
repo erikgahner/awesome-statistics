@@ -1,12 +1,26 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1966 active links
+dealing with statistics and data. There is a total of 1973 active links
 in the dataset. The 295 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [Learn Stan with brms, Part
+  III](https://solomonkurz.netlify.app/blog/2025-07-17-learn-stan-with-brms-part-iii/)
+- [Learn Stan with brms, Part
+  II](https://solomonkurz.netlify.app/blog/2025-07-13-learn-stan-with-brms-part-ii/)
+- [Pretty base
+  plots](https://poisonalien.github.io/basegraphics/baseplots.html)
+- [Learn Stan with brms, Part
+  I](https://solomonkurz.netlify.app/blog/2025-07-07-learn-stan-with-brms-part-i/)
+- [An Introduction to Behavior-Driven Development in
+  R](https://www.jakubsobolewski.com/blog/intro-to-bdd-in-r/)
+- [A friendly guide to choosing a chart
+  type](https://www.datawrapper.de/blog/chart-types-guide)
+- [From lab to real life: How your Shiny application can survive its
+  users](https://rtask.thinkr.fr/from-lab-to-real-life-how-your-shiny-application-can-survive-its-users/)
 - [Spatial machine learning with R: caret, tidymodels, and
   mlr3](https://geocompx.org/post/2025/sml-bp1/)
 - [The 80/20 Guide to R You Wish You Read Years
@@ -22,18 +36,6 @@ listed below. Feel free to add additional links to the dataset.
 - [When good pseudorandom numbers go
   bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
 - [Fonts in R](https://www.tidyverse.org/blog/2025/05/fonts-in-r/)
-- [An Introduction to Bayesian Multi-Membership Models Using
-  brms](https://bradleyrentz.com/blog/2025/04/28/multimembership_brms_tutorial/)
-- [Sketchy waffle charts in
-  R](https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/)
-- [R Graphics Cookbook](https://r-graphics.org/)
-- [R, DuckDB and
-  Me](https://rorylawless.github.io/posts/r-duckdb-and-me/)
-- [Statistical Inference via Data Science: A ModernDive into R and the
-  Tidyverse](https://moderndive.com/)
-- [Python Developer Tooling Handbook](https://pydevtools.com/handbook/)
-- [The guide to gradients in R and
-  ggplot2](https://jamesgoldie.dev/writing/stack-gradients-in-r/)
 
 # General
 
