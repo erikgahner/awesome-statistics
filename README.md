@@ -1,12 +1,26 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1973 active links
-in the dataset. The 295 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1980 active links
+in the dataset. The 297 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [Visualization for Social Data
+  Science](https://vis4sds.github.io/vis4sds/)
+- [Patterns, Predictions, and Actions: A story about machine
+  learning](https://mlstory.org/)
+- [Introduction to Julia for R
+  users](https://nrennie.rbind.io/blog/introduction-julia-r-users/)
+- [A Visual Exploration of Gaussian
+  Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+- [Simulating and Visualising the Central Limit
+  Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
+- [Animated Maps with {ggplot2} and
+  {gganimate}](https://www.jumpingrivers.com/blog/animated-map/)
+- [Within-person factorial experiments, log(normal) reaction-time
+  data](https://solomonkurz.netlify.app/blog/2025-07-20-within-person-factorial-experiments-log-normal-reaction-time-data/)
 - [Learn Stan with brms, Part
   III](https://solomonkurz.netlify.app/blog/2025-07-17-learn-stan-with-brms-part-iii/)
 - [Learn Stan with brms, Part
@@ -23,19 +37,6 @@ listed below. Feel free to add additional links to the dataset.
   users](https://rtask.thinkr.fr/from-lab-to-real-life-how-your-shiny-application-can-survive-its-users/)
 - [Spatial machine learning with R: caret, tidymodels, and
   mlr3](https://geocompx.org/post/2025/sml-bp1/)
-- [The 80/20 Guide to R You Wish You Read Years
-  Ago](https://borkar.substack.com/p/the-8020-guide-to-r-you-wish-you)
-- [Refactoring code with
-  flir](https://www.etiennebacher.com/posts/2025-05-23-refactoring-code-with-flir/)
-- [A step-by-step chart
-  makeover](https://nrennie.rbind.io/blog/chart-makeover/)
-- [Speed up your data science and scientific computing
-  code](https://pythonspeed.com/datascience/)
-- [tidyverse functions you might not know
-  about](https://benharrap.com/post/2025-05-23-tidyverse-functions/)
-- [When good pseudorandom numbers go
-  bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
-- [Fonts in R](https://www.tidyverse.org/blog/2025/05/fonts-in-r/)
 
 # General
 
@@ -253,6 +254,8 @@ listed below. Feel free to add additional links to the dataset.
   Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 - [Machine Learning in Production: From Models to
   Products](https://mlip-cmu.github.io/book/)
+- [Patterns, Predictions, and Actions: A story about machine
+  learning](https://mlstory.org/)
 
 ## Experiments
 
@@ -346,6 +349,8 @@ listed below. Feel free to add additional links to the dataset.
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 - [Defense Against Dishonest
   Charts](https://flowingdata.com/projects/dishonest-charts/)
+- [Visualization for Social Data
+  Science](https://vis4sds.github.io/vis4sds/)
 
 # Data
 
