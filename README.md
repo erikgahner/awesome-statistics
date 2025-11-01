@@ -1,12 +1,26 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1980 active links
+dealing with statistics and data. There is a total of 1987 active links
 in the dataset. The 297 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [Neon Ghosts with
+  ggplot2](https://drmowinckels.io/blog/2025/neon-ghosts/)
+- [Testing with
+  {testthat}](https://www.jumpingrivers.com/blog/r-testthat/)
+- [Mapply: When You Need to Iterate Over Multiple
+  Inputs](https://drmowinckels.io/blog/2025/mapply/)
+- [ggplot2
+  styling](https://www.tidyverse.org/blog/2025/10/ggplot2-styling/)
+- [Joining strings with missing data together in
+  R](https://benharrap.com/post/2025-09-24-combining-strings/)
+- [Exploring {ggplot2}’s Geoms and
+  Stats](https://blog.msbstats.info/posts/2025-09-16-exploring-ggplot2/)
+- [The Art of Data Visualization with
+  ggplot2](https://nrennie.rbind.io/art-of-viz/)
 - [Visualization for Social Data
   Science](https://vis4sds.github.io/vis4sds/)
 - [Patterns, Predictions, and Actions: A story about machine
@@ -23,20 +37,6 @@ listed below. Feel free to add additional links to the dataset.
   data](https://solomonkurz.netlify.app/blog/2025-07-20-within-person-factorial-experiments-log-normal-reaction-time-data/)
 - [Learn Stan with brms, Part
   III](https://solomonkurz.netlify.app/blog/2025-07-17-learn-stan-with-brms-part-iii/)
-- [Learn Stan with brms, Part
-  II](https://solomonkurz.netlify.app/blog/2025-07-13-learn-stan-with-brms-part-ii/)
-- [Pretty base
-  plots](https://poisonalien.github.io/basegraphics/baseplots.html)
-- [Learn Stan with brms, Part
-  I](https://solomonkurz.netlify.app/blog/2025-07-07-learn-stan-with-brms-part-i/)
-- [An Introduction to Behavior-Driven Development in
-  R](https://www.jakubsobolewski.com/blog/intro-to-bdd-in-r/)
-- [A friendly guide to choosing a chart
-  type](https://www.datawrapper.de/blog/chart-types-guide)
-- [From lab to real life: How your Shiny application can survive its
-  users](https://rtask.thinkr.fr/from-lab-to-real-life-how-your-shiny-application-can-survive-its-users/)
-- [Spatial machine learning with R: caret, tidymodels, and
-  mlr3](https://geocompx.org/post/2025/sml-bp1/)
 
 # General
 
