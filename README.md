@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1987 active links
-in the dataset. The 297 awesome/recommended links in the dataset are
+dealing with statistics and data. There is a total of 1988 active links
+in the dataset. The 296 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [Saloni’s guide to data
+  visualization](https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization)
+- [Things you may or you may not know in
+  ggplot2](https://joshuamarie.com/posts/09-ggplot2/)
+- [Ways to load / attach packages in
+  R](https://joshuamarie.com/posts/06-load-pkg/)
+- [Jarl: just another R
+  linter](https://www.etiennebacher.com/posts/2025-11-20-introducing-jarl/)
+- [An Introduction to Writing Your Own ggplot2
+  Geoms](https://rworks.dev/posts/ggplot2-extensions/)
 - [Neon Ghosts with
   ggplot2](https://drmowinckels.io/blog/2025/neon-ghosts/)
 - [Testing with
@@ -27,16 +37,6 @@ listed below. Feel free to add additional links to the dataset.
   learning](https://mlstory.org/)
 - [Introduction to Julia for R
   users](https://nrennie.rbind.io/blog/introduction-julia-r-users/)
-- [A Visual Exploration of Gaussian
-  Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
-- [Simulating and Visualising the Central Limit
-  Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
-- [Animated Maps with {ggplot2} and
-  {gganimate}](https://www.jumpingrivers.com/blog/animated-map/)
-- [Within-person factorial experiments, log(normal) reaction-time
-  data](https://solomonkurz.netlify.app/blog/2025-07-20-within-person-factorial-experiments-log-normal-reaction-time-data/)
-- [Learn Stan with brms, Part
-  III](https://solomonkurz.netlify.app/blog/2025-07-17-learn-stan-with-brms-part-iii/)
 
 # General
 
@@ -123,9 +123,6 @@ listed below. Feel free to add additional links to the dataset.
 
 ## Hypothesis testing
 
-- [Misinterpretations of Significance: A Problem Students Share with
-  Their
-  Teachers?](https://www.metheval.uni-jena.de/lehre/0405-ws/evaluationuebung/haller.pdf)
 - [The Null Ritual: What You Always Wanted to Know About Significance
   Testing but Were Afraid to
   Ask](http://library.mpib-berlin.mpg.de/ft/gg/GG_Null_2004.pdf)
