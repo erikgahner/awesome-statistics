@@ -1,12 +1,20 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1988 active links
+dealing with statistics and data. There is a total of 1992 active links
 in the dataset. The 296 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [How to create a more accessible line
+  chart](https://nrennie.rbind.io/blog/accessible-line-chart/)
+- [Doing Bayesian Data Analysis in brms and the
+  tidyverse](https://solomon.quarto.pub/dbda2/)
+- [Three levels to compose R
+  functions](https://joshuamarie.com/posts/11-composing-r-function/)
+- [Broken Chart: discover 9 visualization
+  alternatives](https://dominicroye.github.io/blog/2025-12-14-broken-charts/)
 - [Saloni’s guide to data
   visualization](https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization)
 - [Things you may or you may not know in
@@ -29,14 +37,6 @@ listed below. Feel free to add additional links to the dataset.
   R](https://benharrap.com/post/2025-09-24-combining-strings/)
 - [Exploring {ggplot2}’s Geoms and
   Stats](https://blog.msbstats.info/posts/2025-09-16-exploring-ggplot2/)
-- [The Art of Data Visualization with
-  ggplot2](https://nrennie.rbind.io/art-of-viz/)
-- [Visualization for Social Data
-  Science](https://vis4sds.github.io/vis4sds/)
-- [Patterns, Predictions, and Actions: A story about machine
-  learning](https://mlstory.org/)
-- [Introduction to Julia for R
-  users](https://nrennie.rbind.io/blog/introduction-julia-r-users/)
 
 # General
 

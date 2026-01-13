@@ -2009,3 +2009,7 @@ id,title,url,category,dead,awesome,revision
 2008,"Ways to load / attach packages in R",https://joshuamarie.com/posts/06-load-pkg/,R,0,0,"2025-11-26"
 2009,"Things you may or you may not know in ggplot2",https://joshuamarie.com/posts/09-ggplot2/,R,0,0,"2025-12-06"
 2010,"Saloni's guide to data visualization",https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization,visualisation,0,0,"2025-12-11"
+2011,"Broken Chart: discover 9 visualization alternatives",https://dominicroye.github.io/blog/2025-12-14-broken-charts/,visualisation,0,0,"2025-12-19"
+2012,"Three levels to compose R functions",https://joshuamarie.com/posts/11-composing-r-function/,R,0,0,"2025-12-26"
+2013,"Doing Bayesian Data Analysis in brms and the tidyverse",https://solomon.quarto.pub/dbda2/,R,0,0,"2026-01-03"
+2014,"How to create a more accessible line chart",https://nrennie.rbind.io/blog/accessible-line-chart/,visualisation,0,0,"2026-01-13"
