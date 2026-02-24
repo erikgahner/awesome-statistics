@@ -202,6 +202,7 @@ listed below. Feel free to add additional links to the dataset.
 - [Meta-analyses are no substitute for registered replications: a
   skeptical perspective on religious
   priming](https://doi.org/10.3389/fpsyg.2015.01365)
+- [MetaReview](https://github.com/TerryFYL/metareview) - Free, open-source, browser-based meta-analysis tool with forest plots, funnel plots, and AI literature screening
 
 ## Hierarchical modeling
 
