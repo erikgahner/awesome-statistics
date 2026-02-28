@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1992 active links
+dealing with statistics and data. There is a total of 1998 active links
 in the dataset. The 296 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [Modern Julia Workflows](https://modernjuliaworkflows.org/)
+- [Intro to PyTorch: Easy to follow, visual
+  introduction](https://0byte.io/articles/pytorch_introduction.html)
+- [Introduction to building (better) R
+  packages](https://www.youtube.com/watch?v=Y8KrraoYqMg)
+- [Trying out dplyr 1.2.0](https://cghlewis.com/blog/dplyr_update/)
+- [Deep Analysis with Polars: Transforming and Visualizing Data for
+  Insights](https://www.conterval.com/polars-book/)
+- [Hello Data Science: A Friendly Introduction with
+  Applications](https://hellodata.science/)
 - [How to create a more accessible line
   chart](https://nrennie.rbind.io/blog/accessible-line-chart/)
 - [Doing Bayesian Data Analysis in brms and the
@@ -25,18 +35,6 @@ listed below. Feel free to add additional links to the dataset.
   linter](https://www.etiennebacher.com/posts/2025-11-20-introducing-jarl/)
 - [An Introduction to Writing Your Own ggplot2
   Geoms](https://rworks.dev/posts/ggplot2-extensions/)
-- [Neon Ghosts with
-  ggplot2](https://drmowinckels.io/blog/2025/neon-ghosts/)
-- [Testing with
-  {testthat}](https://www.jumpingrivers.com/blog/r-testthat/)
-- [Mapply: When You Need to Iterate Over Multiple
-  Inputs](https://drmowinckels.io/blog/2025/mapply/)
-- [ggplot2
-  styling](https://www.tidyverse.org/blog/2025/10/ggplot2-styling/)
-- [Joining strings with missing data together in
-  R](https://benharrap.com/post/2025-09-24-combining-strings/)
-- [Exploring {ggplot2}’s Geoms and
-  Stats](https://blog.msbstats.info/posts/2025-09-16-exploring-ggplot2/)
 
 # General
 
