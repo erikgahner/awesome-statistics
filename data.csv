@@ -2019,3 +2019,8 @@ id,title,url,category,dead,awesome,revision
 2018,"Introduction to building (better) R packages",https://www.youtube.com/watch?v=Y8KrraoYqMg,R,0,0,"2026-02-14"
 2019,"Intro to PyTorch: Easy to follow, visual introduction",https://0byte.io/articles/pytorch_introduction.html,Python,0,0,"2026-02-21"
 2020,"Modern Julia Workflows",https://modernjuliaworkflows.org/,Julia,0,0,"2026-02-27"
+2021,"Why I don't use {tidymodels}",https://mansthulin.se/posts/tidymodels/,R,0,0,"2026-03-02"
+2022,"Interactive beeswarm charts in R",https://nrennie.rbind.io/blog/interactive-beeswarm-r/,R,0,0,"2026-03-10"
+2023,"How to Estimate a Mean, and What It Means for Science",https://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/,general,0,0,"2026-03-22"
+2024,"Bayesian statistics for confused data scientists",https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/,Bayesian,0,0,"2026-03-23"
+2025,"Introducing ggauto: automating better charts",https://nrennie.rbind.io/blog/introducing-ggauto/,R,0,0,"2026-03-27"

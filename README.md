@@ -1,12 +1,22 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 1998 active links
+dealing with statistics and data. There is a total of 2003 active links
 in the dataset. The 296 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [Introducing ggauto: automating better
+  charts](https://nrennie.rbind.io/blog/introducing-ggauto/)
+- [Bayesian statistics for confused data
+  scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)
+- [How to Estimate a Mean, and What It Means for
+  Science](https://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/)
+- [Interactive beeswarm charts in
+  R](https://nrennie.rbind.io/blog/interactive-beeswarm-r/)
+- [Why I don’t use
+  {tidymodels}](https://mansthulin.se/posts/tidymodels/)
 - [Modern Julia Workflows](https://modernjuliaworkflows.org/)
 - [Intro to PyTorch: Easy to follow, visual
   introduction](https://0byte.io/articles/pytorch_introduction.html)
@@ -25,16 +35,6 @@ listed below. Feel free to add additional links to the dataset.
   functions](https://joshuamarie.com/posts/11-composing-r-function/)
 - [Broken Chart: discover 9 visualization
   alternatives](https://dominicroye.github.io/blog/2025-12-14-broken-charts/)
-- [Saloni’s guide to data
-  visualization](https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization)
-- [Things you may or you may not know in
-  ggplot2](https://joshuamarie.com/posts/09-ggplot2/)
-- [Ways to load / attach packages in
-  R](https://joshuamarie.com/posts/06-load-pkg/)
-- [Jarl: just another R
-  linter](https://www.etiennebacher.com/posts/2025-11-20-introducing-jarl/)
-- [An Introduction to Writing Your Own ggplot2
-  Geoms](https://rworks.dev/posts/ggplot2-extensions/)
 
 # General
 
