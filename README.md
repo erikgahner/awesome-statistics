@@ -400,6 +400,7 @@ listed below. Feel free to add additional links to the dataset.
   1871-2020](https://github.com/jalapic/engsoccerdata)
 - [Awesome Public
   Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Statistics of the World](https://statisticsoftheworld.com/api-docs) — Free API for GDP, population, inflation & 440+ economic indicators across 218 countries. Sources: IMF, World Bank, WHO, UN.
 
 # Statistical software
 
