@@ -1,12 +1,24 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 2003 active links
+dealing with statistics and data. There is a total of 2009 active links
 in the dataset. The 296 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [tufte-viz Claude Code skill — Edward Tufte data visualization
+  principles](https://gist.github.com/aparente/e48c353755958621b3c0004593105a90)
+- [Friends don’t let friends run moderated cross-country
+  regressions](https://www.the100.ci/2026/05/20/friends-dont-let-friends-run-moderated-cross-country-regressions/)
+- [Five ggplot2 functions I wish I’d known about
+  earlier](https://nrennie.rbind.io/blog/five-ggplot2-functions/)
+- [Are you ready for R? A Workbook for R for Political Science and
+  Beyond](https://strauszm.github.io/AreYouReady/docs/)
+- [Statistical Computing using R and
+  Python](https://srvanderplas.github.io/stat-computing-r-python/)
+- [Models as Prediction Machines: How to Convert Confusing Coefficients
+  Into Clear Quantities](https://doi.org/10.1177/25152459261424825)
 - [Introducing ggauto: automating better
   charts](https://nrennie.rbind.io/blog/introducing-ggauto/)
 - [Bayesian statistics for confused data
@@ -23,18 +35,6 @@ listed below. Feel free to add additional links to the dataset.
 - [Introduction to building (better) R
   packages](https://www.youtube.com/watch?v=Y8KrraoYqMg)
 - [Trying out dplyr 1.2.0](https://cghlewis.com/blog/dplyr_update/)
-- [Deep Analysis with Polars: Transforming and Visualizing Data for
-  Insights](https://www.conterval.com/polars-book/)
-- [Hello Data Science: A Friendly Introduction with
-  Applications](https://hellodata.science/)
-- [How to create a more accessible line
-  chart](https://nrennie.rbind.io/blog/accessible-line-chart/)
-- [Doing Bayesian Data Analysis in brms and the
-  tidyverse](https://solomon.quarto.pub/dbda2/)
-- [Three levels to compose R
-  functions](https://joshuamarie.com/posts/11-composing-r-function/)
-- [Broken Chart: discover 9 visualization
-  alternatives](https://dominicroye.github.io/blog/2025-12-14-broken-charts/)
 
 # General
 
