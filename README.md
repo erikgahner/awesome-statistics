@@ -1,12 +1,24 @@
 # Awesome statistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The repository consists of a dataset with curated links to material
-dealing with statistics and data. There is a total of 2009 active links
+dealing with statistics and data. There is a total of 2015 active links
 in the dataset. The 296 awesome/recommended links in the dataset are
 listed below. Feel free to add additional links to the dataset.
 
 # Most recent links added to the dataset
 
+- [The 4 Layers of Testing Every R Package
+  Needs](https://www.appsilon.com/post/4-layers-of-testing-every-r-package-needs)
+- [Binary logistic regression in
+  R](https://statsandr.com/blog/binary-logistic-regression-in-r/)
+- [The annotated PyTorch training
+  loop](https://idlemachines.co.uk/essays/pytorch-training-loop)
+- [The Data Analyst’s Guide to Cause and
+  Effect](https://theissbendixen.com/dag-book/)
+- [11 Test Smells That Make Your Tests Lie to
+  You](https://jakubsobolewski.com/blog/test-smells-in-r/)
+- [How to create a more accessible line
+  chart](https://nrennie.rbind.io/scrollytelling/posts/chart-styling/)
 - [tufte-viz Claude Code skill — Edward Tufte data visualization
   principles](https://gist.github.com/aparente/e48c353755958621b3c0004593105a90)
 - [Friends don’t let friends run moderated cross-country
@@ -25,16 +37,6 @@ listed below. Feel free to add additional links to the dataset.
   scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)
 - [How to Estimate a Mean, and What It Means for
   Science](https://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/)
-- [Interactive beeswarm charts in
-  R](https://nrennie.rbind.io/blog/interactive-beeswarm-r/)
-- [Why I don’t use
-  {tidymodels}](https://mansthulin.se/posts/tidymodels/)
-- [Modern Julia Workflows](https://modernjuliaworkflows.org/)
-- [Intro to PyTorch: Easy to follow, visual
-  introduction](https://0byte.io/articles/pytorch_introduction.html)
-- [Introduction to building (better) R
-  packages](https://www.youtube.com/watch?v=Y8KrraoYqMg)
-- [Trying out dplyr 1.2.0](https://cghlewis.com/blog/dplyr_update/)
 
 # General
 
