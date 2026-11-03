@@ -2036,3 +2036,4 @@ id,title,url,category,dead,awesome,revision
 2035,"The annotated PyTorch training loop",https://idlemachines.co.uk/essays/pytorch-training-loop,Python,0,0,"2026-06-27"
 2036,"Binary logistic regression in R",https://statsandr.com/blog/binary-logistic-regression-in-r/,R,0,0,"2026-07-02"
 2037,"The 4 Layers of Testing Every R Package Needs",https://www.appsilon.com/post/4-layers-of-testing-every-r-package-needs,R,0,0,"2026-07-03"
+2038,"StatOrigin: every number, back to its origin",https://statorigin.org/,data,0,1,"2026-11-04"
